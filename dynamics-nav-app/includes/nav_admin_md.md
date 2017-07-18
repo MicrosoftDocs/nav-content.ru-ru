@@ -1,0 +1,1 @@
+Инструмент Microsoft Dynamics NAV Server Administration

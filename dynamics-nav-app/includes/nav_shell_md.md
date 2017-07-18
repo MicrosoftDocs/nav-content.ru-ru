@@ -1,0 +1,1 @@
+Административная консоль Microsoft Dynamics NAV 2017

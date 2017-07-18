@@ -1,0 +1,1 @@
+Службы RapidStart для Microsoft Dynamics NAV

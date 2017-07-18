@@ -1,0 +1,1 @@
+Среда разработки Microsoft Dynamics NAV

@@ -1,0 +1,1 @@
+Только клиент Microsoft Dynamics NAV Windows

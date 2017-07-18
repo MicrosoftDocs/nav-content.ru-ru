@@ -1,0 +1,1 @@
+Клиент Microsoft Dynamics NAV для телефонов
