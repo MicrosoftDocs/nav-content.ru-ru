@@ -22,6 +22,7 @@
     "edupont@microsoft.com"
   ],
   "branches_to_filter": [],
+  "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
   "dependent_repositories": [
