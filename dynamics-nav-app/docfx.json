@@ -1,23 +1,30 @@
 {
   "build": {
-    "content":
-      [
-        {
-          "files": ["**/**.md"],
-          "exclude": ["**/obj/**"]
-        }
-      ],
+    "content": [
+      {
+        "files": [
+          "**/**.md"
+        ],
+        "exclude": [
+          "**/obj/**"
+        ]
+      }
+    ],
     "resource": [
-        {
-          "files": ["**/images/**"],
-          "exclude": ["**/obj/**"]
-        }
+      {
+        "files": [
+          "**/images/**"
+        ],
+        "exclude": [
+          "**/obj/**"
+        ]
+      }
     ],
     "globalMetadata": {
-        "ROBOTS": "INDEX, FOLLOW"
+      "ROBOTS": "INDEX, FOLLOW",
+      "bilingual_type": "hover over"
     },
-    "externalReference": [
-    ],
+    "externalReference": [],
     "template": "op.html",
     "dest": "articles"
   }
