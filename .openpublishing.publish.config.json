@@ -21,7 +21,9 @@
   "notification_subscribers": [
     "edupont@microsoft.com"
   ],
-  "branches_to_filter": [],
+  "branches_to_filter": [
+    "live-sxs"
+  ],
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
