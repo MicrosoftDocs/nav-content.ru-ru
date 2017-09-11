@@ -16,73 +16,73 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-defer-revenues-and-expenses"></a>Практическое руководство. Доходы и расходы будущих периодов
-Для выявления дохода или расхода в периоды, отличные от периода, в котором транзакция была учтена, можно использовать функцию автоматического отнесения доходов и расходов по указанному графику.
+# <a name="how-to-defer-revenues-and-expenses"></a><span data-ttu-id="aca02-102">Практическое руководство. Доходы и расходы будущих периодов</span><span class="sxs-lookup"><span data-stu-id="aca02-102">How to: Defer Revenues and Expenses</span></span>
+<span data-ttu-id="aca02-103">Для выявления дохода или расхода в периоды, отличные от периода, в котором транзакция была учтена, можно использовать функцию автоматического отнесения доходов и расходов по указанному графику.</span><span class="sxs-lookup"><span data-stu-id="aca02-103">To recognize a revenue or an expense in a period other than the period in which the transaction was posted, you can use functionality to automatically defer revenues and expenses over a specified schedule.</span></span>
 
-Чтобы распределять доходы или расходы на соответствующие отчетные периоды, требуется настроить шаблон РБП для ресурса, товара или счета ГК, для которых будет учитываться доход или расход. При учете связанного документа продажи или покупки доходы или расходы относятся к соответствующим учетным периодам в соответствии с графиком отнесения, который определяется настройками в шаблоне РБП и датой учета.
+<span data-ttu-id="aca02-104">Чтобы распределять доходы или расходы на соответствующие отчетные периоды, требуется настроить шаблон РБП для ресурса, товара или счета ГК, для которых будет учитываться доход или расход.</span><span class="sxs-lookup"><span data-stu-id="aca02-104">To distribute revenues or expenses on the involved accounting periods, you set up a deferral template for the resource, item, or G/L account that the revenue or expense will be posted for.</span></span> <span data-ttu-id="aca02-105">При учете связанного документа продажи или покупки доходы или расходы относятся к соответствующим учетным периодам в соответствии с графиком отнесения, который определяется настройками в шаблоне РБП и датой учета.</span><span class="sxs-lookup"><span data-stu-id="aca02-105">When you post the related sales or purchase document, the revenue or expense are deferred to the involved accounting periods, according to a deferral schedule that is governed by settings in the deferral template and the posting date.</span></span>
 
-## <a name="to-set-up-a-gl-account-for-deferral"></a>Настройка счета ГК для РБП
-1. В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **План счетов**, а затем выберите связанную ссылку.
-2. Выберите действие **Создать**.
-3. Требуемым образом заполните поля, чтобы создать счет ГК для доходов будущих периодов. Дополнительные сведения см. в разделе [Главная книга и план счетов](finance-setup-general-ledger.md).
-3. Повторите шаги 2 и 3, чтобы создать новый счет ГК для расходов будущих периодов.
+## <a name="to-set-up-a-gl-account-for-deferral"></a><span data-ttu-id="aca02-106">Настройка счета ГК для РБП</span><span class="sxs-lookup"><span data-stu-id="aca02-106">To set up a G/L account for deferral</span></span>
+1. <span data-ttu-id="aca02-107">В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **План счетов**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="aca02-107">In the top right corner, choose the **Search for Page or Report** icon, enter **Chart of Accounts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="aca02-108">Выберите действие **Создать**.</span><span class="sxs-lookup"><span data-stu-id="aca02-108">Choose the **New** action.</span></span>
+3. <span data-ttu-id="aca02-109">Требуемым образом заполните поля, чтобы создать счет ГК для доходов будущих периодов.</span><span class="sxs-lookup"><span data-stu-id="aca02-109">Fill in the fields as necessary to create a G/L account for deferred revenues.</span></span> <span data-ttu-id="aca02-110">Дополнительные сведения см. в разделе [Главная книга и план счетов](finance-setup-general-ledger.md).</span><span class="sxs-lookup"><span data-stu-id="aca02-110">For more information, see [The General Ledger and the Chart of Accounts](finance-setup-general-ledger.md).</span></span>
+3. <span data-ttu-id="aca02-111">Повторите шаги 2 и 3, чтобы создать новый счет ГК для расходов будущих периодов.</span><span class="sxs-lookup"><span data-stu-id="aca02-111">Repeat steps 2 and 3 to create a new G/L account for deferred expenses.</span></span>
 
-Для обоих типов будущих периодов выберите **Балансовый отчет** в поле **Тип** и задайте соответствующие названия счетов, например "Незаработанные доходы" для доходов будущих периодов и "Неоплаченные расходы" расходов будущих периодов.
+<span data-ttu-id="aca02-112">Для обоих типов будущих периодов выберите **Балансовый отчет** в поле **Тип** и задайте соответствующие названия счетов, например "Незаработанные доходы" для доходов будущих периодов и "Неоплаченные расходы" расходов будущих периодов.</span><span class="sxs-lookup"><span data-stu-id="aca02-112">For both types of deferral, select **Balance Sheet** in the **Type** field, and name the accounts appropriately, such as "Unearned Income" for deferred revenues and "Unpaid Expenses" for deferred expenses.</span></span>
 
-## <a name="to-set-up-a-deferral-template"></a>Настройка шаблона РБП
-1. В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Шаблоны РБП**, затем выберите связанную ссылку.
-2. Выберите действие **Создать**.
-3. Заполните соответствующим образом поля.
-4. В поле **Метод расчета** укажите, как рассчитывается поле **Сумма** для каждого периода в окне **Расписание РБП**. Можно выбирать из следующих параметров:
-    - **Линейный**: периодические суммы РБП рассчитываются согласно числу периодов, распределенные в соответствии с длительностью периода.
-    - **Равномерно по периодам**: периодические суммы РБП рассчитываются согласно числу периодов, распределенные равномерно по периодам.
-    - **Дни по периодам**: периодические суммы РБП рассчитываются согласно числу дней в периоде.
-    - **Определяется пользователем**: периодические суммы РБП не рассчитываются. Необходимо вручную ввести значения в поле «Сумма» за каждый период в окне «Расписание РБП». Дополнительные сведения см. в разделе "Изменение расписания РБП из счета продажи".
+## <a name="to-set-up-a-deferral-template"></a><span data-ttu-id="aca02-113">Настройка шаблона РБП</span><span class="sxs-lookup"><span data-stu-id="aca02-113">To set up a deferral template</span></span>
+1. <span data-ttu-id="aca02-114">В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Шаблоны РБП**, затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="aca02-114">In the top right corner, choose the **Search for Page or Report** icon, enter **Deferral Templates**, and then choose the related link.</span></span>
+2. <span data-ttu-id="aca02-115">Выберите действие **Создать**.</span><span class="sxs-lookup"><span data-stu-id="aca02-115">Choose the **New** action.</span></span>
+3. <span data-ttu-id="aca02-116">Заполните соответствующим образом поля.</span><span class="sxs-lookup"><span data-stu-id="aca02-116">Fill in the fields as necessary.</span></span>
+4. <span data-ttu-id="aca02-117">В поле **Метод расчета** укажите, как рассчитывается поле **Сумма** для каждого периода в окне **Расписание РБП**.</span><span class="sxs-lookup"><span data-stu-id="aca02-117">In the **Calc. Method** field, specify how the **Amount** field for each period in the **Deferral Schedule** window is calculated.</span></span> <span data-ttu-id="aca02-118">Можно выбирать из следующих параметров:</span><span class="sxs-lookup"><span data-stu-id="aca02-118">You can choose between the following options:</span></span>
+    - <span data-ttu-id="aca02-119">**Линейный**: периодические суммы РБП рассчитываются согласно числу периодов, распределенные в соответствии с длительностью периода.</span><span class="sxs-lookup"><span data-stu-id="aca02-119">**Straight-Line**: The periodic deferral amounts are calculated according to the number of periods, distributed according to period length.</span></span>
+    - <span data-ttu-id="aca02-120">**Равномерно по периодам**: периодические суммы РБП рассчитываются согласно числу периодов, распределенные равномерно по периодам.</span><span class="sxs-lookup"><span data-stu-id="aca02-120">**Equal Per Period**: The periodic deferral amounts are calculated according to the number of periods, distributed evenly on periods.</span></span>
+    - <span data-ttu-id="aca02-121">**Дни по периодам**: периодические суммы РБП рассчитываются согласно числу дней в периоде.</span><span class="sxs-lookup"><span data-stu-id="aca02-121">**Days Per Period**: The periodic deferral amounts are calculated according to the number of days in the period.</span></span>
+    - <span data-ttu-id="aca02-122">**Определяется пользователем**: периодические суммы РБП не рассчитываются.</span><span class="sxs-lookup"><span data-stu-id="aca02-122">**User-Defined**: The periodic deferral amounts are not calculated.</span></span> <span data-ttu-id="aca02-123">Необходимо вручную ввести значения в поле «Сумма» за каждый период в окне «Расписание РБП».</span><span class="sxs-lookup"><span data-stu-id="aca02-123">You must manually fill the Amount field for each period in the Deferral Schedule window.</span></span> <span data-ttu-id="aca02-124">Дополнительные сведения см. в разделе "Изменение расписания РБП из счета продажи".</span><span class="sxs-lookup"><span data-stu-id="aca02-124">For more information, see the “To change a deferral schedule from a sales invoice” section.</span></span>
 
-5. В поле **Описание периода** укажите описание, которое будет отображаться в операциях, предназначенных для учета как РБП. Можно ввести следующие коды места заполнения для типичных значений, которые будут автоматически вставлены при отображении описания периода.
-    - %1 = номер дня даты учета периода
-    - %2 = номер недели даты учета периода
-    - %3 = номер месяца даты учета периода
-    - %4 = название месяца даты учета периода
-    - %5 = название учетного периода даты учета периода
-    - %6 = финансовый год даты учета периода
+5. <span data-ttu-id="aca02-125">В поле **Описание периода**</span><span class="sxs-lookup"><span data-stu-id="aca02-125">In the **Period Desc.**</span></span> <span data-ttu-id="aca02-126">укажите описание, которое будет отображаться в операциях, предназначенных для учета как РБП.</span><span class="sxs-lookup"><span data-stu-id="aca02-126">field, specify a description that will be shown on entries for the deferral posting.</span></span> <span data-ttu-id="aca02-127">Можно ввести следующие коды места заполнения для типичных значений, которые будут автоматически вставлены при отображении описания периода.</span><span class="sxs-lookup"><span data-stu-id="aca02-127">You can enter the following placeholder codes for typical values, which will be inserted automatically when the period description is displayed.</span></span>
+    - <span data-ttu-id="aca02-128">%1 = номер дня даты учета периода</span><span class="sxs-lookup"><span data-stu-id="aca02-128">%1 = The day number of the period posting date</span></span>
+    - <span data-ttu-id="aca02-129">%2 = номер недели даты учета периода</span><span class="sxs-lookup"><span data-stu-id="aca02-129">%2 = The week number of the period posting date</span></span>
+    - <span data-ttu-id="aca02-130">%3 = номер месяца даты учета периода</span><span class="sxs-lookup"><span data-stu-id="aca02-130">%3 = The month number of the period posting date</span></span>
+    - <span data-ttu-id="aca02-131">%4 = название месяца даты учета периода</span><span class="sxs-lookup"><span data-stu-id="aca02-131">%4 = The month name of the period posting date</span></span>
+    - <span data-ttu-id="aca02-132">%5 = название учетного периода даты учета периода</span><span class="sxs-lookup"><span data-stu-id="aca02-132">%5 = The accounting period name of the period posting date</span></span>
+    - <span data-ttu-id="aca02-133">%6 = финансовый год даты учета периода</span><span class="sxs-lookup"><span data-stu-id="aca02-133">%6 = The fiscal year of the period posting date</span></span>
 
-Пример: дата учета 06.02.2016. Если введено "Расходы, отложенные на %4 %6", будет отображаться описание "Расходы, отложенные на февраль 2016".
+<span data-ttu-id="aca02-134">Пример: дата учета 06.02.2016.</span><span class="sxs-lookup"><span data-stu-id="aca02-134">Example: The posting date is 02/06/2016.</span></span> <span data-ttu-id="aca02-135">Если введено "Расходы, отложенные на %4 %6", будет отображаться описание "Расходы, отложенные на февраль 2016".</span><span class="sxs-lookup"><span data-stu-id="aca02-135">If you enter “Expenses deferred for %4 %6”, then the description displayed will be "Expenses deferred for February 2016".</span></span>
 
-## <a name="to-assign-a-deferral-template-to-an-item"></a>Присвоение шаблона РБП товару
-1. В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Шаблоны РБП**, затем выберите связанную ссылку.
-2. Откройте карточку товара, для которого необходимо отложить доходы или расходы на учетные периоды, когда товар был продан или приобретен.
-3. В поле **Шаблон РБП по умолчанию** выберите соответствующий шаблон РБП.
+## <a name="to-assign-a-deferral-template-to-an-item"></a><span data-ttu-id="aca02-136">Присвоение шаблона РБП товару</span><span class="sxs-lookup"><span data-stu-id="aca02-136">To assign a deferral template to an item</span></span>
+1. <span data-ttu-id="aca02-137">В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Шаблоны РБП**, затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="aca02-137">In the top right corner, choose the **Search for Page or Report** icon, enter **Deferral Templates**, and then choose the related link.</span></span>
+2. <span data-ttu-id="aca02-138">Откройте карточку товара, для которого необходимо отложить доходы или расходы на учетные периоды, когда товар был продан или приобретен.</span><span class="sxs-lookup"><span data-stu-id="aca02-138">Open the card for the item for which revenues or expenses must be deferred to the accounting periods when the item was sold or purchased.</span></span>
+3. <span data-ttu-id="aca02-139">В поле **Шаблон РБП по умолчанию** выберите соответствующий шаблон РБП.</span><span class="sxs-lookup"><span data-stu-id="aca02-139">In the **Default Deferral Template** field, select the relevant deferral template.</span></span>
 
-## <a name="to-change-a-deferral-schedule-from-a-sales-invoice"></a>Изменение расписания РБП из счета продажи
-**Примечание.** Шаги в этой процедуре совпадают с шагами при изменении расписания РБП для расходов из счета покупки.
+## <a name="to-change-a-deferral-schedule-from-a-sales-invoice"></a><span data-ttu-id="aca02-140">Изменение расписания РБП из счета продажи</span><span class="sxs-lookup"><span data-stu-id="aca02-140">To change a deferral schedule from a sales invoice</span></span>
+<span data-ttu-id="aca02-141">**Примечание.** Шаги в этой процедуре совпадают с шагами при изменении расписания РБП для расходов из счета покупки.</span><span class="sxs-lookup"><span data-stu-id="aca02-141">**Note**: The steps in this procedure are the same as when you change a deferral schedule, for expenses, from a purchase invoice.</span></span>
 
-1. В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Счета продажи**, затем выберите связанную ссылку.
-2. Создайте счет продажи для товара, у которого есть назначенный шаблон РБП. Дополнительные сведения см. в разделе [Практическое руководство. Выставление счетов продажи](sales-how-invoice-sales.md).
+1. <span data-ttu-id="aca02-142">В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Счета продажи**, затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="aca02-142">In the top right corner, choose the **Search for Page or Report** icon, enter **Sales Invoices**, and then choose the related link.</span></span>
+2. <span data-ttu-id="aca02-143">Создайте счет продажи для товара, у которого есть назначенный шаблон РБП.</span><span class="sxs-lookup"><span data-stu-id="aca02-143">Create a sales invoice for an item that has a deferral template assigned.</span></span> <span data-ttu-id="aca02-144">Дополнительные сведения см. в разделе [Практическое руководство. Выставление счетов продажи](sales-how-invoice-sales.md).</span><span class="sxs-lookup"><span data-stu-id="aca02-144">For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md).</span></span>
 
-    Обратите внимание, что сразу же после ввода товара (или ресурса либо счета ГК) в строке счета в поле **Код РБП** заносится код из назначенного шаблона РБП.
-3. Выберите действие **Расписание РБП**.
-4. В окне **Расписание РБП** измените настройки в заголовке или значения в строках, например чтобы отнести сумму на дополнительный учетный период.
-5. Выберите действие **Рассчитать план**.
-6. Выберите кнопку **ОК**. Расписание РБП обновляется для счета продажи. Соответствующий шаблон РБП не изменяется.
+    <span data-ttu-id="aca02-145">Обратите внимание, что сразу же после ввода товара (или ресурса либо счета ГК) в строке счета в поле **Код РБП** заносится код из назначенного шаблона РБП.</span><span class="sxs-lookup"><span data-stu-id="aca02-145">Notice that as soon as you enter the item (or resource or G/L account) on the invoice line, the **Deferral Code** field is filled with the code of the assigned deferral template.</span></span>
+3. <span data-ttu-id="aca02-146">Выберите действие **Расписание РБП**.</span><span class="sxs-lookup"><span data-stu-id="aca02-146">Choose the **Deferral Schedule** action.</span></span>
+4. <span data-ttu-id="aca02-147">В окне **Расписание РБП** измените настройки в заголовке или значения в строках, например чтобы отнести сумму на дополнительный учетный период.</span><span class="sxs-lookup"><span data-stu-id="aca02-147">In the **Deferral Schedule** window, change settings on the header or values on the lines, for example to defer the amount to an additional accounting period.</span></span>
+5. <span data-ttu-id="aca02-148">Выберите действие **Рассчитать план**.</span><span class="sxs-lookup"><span data-stu-id="aca02-148">Choose the **Calculate Schedule** action.</span></span>
+6. <span data-ttu-id="aca02-149">Выберите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="aca02-149">Choose the **OK** button.</span></span> <span data-ttu-id="aca02-150">Расписание РБП обновляется для счета продажи.</span><span class="sxs-lookup"><span data-stu-id="aca02-150">The deferral schedule is updated for the sales invoice.</span></span> <span data-ttu-id="aca02-151">Соответствующий шаблон РБП не изменяется.</span><span class="sxs-lookup"><span data-stu-id="aca02-151">The related deferral template is unchanged.</span></span>
 
-## <a name="to-preview-how-deferred-revenues-or-expenses-will-be-posted-to-the-general-ledger"></a>Предварительный просмотр того, как доходы или расходы будущих периодов будут учтены в главной книге
-**Примечание.** Шаги в этой процедуре совпадают с шагами процедуры предварительного просмотра учета расходов будущих периодов.
+## <a name="to-preview-how-deferred-revenues-or-expenses-will-be-posted-to-the-general-ledger"></a><span data-ttu-id="aca02-152">Предварительный просмотр того, как доходы или расходы будущих периодов будут учтены в главной книге</span><span class="sxs-lookup"><span data-stu-id="aca02-152">To preview how deferred revenues or expenses will be posted to the general ledger</span></span>
+<span data-ttu-id="aca02-153">**Примечание.** Шаги в этой процедуре совпадают с шагами процедуры предварительного просмотра учета расходов будущих периодов.</span><span class="sxs-lookup"><span data-stu-id="aca02-153">**Note**: The steps in this procedure are the same as when you preview how expense deferrals are posted.</span></span>
 
-1. В окне **Счет продажи** выберите действие **Предварительный просмотр учета**.
-2. В окне **Предварительный просмотр учета** выберите действие **Операция ГК**, затем выберите действие **Показать связанные операции**.
+1. <span data-ttu-id="aca02-154">В окне **Счет продажи** выберите действие **Предварительный просмотр учета**.</span><span class="sxs-lookup"><span data-stu-id="aca02-154">In the **Sales Invoice** window, choose the **Preview Posting** action.</span></span>
+2. <span data-ttu-id="aca02-155">В окне **Предварительный просмотр учета** выберите действие **Операция ГК**, затем выберите действие **Показать связанные операции**.</span><span class="sxs-lookup"><span data-stu-id="aca02-155">In the **Posting Preview** window, choose the **G/L Entry** action, and then choose the **Show Related Entries** action.</span></span>
 
-Операции ГК, которые будут учтены на указанном счете будущего периода, например "Незаработанные доходы", обозначаются описанием, введенным в поле **Описание периода** в шаблоне РБП, например "Расходы, отложенные на февраль 2016".
+<span data-ttu-id="aca02-156">Операции ГК, которые будут учтены на указанном счете будущего периода, например "Незаработанные доходы", обозначаются описанием, введенным в поле **Описание периода**</span><span class="sxs-lookup"><span data-stu-id="aca02-156">G/L entries to be posted to the specified deferral account, for example, Unearned Income, are denoted by the description that you entered in the **Period Desc.**</span></span> <span data-ttu-id="aca02-157">в шаблоне РБП, например "Расходы, отложенные на февраль 2016".</span><span class="sxs-lookup"><span data-stu-id="aca02-157">field in the deferral template, for example, "Expenses deferred for February 2016".</span></span>
 
-## <a name="to-review-posted-deferrals-in-the-sales-deferral-summary-report"></a>Просмотр учтенных РБП в отчете "Сводка РБП по продажам"
-**Примечание.** Шаги в этой процедуре совпадают с шагами процедуры просмотра отчета "Сводка РБП по покупкам".
+## <a name="to-review-posted-deferrals-in-the-sales-deferral-summary-report"></a><span data-ttu-id="aca02-158">Просмотр учтенных РБП в отчете "Сводка РБП по продажам"</span><span class="sxs-lookup"><span data-stu-id="aca02-158">To review posted deferrals in the Sales Deferral Summary report</span></span>
+<span data-ttu-id="aca02-159">**Примечание.** Шаги в этой процедуре совпадают с шагами процедуры просмотра отчета "Сводка РБП по покупкам".</span><span class="sxs-lookup"><span data-stu-id="aca02-159">**Note**: The steps in this procedure are the same as when you review the Purchasing Deferral Summary report.</span></span>
 
-1. В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Сводка РБП по продажам**, затем выберите связанную ссылку.
-2. В окне **Сводка РБП по продажам** в поле **Сальдо на дату** введите дату, по которую требуется просмотреть доходы будущих периодов.
-3. Нажмите кнопку **Предварительный просмотр**.
+1. <span data-ttu-id="aca02-160">В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Сводка РБП по продажам**, затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="aca02-160">In the top right corner, choose the **Search for Page or Report** icon, enter **Sales Deferral Summary**, and then choose the related link.</span></span>
+2. <span data-ttu-id="aca02-161">В окне **Сводка РБП по продажам** в поле **Сальдо на дату** введите дату, по которую требуется просмотреть доходы будущих периодов.</span><span class="sxs-lookup"><span data-stu-id="aca02-161">In the **Sales Deferral Summary** window, in the **Balance as of** field, enter the date up to which you want to see deferred revenues.</span></span>
+3. <span data-ttu-id="aca02-162">Нажмите кнопку **Предварительный просмотр**.</span><span class="sxs-lookup"><span data-stu-id="aca02-162">Choose the **Preview** button.</span></span>
 
-## <a name="see-also"></a>См. также
-[Финансы](finance-setup.md)  
-[Настройка основных финансовых процессов](finance-setup-setup-finance-setup.md)  
-[Практическое руководство. Работа с финансовыми журналами](ui-work-general-journals.md)
+## <a name="see-also"></a><span data-ttu-id="aca02-163">См. также</span><span class="sxs-lookup"><span data-stu-id="aca02-163">See Also</span></span>
+[<span data-ttu-id="aca02-164">Финансы</span><span class="sxs-lookup"><span data-stu-id="aca02-164">Finance</span></span>](finance-setup.md)  
+[<span data-ttu-id="aca02-165">Настройка основных финансовых процессов</span><span class="sxs-lookup"><span data-stu-id="aca02-165">Set Up Core Financial Processes</span></span>](finance-setup-setup-finance-setup.md)  
+[<span data-ttu-id="aca02-166">Практическое руководство. Работа с финансовыми журналами</span><span class="sxs-lookup"><span data-stu-id="aca02-166">How to: Work With General Journals</span></span>](ui-work-general-journals.md)
 

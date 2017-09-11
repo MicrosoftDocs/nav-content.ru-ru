@@ -7,88 +7,88 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: e4135aa801b0b507b5f179d02a240a7554ed45cd
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: bde70a8febc561b68908b1da2729fff59b105fd9
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
 
-# <a name="how-to-use-approval-workflows"></a>Практическое руководство. Использование рабочего процесса утверждения
-Когда запись — например, документ покупки или карточка клиента — должен быть утвержден кем-либо в вашей организации, вы отправляете запрос на утверждение как часть рабочего процесса. В зависимости от того, как настроен рабочий процесс, соответствующее утверждающее лицо получает уведомление о том, что запись требует его утверждения.
+# <a name="how-to-use-approval-workflows"></a><span data-ttu-id="2e4dc-102">Практическое руководство. Использование рабочего процесса утверждения</span><span class="sxs-lookup"><span data-stu-id="2e4dc-102">How to: Use Approval Workflows</span></span>
+<span data-ttu-id="2e4dc-103">Когда запись — например, документ покупки или карточка клиента — должен быть утвержден кем-либо в вашей организации, вы отправляете запрос на утверждение как часть рабочего процесса.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-103">When a record, such as a purchase document or a customer card, needs to be approved by someone in your organization, you send an approval request as part of a workflow.</span></span> <span data-ttu-id="2e4dc-104">В зависимости от того, как настроен рабочий процесс, соответствующее утверждающее лицо получает уведомление о том, что запись требует его утверждения.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-104">Based on how the workflow is set up, the appropriate approver is then notified that the record requires their approval.</span></span>
 
-Основные рабочие процессы для утверждения документов покупки, документов продажи, журналов платежей, карточек клиентов и карточек товаров готовы к запуску в рамках сопровождаемой настройки. Дополнительные сведения см. в разделе [Добро пожаловать в Dynamics NAV](across-get-started.md).
+<span data-ttu-id="2e4dc-105">Основные рабочие процессы для утверждения документов покупки, документов продажи, журналов платежей, карточек клиентов и карточек товаров готовы к запуску в рамках сопровождаемой настройки.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-105">Core approval workflows for purchases documents, sales documents, payment journals, customer cards, and item cards are ready to start as assisted setup.</span></span> <span data-ttu-id="2e4dc-106">Дополнительные сведения см. в разделе [Добро пожаловать в Dynamics NAV](across-get-started.md).</span><span class="sxs-lookup"><span data-stu-id="2e4dc-106">For more information, see [Welcome to Dynamics NAV](across-get-started.md).</span></span>
 
-## <a name="to-request-approval-of-a-record"></a>Запрос утверждения записи
-Следующая задача выполняется утверждающим пользователем.
+## <a name="to-request-approval-of-a-record"></a><span data-ttu-id="2e4dc-107">Запрос утверждения записи</span><span class="sxs-lookup"><span data-stu-id="2e4dc-107">To request approval of a record</span></span>
+<span data-ttu-id="2e4dc-108">Следующая задача выполняется утверждающим пользователем.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-108">The following task is performed by an approval user.</span></span>
 
-1. В открывшемся окне с записью выберите действие **Отправить запрос на утверждение**.
-2. Чтобы увидеть свои запросы на утверждение, в правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Операции запросов утверждения**, а затем выберите связанную ссылку.
+1. <span data-ttu-id="2e4dc-109">В открывшемся окне с записью выберите действие **Отправить запрос на утверждение**.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-109">In the window that presents the record, choose the **Send Approval Request** action.</span></span>
+2. <span data-ttu-id="2e4dc-110">Чтобы увидеть свои запросы на утверждение, в правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Операции запросов утверждения**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-110">To see all your approval requests, in the top right corner, choose the **Search for Page or Report** icon, enter **Approval Request Entries**, and then choose the related link.</span></span>
 
-Статус операции утверждения обновляется с **Создано** на **Открыто**. Статус записи, например счета покупки, обновляется с **Открыто** на **Ожидает утверждения** и остается запрещенным к обработке до тех пор, пока все утверждающие лица не утвердят запись.
+<span data-ttu-id="2e4dc-111">Статус операции утверждения обновляется с **Создано** на **Открыто**.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-111">The status of the approval entry is updated from **Created** to **Open**.</span></span> <span data-ttu-id="2e4dc-112">Статус записи, например счета покупки, обновляется с **Открыто** на **Ожидает утверждения** и остается запрещенным к обработке до тех пор, пока все утверждающие лица не утвердят запись.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-112">The status of the record, for example a purchase invoice, is updated from **Open** to **Pending Approval** and remains locked for processing until all approvers have approved the record.</span></span>
 
-После того как утверждающее лицо утвердит запись, ее статус меняется на **Выпущено**. После этого можно продолжить выполнять действия с записью.
+<span data-ttu-id="2e4dc-113">После того как утверждающее лицо утвердит запись, ее статус меняется на **Выпущено**.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-113">When the approver has approved the record, the status changes to **Released**.</span></span> <span data-ttu-id="2e4dc-114">После этого можно продолжить выполнять действия с записью.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-114">You can then continue your tasks with the record.</span></span>
 
-## <a name="to-cancel-requests-for-approval"></a>Отмена запросов утверждения
-Следующая задача выполняется утверждающим пользователем с правом утверждения.
+## <a name="to-cancel-requests-for-approval"></a><span data-ttu-id="2e4dc-115">Отмена запросов утверждения</span><span class="sxs-lookup"><span data-stu-id="2e4dc-115">To cancel requests for approval</span></span>
+<span data-ttu-id="2e4dc-116">Следующая задача выполняется утверждающим пользователем с правом утверждения.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-116">The following task is performed by an approval user with approver rights.</span></span>
 
-Клиенту может потребоваться изменить заказ после того, как он будет отправлен на утверждение. В этом случае процесс утверждения отменяется и перед повторной отправкой запроса утверждения в документ вносятся необходимые изменения.
+<span data-ttu-id="2e4dc-117">Клиенту может потребоваться изменить заказ после того, как он будет отправлен на утверждение.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-117">A customer may want to change an order after it has been submitted for approval.</span></span> <span data-ttu-id="2e4dc-118">В этом случае процесс утверждения отменяется и перед повторной отправкой запроса утверждения в документ вносятся необходимые изменения.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-118">In this case, you can cancel the approval process and make the necessary changes to the order before you request approval again.</span></span>
 
-1. В открывшемся окне с записью выберите действие **Отменить запрос на утверждение**.
+1. <span data-ttu-id="2e4dc-119">В открывшемся окне с записью выберите действие **Отменить запрос на утверждение**.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-119">In the window that displays the record, choose the **Cancel Approval Request** action.</span></span>
 
-После того запрос утверждения будет отменен, статус соответствующей операции утверждения меняется на **Отменено**. Статус записи меняется с **Ожидает утверждения** на **Открыто**. После этого процесс утверждения может быть начат сначала.
+<span data-ttu-id="2e4dc-120">После того запрос утверждения будет отменен, статус соответствующей операции утверждения меняется на **Отменено**.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-120">When the approval request has been canceled, the status of the related approval entry is changed to **Canceled**.</span></span> <span data-ttu-id="2e4dc-121">Статус записи меняется с **Ожидает утверждения** на **Открыто**.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-121">The status of the record is updated from **Pending Approval** to **Open**.</span></span> <span data-ttu-id="2e4dc-122">После этого процесс утверждения может быть начат сначала.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-122">The approval process can then start again.</span></span>
 
-## <a name="to-make-minor-changes-to-approved-records"></a>Внесение небольших изменений в утвержденные записи
-Если нужно внести небольшие изменения в запись после ее утверждения, можно вновь открыть запись, внести изменения, а затем выпустить ее. Для небольших изменений это можно сделать при помощи кнопок **Открыть заново** и **Выпустить**.
+## <a name="to-make-minor-changes-to-approved-records"></a><span data-ttu-id="2e4dc-123">Внесение небольших изменений в утвержденные записи</span><span class="sxs-lookup"><span data-stu-id="2e4dc-123">To make minor changes to approved records</span></span>
+<span data-ttu-id="2e4dc-124">Если нужно внести небольшие изменения в запись после ее утверждения, можно вновь открыть запись, внести изменения, а затем выпустить ее.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-124">If you want to make a minor change to a record after it has been approved, you can reopen the record, make the change, and then release it.</span></span> <span data-ttu-id="2e4dc-125">Для небольших изменений это можно сделать при помощи кнопок **Открыть заново** и **Выпустить**.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-125">For minor changes, you do this with the **Reopen** and **Release** buttons.</span></span>
 
-1. Откройте окно, в котором отображается запись, например счет покупки, а затем выберите действие **Открыть**.
+1. <span data-ttu-id="2e4dc-126">Откройте окно, в котором отображается запись, например счет покупки, а затем выберите действие **Открыть**.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-126">Open the window that displays the record, such as a purchase invoice, and then choose the **Reopen** action.</span></span>
 
-    Значение в поле **Статус документа** изменится на "Открыто".
-3. Внесите необходимые изменения в запись, например, адрес поставщика.
-4. Выберите действие **Выпустить**.
+    <span data-ttu-id="2e4dc-127">Значение в поле **Статус документа** изменится на "Открыто".</span><span class="sxs-lookup"><span data-stu-id="2e4dc-127">The **Document Status** field is changed to Open.</span></span>
+3. <span data-ttu-id="2e4dc-128">Внесите необходимые изменения в запись, например, адрес поставщика.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-128">Make the necessary changes on the record, such as the vendor’s address.</span></span>
+4. <span data-ttu-id="2e4dc-129">Выберите действие **Выпустить**.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-129">Choose the **Release** action.</span></span>
 
-При повторном открытии исходной записи статус соответствующей операции утверждения сохранит значение "Утверждено" в окне **Операции утверждения**.
+<span data-ttu-id="2e4dc-130">При повторном открытии исходной записи статус соответствующей операции утверждения сохранит значение "Утверждено" в окне **Операции утверждения**.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-130">When you reopen the source record, the status of the related approval entry remains Approved in the **Approval Entries** window.</span></span>
 
-## <a name="to-approve-or-reject-requests-for-approval"></a>Утверждение или отклонение запросов утверждения
-Следующая задача выполняется утверждающим пользователем с правом утверждения.
+## <a name="to-approve-or-reject-requests-for-approval"></a><span data-ttu-id="2e4dc-131">Утверждение или отклонение запросов утверждения</span><span class="sxs-lookup"><span data-stu-id="2e4dc-131">To approve or reject requests for approval</span></span>
+<span data-ttu-id="2e4dc-132">Следующая задача выполняется утверждающим пользователем с правом утверждения.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-132">The following task is performed by an approval user with approver rights.</span></span>
 
-Вы можете обрабатывать запросы утверждения в окне **Запросы утверждения**, например, для утверждения нескольких запросов одновременно. Кроме того, вы можете обрабатывать каждый запрос в соответствующей записи, например в окне **Счет покупки**, выбрав ссылку в уведомлении, которое вы получаете.
+<span data-ttu-id="2e4dc-133">Вы можете обрабатывать запросы утверждения в окне **Запросы утверждения**, например, для утверждения нескольких запросов одновременно.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-133">You can process approval requests in the **Requests to Approve** window, for example to approve multiple requests at a time.</span></span> <span data-ttu-id="2e4dc-134">Кроме того, вы можете обрабатывать каждый запрос в соответствующей записи, например в окне **Счет покупки**, выбрав ссылку в уведомлении, которое вы получаете.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-134">Alternatively, you can process each request on the related record, such as the **Purchase Invoice** window, by choosing the link in the notification that you receive.</span></span>
 
-1. В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Запросы на утверждение**, а затем выберите связанную ссылку.
-2. Выберите одну или несколько строк для записи или записей, которые необходимо утвердить или отклонить.
-3. Выберите действие **Утвердить**, **Отклонить** или **Делегировать**.
+1. <span data-ttu-id="2e4dc-135">В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Запросы на утверждение**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-135">In the top right corner, choose the **Search for Page or Report** icon, enter **Requests to Approve**, and then choose the related link.</span></span>
+2. <span data-ttu-id="2e4dc-136">Выберите одну или несколько строк для записи или записей, которые необходимо утвердить или отклонить.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-136">Select one or more lines for the record or records that you want to approve or reject.</span></span>
+3. <span data-ttu-id="2e4dc-137">Выберите действие **Утвердить**, **Отклонить** или **Делегировать**.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-137">Choose the **Approve**, **Reject**, or **Delegate** actions.</span></span>
 
-Если запись была утверждена или отклонена, статус утверждения в поле **Статус** меняется на **Утверждено** или **Отклонено**.
+<span data-ttu-id="2e4dc-138">Если запись была утверждена или отклонена, статус утверждения в поле **Статус** меняется на **Утверждено** или **Отклонено**.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-138">When a record has been approved or rejected, the approval status in the **Status** field changes to **Approved** or **Rejected**.</span></span>
 
-Если настроена иерархия утверждающих лиц, то запись будет иметь статус **Ожидает утверждения** до тех пор, пока все утверждающие лица не утвердят ее. После этого статус записи будет изменен на **Обработано**.
+<span data-ttu-id="2e4dc-139">Если настроена иерархия утверждающих лиц, то запись будет иметь статус **Ожидает утверждения** до тех пор, пока все утверждающие лица не утвердят ее.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-139">If an approver hierarchy is set up, the record status will be **Pending Approval** until all approvers have approved the record.</span></span> <span data-ttu-id="2e4dc-140">После этого статус записи будет изменен на **Обработано**.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-140">Then the record status will change to **Released**.</span></span>
 
-В то же время статус утверждения меняется с **Создано** на **Открыто**, как только будет создан запрос утверждения для записи. Если запрос отклоняется, статус утверждения меняется на **Отклонено**. Статус сохраняет значение **Открыто** или **Отклонено**, пока все утверждающие лица не утвердят запрос.
+<span data-ttu-id="2e4dc-141">В то же время статус утверждения меняется с **Создано** на **Открыто**, как только будет создан запрос утверждения для записи.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-141">At the same time, the approval status changes from **Created** to **Open** as soon as an approval request for the record is created.</span></span> <span data-ttu-id="2e4dc-142">Если запрос отклоняется, статус утверждения меняется на **Отклонено**.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-142">If the request is rejected, the approval status changes to **Rejected**.</span></span> <span data-ttu-id="2e4dc-143">Статус сохраняет значение **Открыто** или **Отклонено**, пока все утверждающие лица не утвердят запрос.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-143">The status remains **Open** or **Rejected** until all approvers have approved the request.</span></span>
 
-## <a name="to-delegate-requests-for-approval"></a>Делегирование запросов утверждения
-Следующая задача выполняется утверждающим пользователем с правом утверждения.
+## <a name="to-delegate-requests-for-approval"></a><span data-ttu-id="2e4dc-144">Делегирование запросов утверждения</span><span class="sxs-lookup"><span data-stu-id="2e4dc-144">To delegate requests for approval</span></span>
+<span data-ttu-id="2e4dc-145">Следующая задача выполняется утверждающим пользователем с правом утверждения.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-145">The following task is performed by an approval user with approver rights.</span></span>
 
-Чтобы избежать нагромождения документов и других препятствий для рабочего процесса, утверждающее лицо и администратор утверждающего лица могут делегировать запрос утверждения заместителю. Заменой может стать назначенный пользователь, прямой утверждающий или администратор утверждения (в таком порядке). Обычно эта функция используется, если утверждающее лицо отсутствует на рабочем месте и не может утвердить запросы в срок.
+<span data-ttu-id="2e4dc-146">Чтобы избежать нагромождения документов и других препятствий для рабочего процесса, утверждающее лицо и администратор утверждающего лица могут делегировать запрос утверждения заместителю.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-146">To prevent documents from piling up or otherwise block the workflow, the approver and the approval administrator can delegate an approval request to a substitute approver.</span></span> <span data-ttu-id="2e4dc-147">Заменой может стать назначенный пользователь, прямой утверждающий или администратор утверждения (в таком порядке).</span><span class="sxs-lookup"><span data-stu-id="2e4dc-147">The substitute can either be a designated substitute, the direct approver, or the approval administrator, in that order of priority.</span></span> <span data-ttu-id="2e4dc-148">Обычно эта функция используется, если утверждающее лицо отсутствует на рабочем месте и не может утвердить запросы в срок.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-148">You typically use this feature if an approver is out of office and is unable to approve requests before the due date.</span></span>
 
-1. В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Запросы на утверждение**, а затем выберите связанную ссылку.
-2. Выберите одну или несколько строк для запроса утверждения, который требуется делегировать заместителю утверждающего лица, а затем выберите действие **Делегировать**.
+1. <span data-ttu-id="2e4dc-149">В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Запросы на утверждение**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-149">In the top right corner, choose the **Search for Page or Report** icon, enter **Requests to Approve**, and then choose the related link.</span></span>
+2. <span data-ttu-id="2e4dc-150">Выберите одну или несколько строк для запроса утверждения, который требуется делегировать заместителю утверждающего лица, а затем выберите действие **Делегировать**.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-150">Select one or more lines for the approval requests that you want to delegate to a substitute approver, and then choose the **Delegate** action.</span></span>
 
-Заместителю утверждающего лица отправляется уведомление об утверждении запроса.
+<span data-ttu-id="2e4dc-151">Заместителю утверждающего лица отправляется уведомление об утверждении запроса.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-151">A notification to approve the request is sent to the substitute approver.</span></span>
 
-## <a name="to-manage-overdue-approval-requests"></a>Управление просроченными запросами утверждения
-Следующая задача выполняется утверждающим пользователем с правом утверждения.
+## <a name="to-manage-overdue-approval-requests"></a><span data-ttu-id="2e4dc-152">Управление просроченными запросами утверждения</span><span class="sxs-lookup"><span data-stu-id="2e4dc-152">To manage overdue approval requests</span></span>
+<span data-ttu-id="2e4dc-153">Следующая задача выполняется утверждающим пользователем с правом утверждения.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-153">The following task is performed by an approval user with approver rights.</span></span>
 
-Через равные промежутки времени следует напоминать пользователям рабочего процесса о просроченных запросах на утверждение, на которые они должны отреагировать. Используйте для этого функцию Отправить сообщения о просроченных утверждениях.
+<span data-ttu-id="2e4dc-154">Через равные промежутки времени следует напоминать пользователям рабочего процесса о просроченных запросах на утверждение, на которые они должны отреагировать.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-154">At regular intervals, you must remind approval workflow users of overdue approval requests that they must react on.</span></span> <span data-ttu-id="2e4dc-155">Используйте для этого функцию Отправить сообщения о просроченных утверждениях.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-155">You use the Send Overdue Approval Notifications function for this.</span></span>
 
-Функция The Отправить сообщения о просроченных утверждениях проверяет все открытые запросы на утверждение, которые в текущий момент просрочены. Каждое утверждающее лицо, имеющее хотя бы одно просроченное утверждение, получает уведомление со списком всех просроченных запросов на утверждение. Уведомление также отправляется утверждающим лицам данного запроса и всем запрашивающим сторонам просроченных утверждений. Это полезно в том случае, когда операция просроченного утверждения должна быть делегирована заместителю.
+<span data-ttu-id="2e4dc-156">Функция The Отправить сообщения о просроченных утверждениях проверяет все открытые запросы на утверждение, которые в текущий момент просрочены.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-156">The Send Overdue Approval Notifications function checks for all open approval requests that are currently overdue.</span></span> <span data-ttu-id="2e4dc-157">Каждое утверждающее лицо, имеющее хотя бы одно просроченное утверждение, получает уведомление со списком всех просроченных запросов на утверждение.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-157">Each approver that has at least one overdue approval entry receives a notification with the list of all their overdue approval requests.</span></span> <span data-ttu-id="2e4dc-158">Уведомление также отправляется утверждающим лицам данного запроса и всем запрашивающим сторонам просроченных утверждений.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-158">The notification is also sent to their approver and all the requesters of the overdue approvals.</span></span> <span data-ttu-id="2e4dc-159">Это полезно в том случае, когда операция просроченного утверждения должна быть делегирована заместителю.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-159">This helps if the overdue approval entry must be delegated to a substitute.</span></span>
 
-1. В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Просроченные запросы утверждения**, а затем выберите связанную ссылку.
-2. В окне **Просроченные запросы утверждения** выберите действие **Отправить уведомления о просроченном утверждении**.
+1. <span data-ttu-id="2e4dc-160">В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Просроченные запросы утверждения**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-160">In the top right corner, choose the **Search for Page or Report** icon, enter **Overdue Approval Requests**, and then choose the related link.</span></span>
+2. <span data-ttu-id="2e4dc-161">В окне **Просроченные запросы утверждения** выберите действие **Отправить уведомления о просроченном утверждении**.</span><span class="sxs-lookup"><span data-stu-id="2e4dc-161">In the **Overdue Approval Requests** window, choose the **Send Overdue Approval Notifications** action.</span></span>
 
-## <a name="see-also"></a>См. также  
-[Управление продажами](sales-manage-sales.md)    
-[Входящие документы](across-income-documents.md)  
-[Управление закупками](purchasing-manage-purchasing.md)  
-[Работа с Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="2e4dc-162">См. также</span><span class="sxs-lookup"><span data-stu-id="2e4dc-162">See Also</span></span>  
+<span data-ttu-id="2e4dc-163">[Управление продажами](sales-manage-sales.md)  </span><span class="sxs-lookup"><span data-stu-id="2e4dc-163">[Manage Sales](sales-manage-sales.md)  </span></span>  
+[<span data-ttu-id="2e4dc-164">Входящие документы</span><span class="sxs-lookup"><span data-stu-id="2e4dc-164">Incoming Documents</span></span>](across-income-documents.md)  
+[<span data-ttu-id="2e4dc-165">Управление закупками</span><span class="sxs-lookup"><span data-stu-id="2e4dc-165">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)  
+[<span data-ttu-id="2e4dc-166">Работа с Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="2e4dc-166">Work With Dynamics NAV</span></span>](ui-work-product.md)
 

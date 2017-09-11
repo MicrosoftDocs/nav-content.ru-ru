@@ -1,1 +1,1 @@
-Демонстрационная база данных CRONUS
+<span data-ttu-id="82dde-101">Демонстрационная база данных CRONUS</span><span class="sxs-lookup"><span data-stu-id="82dde-101">CRONUS demonstration database</span></span>

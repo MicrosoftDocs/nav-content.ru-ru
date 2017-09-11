@@ -1,1 +1,1 @@
-CRONUS Россия ЗАО демонстрационная база данных
+<span data-ttu-id="8c8bf-101">CRONUS Россия ЗАО</span><span class="sxs-lookup"><span data-stu-id="8c8bf-101">CRONUS International Ltd.</span></span> <span data-ttu-id="8c8bf-102">демонстрационная база данных</span><span class="sxs-lookup"><span data-stu-id="8c8bf-102">demonstration database</span></span>

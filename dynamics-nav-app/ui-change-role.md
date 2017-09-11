@@ -7,27 +7,27 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 0d783463ae65c3ae0c7d010df676fdaa95fb9d3c
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 2220dbdede8d493ec711c763bf9f092d7368f3b0
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
 
-# <a name="how-to-change-the-role-center"></a>Практическое руководство. Изменение ролевого центра
-Начальная страница — это основная точка входа в Dynamics NAV. С ее помощью можно получить представление о задачах на день и их статусе. Задачи, которые выполняются часто, доступны через плитки в области содержимого, область навигации слева и действия на ленте.
+# <a name="how-to-change-the-role-center"></a><span data-ttu-id="b6548-102">Практическое руководство. Изменение ролевого центра</span><span class="sxs-lookup"><span data-stu-id="b6548-102">How to: Change the Role Center</span></span>
+<span data-ttu-id="b6548-103">Начальная страница — это основная точка входа в Dynamics NAV.</span><span class="sxs-lookup"><span data-stu-id="b6548-103">The Home page is your main point of entry into Dynamics NAV.</span></span> <span data-ttu-id="b6548-104">С ее помощью можно получить представление о задачах на день и их статусе.</span><span class="sxs-lookup"><span data-stu-id="b6548-104">Here you can get an overview of the daily work tasks and their status.</span></span> <span data-ttu-id="b6548-105">Задачи, которые выполняются часто, доступны через плитки в области содержимого, область навигации слева и действия на ленте.</span><span class="sxs-lookup"><span data-stu-id="b6548-105">Tasks that you perform often are accessed through the tiles in the content area, the navigation pane on the left, and through actions in the ribbon.</span></span>
 
-Содержимое начальной страницы основано на выбранном ролевом центре. Стандартный ролевой центр для Dynamics NAV — **Бизнес-руководитель**, но вы можете изменить его и выбрать один из нескольких ролевых центров.
+<span data-ttu-id="b6548-106">Содержимое начальной страницы основано на выбранном ролевом центре.</span><span class="sxs-lookup"><span data-stu-id="b6548-106">The content on the Home page is based on the selected Role Center.</span></span> <span data-ttu-id="b6548-107">Стандартный ролевой центр для Dynamics NAV — **Бизнес-руководитель**, но вы можете изменить его и выбрать один из нескольких ролевых центров.</span><span class="sxs-lookup"><span data-stu-id="b6548-107">The standard Role Center for Dynamics NAV is **Business Manager**, but you can change this and choose between a number of Role Centers.</span></span>
 
-## <a name="to-change-role-center"></a>Изменение ролевого центра
-1. В правом верхнем углу в меню **Настройки** выберите **Мои настройки**.
-2. В окне **Мои настройки** в поле **Ролевой центр** выберите ролевой центр, который вы хотите настроить в качестве стандартного. Например, выберите **Бухгалтер**.
-3. Выберите кнопку **ОК**.
-4. Выйдите из Dynamics NAV, а затем снова войдите, чтобы изменения вступили в силу.
+## <a name="to-change-role-center"></a><span data-ttu-id="b6548-108">Изменение ролевого центра</span><span class="sxs-lookup"><span data-stu-id="b6548-108">To change role center</span></span>
+1. <span data-ttu-id="b6548-109">В правом верхнем углу в меню **Настройки** выберите **Мои настройки**.</span><span class="sxs-lookup"><span data-stu-id="b6548-109">In the top right corner, under the **Settings** menu, choose **My Settings**.</span></span>
+2. <span data-ttu-id="b6548-110">В окне **Мои настройки** в поле **Ролевой центр** выберите ролевой центр, который вы хотите настроить в качестве стандартного.</span><span class="sxs-lookup"><span data-stu-id="b6548-110">In the **My Settings** window, in the **Role Center** field, select the Role Center that you want to set as the standard.</span></span> <span data-ttu-id="b6548-111">Например, выберите **Бухгалтер**.</span><span class="sxs-lookup"><span data-stu-id="b6548-111">For example, select **Accountant**.</span></span>
+3. <span data-ttu-id="b6548-112">Выберите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="b6548-112">Choose the **OK** button.</span></span>
+4. <span data-ttu-id="b6548-113">Выйдите из Dynamics NAV, а затем снова войдите, чтобы изменения вступили в силу.</span><span class="sxs-lookup"><span data-stu-id="b6548-113">Sign out of Dynamics NAV and then sign in again to have the change take effect.</span></span>
 
-## <a name="see-also"></a>См. также
-[Добро пожаловать в Dynamics NAV](across-get-started.md)  
-[Работа с Dynamics NAV](ui-work-product.md)  
+## <a name="see-also"></a><span data-ttu-id="b6548-114">См. также</span><span class="sxs-lookup"><span data-stu-id="b6548-114">See Also</span></span>
+[<span data-ttu-id="b6548-115">Добро пожаловать в Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="b6548-115">Welcome to Dynamics NAV</span></span>](across-get-started.md)  
+[<span data-ttu-id="b6548-116">Работа с Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="b6548-116">Work With Dynamics NAV</span></span>](ui-work-product.md)  
 

@@ -7,50 +7,50 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 59db38c159dd2810656edc668ee431c6414b9d90
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 6f582e844670b8dc67e458947392d29afb8f1d1a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
 
-# <a name="how-to-adjust-item-costs"></a>Практическое руководство. Корректировка себестоимости товаров   
-Себестоимость товара (инвентарная стоимость), который вы покупаете, а позже продаете, может изменяться на протяжении его срока службы, например в результате добавления себестоимости перевозки к себестоимости покупки после продажи товара. Чтобы всегда знать правильную инвентарную стоимость, необходимо регулярно корректировать себестоимость товара.
-Это гарантирует, что статистика продаж и прибыли всегда актуальна и финансовые KPI верны.
+# <a name="how-to-adjust-item-costs"></a><span data-ttu-id="fbe2b-102">Практическое руководство. Корректировка себестоимости товаров</span><span class="sxs-lookup"><span data-stu-id="fbe2b-102">How to: Adjust Item Costs</span></span>   
+<span data-ttu-id="fbe2b-103">Себестоимость товара (инвентарная стоимость), который вы покупаете, а позже продаете, может изменяться на протяжении его срока службы, например в результате добавления себестоимости перевозки к себестоимости покупки после продажи товара.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-103">The cost of an item (inventory value) that you purchase and later sell may change during its lifetime, for example because a freight cost is added to its purchase cost after you have sold the item.</span></span> <span data-ttu-id="fbe2b-104">Чтобы всегда знать правильную инвентарную стоимость, необходимо регулярно корректировать себестоимость товара.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-104">To always know the correct inventory value, item costs must therefore regularly be adjusted.</span></span>
+<span data-ttu-id="fbe2b-105">Это гарантирует, что статистика продаж и прибыли всегда актуальна и финансовые KPI верны.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-105">This ensures that sales and profit statistics are up to date and that financial KPIs are correct.</span></span>
 
-**Примечание**. Значения себестоимости товара корректируются только методом учета себестоимости FIFO. Это означает, что себестоимость единицы товара — это фактическая сумма любой приемной накладной на товар, и запасы оцениваются в предположении, что первый товар, помещенный на склад, продается первым.
+<span data-ttu-id="fbe2b-106">**Примечание**. Значения себестоимости товара корректируются только методом учета себестоимости FIFO.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-106">**Note**: Item costs are adjusted by the FIFO costing method only.</span></span> <span data-ttu-id="fbe2b-107">Это означает, что себестоимость единицы товара — это фактическая сумма любой приемной накладной на товар, и запасы оцениваются в предположении, что первый товар, помещенный на склад, продается первым.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-107">This means that an item’s unit cost is the actual value of any receipt of the item, and that inventory is valuated with the assumption that the first items placed in inventory are sold first.</span></span>
 
-Функция корректировки себестоимости обрабатывает только операции стоимости, которые еще не были скорректированы. Если функция выполняется в ситуации, в которой измененные входящие значения себестоимости необходимо направить в соответствующие выходные операции, для выполнения этой задачи создаются новые корректирующие операции стоимости, в основе которых лежат данные исходных операций стоимости, хотя сами они содержат сумму коррекции. Функция корректировки себестоимости использует дату учета исходной операции стоимости в операции коррекции, если дата не попадает в закрытый период учета запасов. В этом случае программа использует начальную дату следующего открытого периода учета запасов. Если периоды учета запасов не используются, дата в поле **Разрешить учет с** в окне **Главная книга - настройка** будет определяться при учете операции корректировки.
+<span data-ttu-id="fbe2b-108">Функция корректировки себестоимости обрабатывает только операции стоимости, которые еще не были скорректированы.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-108">The cost adjustment function processes only value entries that have not yet been adjusted.</span></span> <span data-ttu-id="fbe2b-109">Если функция выполняется в ситуации, в которой измененные входящие значения себестоимости необходимо направить в соответствующие выходные операции, для выполнения этой задачи создаются новые корректирующие операции стоимости, в основе которых лежат данные исходных операций стоимости, хотя сами они содержат сумму коррекции.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-109">If the function encounters a situation where changed inbound costs need to be forwarded to associated outbound entries, then new adjustment value entries are created, which are based on the information in the original value entries but contain the adjustment amount.</span></span> <span data-ttu-id="fbe2b-110">Функция корректировки себестоимости использует дату учета исходной операции стоимости в операции коррекции, если дата не попадает в закрытый период учета запасов.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-110">The cost adjustment function uses the posting date of the original value entry in the adjustment entry, unless that date is in a closed inventory period.</span></span> <span data-ttu-id="fbe2b-111">В этом случае программа использует начальную дату следующего открытого периода учета запасов.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-111">In that case, the program uses the starting date of the next open inventory period.</span></span> <span data-ttu-id="fbe2b-112">Если периоды учета запасов не используются, дата в поле **Разрешить учет с** в окне **Главная книга - настройка** будет определяться при учете операции корректировки.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-112">If inventory periods are not used, then the date in the **Allow Posting From** field in the **General Ledger Setup** window will define when the adjustment entry is posted.</span></span>
 
-**Примечание**. После корректировки себестоимости товара себестоимость товаров должна быть учтена в главной книге, автоматически или вручную. Дополнительные сведения см. в разделе [Практическое руководство. Учет себестоимости товаров в главной книге](inventory-how-post-inventory-cost-gl.md).
+<span data-ttu-id="fbe2b-113">**Примечание**. После корректировки себестоимости товара себестоимость товаров должна быть учтена в главной книге, автоматически или вручную.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-113">**Note**: After item costs have been adjusted, the inventory cost must be posted to the general ledger, either automatically or manually.</span></span> <span data-ttu-id="fbe2b-114">Дополнительные сведения см. в разделе [Практическое руководство. Учет себестоимости товаров в главной книге](inventory-how-post-inventory-cost-gl.md).</span><span class="sxs-lookup"><span data-stu-id="fbe2b-114">For more information, see [How to: Post Inventory Costs to the General Ledger](inventory-how-post-inventory-cost-gl.md).</span></span>
 
-Себестоимость товаров можно корректировать одним из двух способов:
- - Автоматически, путем корректировки любых изменений себестоимости при каждом учете транзакции запасов.
- - Вручную, путем выполнения пакетного задания **Коррекция себест. запасов** для одного или нескольких товаров в момент, когда известно, что их себестоимость изменилась.  
+<span data-ttu-id="fbe2b-115">Себестоимость товаров можно корректировать одним из двух способов:</span><span class="sxs-lookup"><span data-stu-id="fbe2b-115">You can adjust item costs in two ways:</span></span>
+ - <span data-ttu-id="fbe2b-116">Автоматически, путем корректировки любых изменений себестоимости при каждом учете транзакции запасов.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-116">Automatically, by having the system adjusted any cost changes every time that inventory transactions occur.</span></span>
+ - <span data-ttu-id="fbe2b-117">Вручную, путем выполнения пакетного задания **Коррекция себест. запасов** для одного или нескольких товаров в момент, когда известно, что их себестоимость изменилась.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-117">Manually, by running the **Adjust Cost - Item Entries** batch job for one or more items when you know that their costs have changed.</span></span>  
 
-## <a name="to-adjust-item-costs-automatically"></a>Автоматическая корректировка себестоимости товара
-1. В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Настройка модуля "Запасы"**, а затем выберите связанную ссылку.
-2. В окне **Настройка модуля "Запасы"** в поле **Автоматическая коррекция себестоимости** выберите одно из следующих значений.
+## <a name="to-adjust-item-costs-automatically"></a><span data-ttu-id="fbe2b-118">Автоматическая корректировка себестоимости товара</span><span class="sxs-lookup"><span data-stu-id="fbe2b-118">To adjust item costs automatically</span></span>
+1. <span data-ttu-id="fbe2b-119">В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Настройка модуля "Запасы"**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-119">In the top right corner, choose the **Search for Page or Report** icon, enter **Inventory Setup**, and then  choose the related link.</span></span>
+2. <span data-ttu-id="fbe2b-120">В окне **Настройка модуля "Запасы"** в поле **Автоматическая коррекция себестоимости** выберите одно из следующих значений.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-120">In the **Inventory Setup** window, in the **Automatic Cost Adjustment** field, select one of the following values.</span></span>
 
-|Параметр |Поведение |
+|<span data-ttu-id="fbe2b-121">Параметр</span><span class="sxs-lookup"><span data-stu-id="fbe2b-121">Option</span></span> |<span data-ttu-id="fbe2b-122">Поведение</span><span class="sxs-lookup"><span data-stu-id="fbe2b-122">Behavior</span></span> |
 |-------|---------|
-|Никогда|При учете себестоимости не корректируется.|
-|День|Себестоимость корректируется при выполнении учета в течение одного дня от рабочей даты.|
-|Неделя|Себестоимость корректируется выполнении учета в течение одной недели с рабочей даты.|
-|Месяц|Себестоимость корректируется выполнении учета в течение одного месяца с рабочей даты.|
-|Квартал|Себестоимость корректируется выполнении учета в течение одного квартала с рабочей даты.|
-|Год|Себестоимость корректируется при выполнении учета в течение одного года с рабочей даты.|
-|Всегда|Себестоимость корректируется при учете всегда, независимо от даты учета.|
+|<span data-ttu-id="fbe2b-123">Никогда</span><span class="sxs-lookup"><span data-stu-id="fbe2b-123">Never</span></span>|<span data-ttu-id="fbe2b-124">При учете себестоимости не корректируется.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-124">Costs are not adjusted when posting</span></span>|
+|<span data-ttu-id="fbe2b-125">День</span><span class="sxs-lookup"><span data-stu-id="fbe2b-125">Day</span></span>|<span data-ttu-id="fbe2b-126">Себестоимость корректируется при выполнении учета в течение одного дня от рабочей даты.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-126">Costs are adjusted if posting occurs within one day from the work date</span></span>|
+|<span data-ttu-id="fbe2b-127">Неделя</span><span class="sxs-lookup"><span data-stu-id="fbe2b-127">Week</span></span>|<span data-ttu-id="fbe2b-128">Себестоимость корректируется выполнении учета в течение одной недели с рабочей даты.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-128">Costs are adjusted if posting occurs within one week from the work date</span></span>|
+|<span data-ttu-id="fbe2b-129">Месяц</span><span class="sxs-lookup"><span data-stu-id="fbe2b-129">Month</span></span>|<span data-ttu-id="fbe2b-130">Себестоимость корректируется выполнении учета в течение одного месяца с рабочей даты.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-130">Costs are adjusted if posting occurs within one month from the work date</span></span>|
+|<span data-ttu-id="fbe2b-131">Квартал</span><span class="sxs-lookup"><span data-stu-id="fbe2b-131">Quarter</span></span>|<span data-ttu-id="fbe2b-132">Себестоимость корректируется выполнении учета в течение одного квартала с рабочей даты.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-132">Costs are adjusted if posting occurs within one quarter from the work date</span></span>|
+|<span data-ttu-id="fbe2b-133">Год</span><span class="sxs-lookup"><span data-stu-id="fbe2b-133">Year</span></span>|<span data-ttu-id="fbe2b-134">Себестоимость корректируется при выполнении учета в течение одного года с рабочей даты.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-134">Costs are adjusted if posting occurs within one year from the work date</span></span>|
+|<span data-ttu-id="fbe2b-135">Всегда</span><span class="sxs-lookup"><span data-stu-id="fbe2b-135">Always</span></span>|<span data-ttu-id="fbe2b-136">Себестоимость корректируется при учете всегда, независимо от даты учета.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-136">Costs are always adjusted when posting, irrespective of the posting date</span></span>|
 
-## <a name="to-adjust-item-costs-manually"></a>Корректировка себестоимости товара вручную
-1. В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Коррекция себест. запасов**, а затем выберите связанную ссылку.
-2. В окне **Коррекция себест. запасов** укажите, какие именно товары требуются коррекции себестоимости и будет ли скорректированная себестоимость сразу же учитываться в главной книге.
+## <a name="to-adjust-item-costs-manually"></a><span data-ttu-id="fbe2b-137">Корректировка себестоимости товара вручную</span><span class="sxs-lookup"><span data-stu-id="fbe2b-137">To adjust item costs manually</span></span>
+1. <span data-ttu-id="fbe2b-138">В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Коррекция себест. запасов**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-138">In the top right corner, choose the **Search for Page or Report** icon, enter **Adjust Cost - Item Entries**, and then choose the related link.</span></span>
+2. <span data-ttu-id="fbe2b-139">В окне **Коррекция себест. запасов** укажите, какие именно товары требуются коррекции себестоимости и будет ли скорректированная себестоимость сразу же учитываться в главной книге.</span><span class="sxs-lookup"><span data-stu-id="fbe2b-139">In the **Adjust Cost - Item Entries** window, specify which items to adjust costs for and whether the adjusted costs will be posted to the general ledger at the same time.</span></span>
 
-## <a name="see-also"></a>См. также
-[Управление запасами](inventory-manage-inventory.md)  
-[Практическое руководство: учет себестоимости товаров в главной книге](inventory-how-post-inventory-cost-gl.md)  
-[Управление продажами](sales-manage-sales.md)  
-[Управление закупками](purchasing-manage-purchasing.md)
+## <a name="see-also"></a><span data-ttu-id="fbe2b-140">См. также</span><span class="sxs-lookup"><span data-stu-id="fbe2b-140">See Also</span></span>
+[<span data-ttu-id="fbe2b-141">Управление запасами</span><span class="sxs-lookup"><span data-stu-id="fbe2b-141">Manage Inventory</span></span>](inventory-manage-inventory.md)  
+[<span data-ttu-id="fbe2b-142">Практическое руководство: учет себестоимости товаров в главной книге</span><span class="sxs-lookup"><span data-stu-id="fbe2b-142">How to: Post Inventory Costs to the General Ledger</span></span>](inventory-how-post-inventory-cost-gl.md)  
+[<span data-ttu-id="fbe2b-143">Управление продажами</span><span class="sxs-lookup"><span data-stu-id="fbe2b-143">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="fbe2b-144">Управление закупками</span><span class="sxs-lookup"><span data-stu-id="fbe2b-144">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)
 

@@ -1,1 +1,1 @@
-Клиент Microsoft Dynamics NAV Tablet
+<span data-ttu-id="ad0ff-101">Клиент Microsoft Dynamics NAV Tablet</span><span class="sxs-lookup"><span data-stu-id="ad0ff-101">Microsoft Dynamics NAV Tablet client</span></span>

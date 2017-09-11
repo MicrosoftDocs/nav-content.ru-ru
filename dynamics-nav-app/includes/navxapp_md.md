@@ -1,1 +1,1 @@
-Расширение NAV
+<span data-ttu-id="61d0c-101">Расширение NAV</span><span class="sxs-lookup"><span data-stu-id="61d0c-101">NAV extension</span></span>

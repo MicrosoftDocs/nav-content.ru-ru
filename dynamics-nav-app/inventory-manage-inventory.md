@@ -7,37 +7,37 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 7f6ce99476a459e7c7d29a9224b5b992271a8b56
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 4e1d7f9a8e2c22ab19a8b7a5fbf57bd0509a9b4a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
 
-# <a name="manage-inventory"></a>Управление запасами
-Для каждого физического продукта, которым осуществляется торговля, необходимо создать карточку товара с типом «Запасы». Товары, которые предлагаются клиентам, но не содержатся на складе, можно зарегистрировать как нескладируемые товары, которые можно преобразовать в складируемые товары в случае необходимости. Можно увеличить или уменьшить количество товара на складе путем учета непосредственно в операциях книги товаров, например после проведения физической инвентаризации или если вы не регистрируете покупки.
+# <a name="manage-inventory"></a><span data-ttu-id="3aa90-102">Управление запасами</span><span class="sxs-lookup"><span data-stu-id="3aa90-102">Manage Inventory</span></span>
+<span data-ttu-id="3aa90-103">Для каждого физического продукта, которым осуществляется торговля, необходимо создать карточку товара с типом «Запасы».</span><span class="sxs-lookup"><span data-stu-id="3aa90-103">For each physical product that you trade in you must create an item card of type Inventory.</span></span> <span data-ttu-id="3aa90-104">Товары, которые предлагаются клиентам, но не содержатся на складе, можно зарегистрировать как нескладируемые товары, которые можно преобразовать в складируемые товары в случае необходимости.</span><span class="sxs-lookup"><span data-stu-id="3aa90-104">Items that you offer to customers but do not keep in inventory you can register as nonstock items, which you can convert to inventory items when necessary.</span></span> <span data-ttu-id="3aa90-105">Можно увеличить или уменьшить количество товара на складе путем учета непосредственно в операциях книги товаров, например после проведения физической инвентаризации или если вы не регистрируете покупки.</span><span class="sxs-lookup"><span data-stu-id="3aa90-105">You can increase or decrease the quantity of an item in inventory by posting directly to the item ledger entries, for example, after a physical count or if you do not record purchases.</span></span>
 
-Приходы и расходы склада также естественным образом записываются при учете документов покупки или продажи соответственно. Дополнительные сведения см. в разделах [Практическое руководство. Регистрация покупок](purchasing-how-record-purchases.md), [Практическое руководство. Продажа товаров](sales-how-sell-products.md) и [Практическое руководство. Выставление счетов продажи](sales-how-invoice-sales.md).
+<span data-ttu-id="3aa90-106">Приходы и расходы склада также естественным образом записываются при учете документов покупки или продажи соответственно.</span><span class="sxs-lookup"><span data-stu-id="3aa90-106">Inventory increases and decreases are naturally also recorded when you post purchase and sales documents respectively.</span></span> <span data-ttu-id="3aa90-107">Дополнительные сведения см. в разделах [Практическое руководство. Регистрация покупок](purchasing-how-record-purchases.md), [Практическое руководство. Продажа товаров](sales-how-sell-products.md) и [Практическое руководство. Выставление счетов продажи](sales-how-invoice-sales.md).</span><span class="sxs-lookup"><span data-stu-id="3aa90-107">For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md), [How to: Sell Products](sales-how-sell-products.md), and [How to: Invoice Sales](sales-how-invoice-sales.md).</span></span>
 
-Чтобы улучшить общую видимость товаров и упростить их поиск, можно классифицировать товары по категориям и назначить им атрибуты, по которым можно выполнять поиск и сортировку.   
+<span data-ttu-id="3aa90-108">Чтобы улучшить общую видимость товаров и упростить их поиск, можно классифицировать товары по категориям и назначить им атрибуты, по которым можно выполнять поиск и сортировку.</span><span class="sxs-lookup"><span data-stu-id="3aa90-108">To increase your overview of items and to help you find them, you can categorize items and give them attributes to search and sort by.</span></span>   
 
-**Примечание**. В Dynamics NAV для обозначения продукта используется термин “товар”.
+<span data-ttu-id="3aa90-109">**Примечание**. В Dynamics NAV для обозначения продукта используется термин “товар”.</span><span class="sxs-lookup"><span data-stu-id="3aa90-109">**Note**: In Dynamics NAV, a product is referred to using the term “item”.</span></span>
 
-|Действие |Ссылка |
+|<span data-ttu-id="3aa90-110">Действие</span><span class="sxs-lookup"><span data-stu-id="3aa90-110">To</span></span> |<span data-ttu-id="3aa90-111">Ссылка</span><span class="sxs-lookup"><span data-stu-id="3aa90-111">See</span></span> |
 |---|----|
-|Создайте карточки товара для каждого товара в запасах, которым вы торгуете.|[Практическое руководство. Регистрация новых продуктов](inventory-how-register-new-products.md)|
-|Сохраняйте общее представление о товарах и упрощайте их поиск и сортировку, систематизируя товары по категориям.|[Практическое руководство. Категоризация товаров](inventory-how-categorize-items.md)|  
-|Назначьте своим товарам атрибуты товара с различными типами значений, чтобы упростить сортировку и поиск товара.|[Практическое руководство. Работа с атрибутами товаров](inventory-how-work-item-attributes.md)|
-|Создайте специальные карточки товара для товаров, которые предлагаются клиентам, но не хранятся на складе.|[Практическое руководство. Работа с нескладируемыми товарами](inventory-how-work-nonstock-items.md)|
-|Повышение или понижение стоимости одного или нескольких товаров в запасах путем учета текущей вычисленной стоимости.|[Практическое руководство. Переоценка запасов](inventory-how-revalue-inventory.md)|
-|Скорректируйте себестоимость товаров, автоматически или вручную, чтобы перенести изменения себестоимости из входящих операций на соответствующие исходящие операции.|[Практическое руководство. Корректировка себестоимости товаров](inventory-how-adjust-item-costs.md)|
-|Отразите изменения стоимости запасов в книгах организации путем учета себестоимости запасов, автоматически или вручную, на соответствующих счетах товаров в главной книге.|[Практическое руководство: учет себестоимости товаров в главной книге](inventory-how-post-inventory-cost-gl.md)|
+|<span data-ttu-id="3aa90-112">Создайте карточки товара для каждого товара в запасах, которым вы торгуете.</span><span class="sxs-lookup"><span data-stu-id="3aa90-112">Create item cards for inventory item that you trade in.</span></span>|[<span data-ttu-id="3aa90-113">Практическое руководство. Регистрация новых продуктов</span><span class="sxs-lookup"><span data-stu-id="3aa90-113">How to: Register New Products</span></span>](inventory-how-register-new-products.md)|
+|<span data-ttu-id="3aa90-114">Сохраняйте общее представление о товарах и упрощайте их поиск и сортировку, систематизируя товары по категориям.</span><span class="sxs-lookup"><span data-stu-id="3aa90-114">Maintain an overview of items and help you find and sort items by organizing them in categories.</span></span>|[<span data-ttu-id="3aa90-115">Практическое руководство. Категоризация товаров</span><span class="sxs-lookup"><span data-stu-id="3aa90-115">How to: Categorize Items</span></span>](inventory-how-categorize-items.md)|  
+|<span data-ttu-id="3aa90-116">Назначьте своим товарам атрибуты товара с различными типами значений, чтобы упростить сортировку и поиск товара.</span><span class="sxs-lookup"><span data-stu-id="3aa90-116">Assign item attributes of different value types to your items to help you sort and find items.</span></span>|[<span data-ttu-id="3aa90-117">Практическое руководство. Работа с атрибутами товаров</span><span class="sxs-lookup"><span data-stu-id="3aa90-117">How to: Work with Item Attributes</span></span>](inventory-how-work-item-attributes.md)|
+|<span data-ttu-id="3aa90-118">Создайте специальные карточки товара для товаров, которые предлагаются клиентам, но не хранятся на складе.</span><span class="sxs-lookup"><span data-stu-id="3aa90-118">Create special item cards for items that you offer to customers but do not maintain inventory for.</span></span>|[<span data-ttu-id="3aa90-119">Практическое руководство. Работа с нескладируемыми товарами</span><span class="sxs-lookup"><span data-stu-id="3aa90-119">How to: Work with Nonstock Items</span></span>](inventory-how-work-nonstock-items.md)|
+|<span data-ttu-id="3aa90-120">Повышение или понижение стоимости одного или нескольких товаров в запасах путем учета текущей вычисленной стоимости.</span><span class="sxs-lookup"><span data-stu-id="3aa90-120">Appreciate or depreciate the value of one or more items in inventory by posting their current, calculated value.</span></span>|[<span data-ttu-id="3aa90-121">Практическое руководство. Переоценка запасов</span><span class="sxs-lookup"><span data-stu-id="3aa90-121">How to: Revalue Inventory</span></span>](inventory-how-revalue-inventory.md)|
+|<span data-ttu-id="3aa90-122">Скорректируйте себестоимость товаров, автоматически или вручную, чтобы перенести изменения себестоимости из входящих операций на соответствующие исходящие операции.</span><span class="sxs-lookup"><span data-stu-id="3aa90-122">Adjust item costs, either automatically or manually, to forward cost changes from inbound entries to their related outbound entries.</span></span>|[<span data-ttu-id="3aa90-123">Практическое руководство. Корректировка себестоимости товаров</span><span class="sxs-lookup"><span data-stu-id="3aa90-123">How to: Adjust Item Costs</span></span>](inventory-how-adjust-item-costs.md)|
+|<span data-ttu-id="3aa90-124">Отразите изменения стоимости запасов в книгах организации путем учета себестоимости запасов, автоматически или вручную, на соответствующих счетах товаров в главной книге.</span><span class="sxs-lookup"><span data-stu-id="3aa90-124">Reflect inventory value changes in your company books by posting inventory costs, either automatically or manually, to the related inventory accounts in the general ledger.</span></span>|[<span data-ttu-id="3aa90-125">Практическое руководство: учет себестоимости товаров в главной книге</span><span class="sxs-lookup"><span data-stu-id="3aa90-125">How to: Post Inventory Costs to the General Ledger</span></span>](inventory-how-post-inventory-cost-gl.md)|
 
-## <a name="see-also"></a>См. также  
-[Управление закупками](purchasing-manage-purchasing.md)  
-[Управление продажами](sales-manage-sales.md)  
-[Работа с Dynamics NAV](ui-work-product.md)  
-[Функции, доступные в различных деловых областях](ui-across-business-areas.md)
+## <a name="see-also"></a><span data-ttu-id="3aa90-126">См. также</span><span class="sxs-lookup"><span data-stu-id="3aa90-126">See Also</span></span>  
+[<span data-ttu-id="3aa90-127">Управление закупками</span><span class="sxs-lookup"><span data-stu-id="3aa90-127">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)  
+[<span data-ttu-id="3aa90-128">Управление продажами</span><span class="sxs-lookup"><span data-stu-id="3aa90-128">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="3aa90-129">Работа с Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="3aa90-129">Work With Dynamics NAV</span></span>](ui-work-product.md)  
+[<span data-ttu-id="3aa90-130">Функции, доступные в различных деловых областях</span><span class="sxs-lookup"><span data-stu-id="3aa90-130">Across Business Areas</span></span>](ui-across-business-areas.md)
 

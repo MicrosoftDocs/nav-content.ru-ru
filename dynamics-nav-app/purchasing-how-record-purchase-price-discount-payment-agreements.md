@@ -9,62 +9,62 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f99bb0aeef2c25048b0da3e0476ae2d612bff562
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: af5ba3a17412ba4c123c4d3cb337b8d5df36cace
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-#<a name="how-to-record-purchase-prices-and-discounts"></a>Практическое руководство. Регистрация цен покупки и скидок
-Необходимо определить соглашения о скидках и ценах, которые будут применяться при покупке у различных поставщиков, чтобы к документам покупки, созданным для поставщика, применялись согласованные правила и значения.
+#<a name="how-to-record-purchase-prices-and-discounts"></a><span data-ttu-id="fd55d-102">Практическое руководство. Регистрация цен покупки и скидок</span><span class="sxs-lookup"><span data-stu-id="fd55d-102">How to: Record Purchase Prices and Discounts</span></span>
+<span data-ttu-id="fd55d-103">Необходимо определить соглашения о скидках и ценах, которые будут применяться при покупке у различных поставщиков, чтобы к документам покупки, созданным для поставщика, применялись согласованные правила и значения.</span><span class="sxs-lookup"><span data-stu-id="fd55d-103">The different price and discount agreements that apply when you buy from different vendors must be defined so that the agreed rules and values are applied to purchase documents that you create for the vendors.</span></span>
 
-В отношении цен, вы можете вводить в строки покупок определенную цену для определенного сочетания поставщика, минимального количества, единицы измерения или даты начала/окончания.
+<span data-ttu-id="fd55d-104">В отношении цен, вы можете вводить в строки покупок определенную цену для определенного сочетания поставщика, минимального количества, единицы измерения или даты начала/окончания.</span><span class="sxs-lookup"><span data-stu-id="fd55d-104">Concerning prices, you can have a special purchase price inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span>
 
-В отношении скидок, вы можете настроить и использовать два типа скидок покупки:
+<span data-ttu-id="fd55d-105">В отношении скидок, вы можете настроить и использовать два типа скидок покупки:</span><span class="sxs-lookup"><span data-stu-id="fd55d-105">Concerning discounts, you can set up and use two types of purchase discounts:</span></span>
 
-|Тип скидки |Описание |
+|<span data-ttu-id="fd55d-106">Тип скидки</span><span class="sxs-lookup"><span data-stu-id="fd55d-106">Discount Type</span></span> |<span data-ttu-id="fd55d-107">Описание</span><span class="sxs-lookup"><span data-stu-id="fd55d-107">Description</span></span> |
 |--------------|------------|
-|**Скидки строки покупки**|Сумма скидки, которая вводится в строки покупки для определенного сочетания поставщика, минимального количества, единицы измерения или даты начала/окончания. Эта функция работает так же, как и для цен покупки.|
-|**Скидка по счету**|Процентная скидка, которая вычитается из общей суммы документа, если сумма всех строк документа покупки превышает определенный минимум.|
+|<span data-ttu-id="fd55d-108">**Скидки строки покупки**</span><span class="sxs-lookup"><span data-stu-id="fd55d-108">**Purchase Line Discount**</span></span>|<span data-ttu-id="fd55d-109">Сумма скидки, которая вводится в строки покупки для определенного сочетания поставщика, минимального количества, единицы измерения или даты начала/окончания.</span><span class="sxs-lookup"><span data-stu-id="fd55d-109">An amount discount that is inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span> <span data-ttu-id="fd55d-110">Эта функция работает так же, как и для цен покупки.</span><span class="sxs-lookup"><span data-stu-id="fd55d-110">This works in the same way as for purchase prices.</span></span>|
+|<span data-ttu-id="fd55d-111">**Скидка по счету**</span><span class="sxs-lookup"><span data-stu-id="fd55d-111">**Invoice Discount**</span></span>|<span data-ttu-id="fd55d-112">Процентная скидка, которая вычитается из общей суммы документа, если сумма всех строк документа покупки превышает определенный минимум.</span><span class="sxs-lookup"><span data-stu-id="fd55d-112">A percentage discount that is subtracted from the document total if the value amount of all lines on a purchase document exceeds a certain minimum.</span></span>|
 
-Так как скидки строк покупки и цены покупки зависят от комбинации товара и поставщика, можно также ввести эту конфигурацию из карточки товара, в которой определяются правила и значения. Дополнительные сведения см. в разделе [Практическое руководство. Регистрация новых продуктов](inventory-how-register-new-products.md).
+<span data-ttu-id="fd55d-113">Так как скидки строк покупки и цены покупки зависят от комбинации товара и поставщика, можно также ввести эту конфигурацию из карточки товара, в которой определяются правила и значения.</span><span class="sxs-lookup"><span data-stu-id="fd55d-113">Because purchase line discounts and purchase prices are based on a combination of item and vendor, you can also enter this configuration from the item card, where the rules and values are defined.</span></span> <span data-ttu-id="fd55d-114">Дополнительные сведения см. в разделе [Практическое руководство. Регистрация новых продуктов](inventory-how-register-new-products.md).</span><span class="sxs-lookup"><span data-stu-id="fd55d-114">For more information, see [How to: Register New Products](inventory-how-register-new-products.md).</span></span>
 
-## <a name="to-set-up-a-special-purchase-price-for-a-vendor"></a>Настройка специальных цен покупки для поставщика
-1. В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Поставщики**, а затем выберите связанную ссылку.
-2. Откройте соответствующую карточку поставщика и выберите действие **Цены**.
+## <a name="to-set-up-a-special-purchase-price-for-a-vendor"></a><span data-ttu-id="fd55d-115">Настройка специальных цен покупки для поставщика</span><span class="sxs-lookup"><span data-stu-id="fd55d-115">To set up a special purchase price for a vendor</span></span>
+1. <span data-ttu-id="fd55d-116">В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Поставщики**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="fd55d-116">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="fd55d-117">Откройте соответствующую карточку поставщика и выберите действие **Цены**.</span><span class="sxs-lookup"><span data-stu-id="fd55d-117">Open the relevant vendor card, and then choose the **Prices** action.</span></span>
 
-    В поле **Тип покупки** будет стоять значение **Поставщик**, а поле **Код покупки** будет содержать номер поставщика.
-3. Заполните поля в строке по мере необходимости. Выберите поле для чтения краткого описания поля или ссылки на дополнительную информацию.
-4. Заполните строку для каждой комбинации, для которой поставщик предоставляет скидку строки покупки.
+    <span data-ttu-id="fd55d-118">В поле **Тип покупки** будет стоять значение **Поставщик**, а поле **Код покупки** будет содержать номер поставщика.</span><span class="sxs-lookup"><span data-stu-id="fd55d-118">The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.</span></span>
+3. <span data-ttu-id="fd55d-119">Заполните поля в строке по мере необходимости.</span><span class="sxs-lookup"><span data-stu-id="fd55d-119">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="fd55d-120">Выберите поле для чтения краткого описания поля или ссылки на дополнительную информацию.</span><span class="sxs-lookup"><span data-stu-id="fd55d-120">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="fd55d-121">Заполните строку для каждой комбинации, для которой поставщик предоставляет скидку строки покупки.</span><span class="sxs-lookup"><span data-stu-id="fd55d-121">Fill a line for each combination for which the vendor grants you a purchase line discount.</span></span>
 
-## <a name="to-set-up-a-line-discount-for-a-vendor"></a>Настройка скидки строки для поставщика
-1. В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Поставщики**, а затем выберите связанную ссылку.
-2. Откройте соответствующую карточку поставщика и выберите действие **Скидки строки**.
+## <a name="to-set-up-a-line-discount-for-a-vendor"></a><span data-ttu-id="fd55d-122">Настройка скидки строки для поставщика</span><span class="sxs-lookup"><span data-stu-id="fd55d-122">To set up a line discount for a vendor</span></span>
+1. <span data-ttu-id="fd55d-123">В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Поставщики**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="fd55d-123">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="fd55d-124">Откройте соответствующую карточку поставщика и выберите действие **Скидки строки**.</span><span class="sxs-lookup"><span data-stu-id="fd55d-124">Open the relevant vendor card, and then choose the **Line Discounts** action.</span></span>
 
-    В поле **Тип покупки** будет стоять значение **Поставщик**, а поле **Код покупки** будет содержать номер поставщика.
-3. Заполните поля в строке по мере необходимости. Выберите поле для чтения краткого описания поля или ссылки на дополнительную информацию.
-4. Заполните строку для каждой комбинации, для которой поставщик предоставляет скидку строки покупки.
+    <span data-ttu-id="fd55d-125">В поле **Тип покупки** будет стоять значение **Поставщик**, а поле **Код покупки** будет содержать номер поставщика.</span><span class="sxs-lookup"><span data-stu-id="fd55d-125">The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.</span></span>
+3. <span data-ttu-id="fd55d-126">Заполните поля в строке по мере необходимости.</span><span class="sxs-lookup"><span data-stu-id="fd55d-126">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="fd55d-127">Выберите поле для чтения краткого описания поля или ссылки на дополнительную информацию.</span><span class="sxs-lookup"><span data-stu-id="fd55d-127">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="fd55d-128">Заполните строку для каждой комбинации, для которой поставщик предоставляет скидку строки покупки.</span><span class="sxs-lookup"><span data-stu-id="fd55d-128">Fill a line for each combination for which the vendor grants you a purchase line discount.</span></span>
 
-## <a name="to-set-up-an-invoice-discount-for-a-vendor"></a>Настройка скидки по счету для поставщика
-Когда поставщики проинформируют вас о том, какие скидки они предоставляют, укажите в карточках этих поставщиков коды скидок по счетам и настройте условия для каждого кода.
+## <a name="to-set-up-an-invoice-discount-for-a-vendor"></a><span data-ttu-id="fd55d-129">Настройка скидки по счету для поставщика</span><span class="sxs-lookup"><span data-stu-id="fd55d-129">To set up an invoice discount for a vendor</span></span>
+<span data-ttu-id="fd55d-130">Когда поставщики проинформируют вас о том, какие скидки они предоставляют, укажите в карточках этих поставщиков коды скидок по счетам и настройте условия для каждого кода.</span><span class="sxs-lookup"><span data-stu-id="fd55d-130">When your vendors have informed you which invoice discounts they grant, enter the invoice discount code on the vendor cards and set up the terms for each code.</span></span>
 
-1. В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Поставщики**, а затем выберите связанную ссылку.
-2. Откройте карточку поставщика, который имеет право на получение скидок по счетам.
-3. В поле **Код скидки по счету** выберите код соответствующих условий скидки по счету, который будет использован программой для вычисления скидок по счету для поставщика.
+1. <span data-ttu-id="fd55d-131">В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Поставщики**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="fd55d-131">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="fd55d-132">Откройте карточку поставщика, который имеет право на получение скидок по счетам.</span><span class="sxs-lookup"><span data-stu-id="fd55d-132">Open the vendor card for a vendor that will be eligible for invoice discounts.</span></span>
+3. <span data-ttu-id="fd55d-133">В поле **Код скидки по счету** выберите код соответствующих условий скидки по счету, который будет использован программой для вычисления скидок по счету для поставщика.</span><span class="sxs-lookup"><span data-stu-id="fd55d-133">In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the vendor.</span></span>
 
-    **Примечание**. Коды скидок по счету представлены существующими карточками поставщиков. Это позволяет быстро назначить условия скидки по счету поставщикам, выбрав название другого поставщика с такими же условиями.
+    <span data-ttu-id="fd55d-134">**Примечание**. Коды скидок по счету представлены существующими карточками поставщиков.</span><span class="sxs-lookup"><span data-stu-id="fd55d-134">**Note**: Invoice discount codes are represented by existing vendor cards.</span></span> <span data-ttu-id="fd55d-135">Это позволяет быстро назначить условия скидки по счету поставщикам, выбрав название другого поставщика с такими же условиями.</span><span class="sxs-lookup"><span data-stu-id="fd55d-135">This enables you to quickly assign invoice discount terms to vendors by picking the name of another vendors who will have the same terms.</span></span>
 
-    Перейдите к настройке новых условий скидок по счету покупки.
-4. В окне **Карточка поставщика** выберите действие **Скидки по счету**. Откроется окно **Скидки по счету поставщика**.
-5. В поле **Код валюты** укажите код валюты, к которой относятся условия скидки по счету в строке. Оставьте поле пустым, чтобы установить условия скидки по счету в местной валюте (руб.).
-6. В поле **Минимальная сумма** введите минимальную сумму, которая должна быть на счете, чтобы для этого счета была установлена скидка.
-7. В поле **Скидка (%)** введите скидку по счету в процентах от суммы счета.
-8. Повторите шаги 5–7 для каждой валюты, в которой поставщик будет получать отдельную скидку по счету.
+    <span data-ttu-id="fd55d-136">Перейдите к настройке новых условий скидок по счету покупки.</span><span class="sxs-lookup"><span data-stu-id="fd55d-136">Proceed to set up new the purchase invoice discount terms.</span></span>
+4. <span data-ttu-id="fd55d-137">В окне **Карточка поставщика** выберите действие **Скидки по счету**.</span><span class="sxs-lookup"><span data-stu-id="fd55d-137">In the **Vendor Card** window, choose the **Invoice Discounts** action.</span></span> <span data-ttu-id="fd55d-138">Откроется окно **Скидки по счету поставщика**.</span><span class="sxs-lookup"><span data-stu-id="fd55d-138">The **Vend. Invoice Discounts** window opens.</span></span>
+5. <span data-ttu-id="fd55d-139">В поле **Код валюты** укажите код валюты, к которой относятся условия скидки по счету в строке.</span><span class="sxs-lookup"><span data-stu-id="fd55d-139">In the **Currency Code** field, enter the code for a currency that the invoice discount terms on the line applies to.</span></span> <span data-ttu-id="fd55d-140">Оставьте поле пустым, чтобы установить условия скидки по счету в местной валюте (руб.).</span><span class="sxs-lookup"><span data-stu-id="fd55d-140">Leave the field blank to set up invoice discount terms in USD.</span></span>
+6. <span data-ttu-id="fd55d-141">В поле **Минимальная сумма** введите минимальную сумму, которая должна быть на счете, чтобы для этого счета была установлена скидка.</span><span class="sxs-lookup"><span data-stu-id="fd55d-141">In the **Minimum Amount** field, enter the minimum amount that an invoice must have to be eligible for the discount.</span></span>
+7. <span data-ttu-id="fd55d-142">В поле **Скидка (%)** введите скидку по счету в процентах от суммы счета.</span><span class="sxs-lookup"><span data-stu-id="fd55d-142">In the **Discount %** field, enter the invoice discount as a percentage of the invoice amount.</span></span>
+8. <span data-ttu-id="fd55d-143">Повторите шаги 5–7 для каждой валюты, в которой поставщик будет получать отдельную скидку по счету.</span><span class="sxs-lookup"><span data-stu-id="fd55d-143">Repeat steps 5 through 7 for each currency that the vendor will receive a different invoice discount for.</span></span>
 
-Скидка по счету теперь настроена и назначена соответствующему поставщику. При выборе кода поставщика в поле **Код скидки по счету** на других карточках поставщиков этим поставщикам назначается так же скидка по счету.
+<span data-ttu-id="fd55d-144">Скидка по счету теперь настроена и назначена соответствующему поставщику.</span><span class="sxs-lookup"><span data-stu-id="fd55d-144">The invoice discount is now set up and assigned to the vendor in question.</span></span> <span data-ttu-id="fd55d-145">При выборе кода поставщика в поле **Код скидки по счету** на других карточках поставщиков этим поставщикам назначается так же скидка по счету.</span><span class="sxs-lookup"><span data-stu-id="fd55d-145">When you select the vendor code in the **Invoice Disc. Code** field on other vendor cards, the same invoice discount is assigned to those vendor.</span></span>
 
-## <a name="see-also"></a>См. также  
-[Настройка покупок](purchasing-setup-purchasing.md)  
-[Управление закупками](purchasing-manage-purchasing.md)
+## <a name="see-also"></a><span data-ttu-id="fd55d-146">См. также</span><span class="sxs-lookup"><span data-stu-id="fd55d-146">See Also</span></span>  
+[<span data-ttu-id="fd55d-147">Настройка покупок</span><span class="sxs-lookup"><span data-stu-id="fd55d-147">Set Up Purchasing</span></span>](purchasing-setup-purchasing.md)  
+[<span data-ttu-id="fd55d-148">Управление закупками</span><span class="sxs-lookup"><span data-stu-id="fd55d-148">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)
 

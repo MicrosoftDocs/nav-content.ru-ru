@@ -1,1 +1,1 @@
-Клиент с ролевой настройкой
+<span data-ttu-id="a1cf9-101">Клиент с ролевой настройкой</span><span class="sxs-lookup"><span data-stu-id="a1cf9-101">RoleTailored client</span></span>

@@ -1,1 +1,1 @@
-Для просмотра разделов окон в этом разделе выберите подоперации в содержании.
+<span data-ttu-id="31150-101">Для просмотра разделов окон в этом разделе выберите подоперации в содержании.</span><span class="sxs-lookup"><span data-stu-id="31150-101">To see the window topics in this section, choose the subentries in the table of contents.</span></span>

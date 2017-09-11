@@ -1,1 +1,1 @@
-Консоль разработки Microsoft Dynamics NAV 2017
+<span data-ttu-id="bb082-101">Консоль разработки Microsoft Dynamics NAV 2017</span><span class="sxs-lookup"><span data-stu-id="bb082-101">Microsoft Dynamics NAV 2017 Development Shell</span></span>

@@ -1,1 +1,1 @@
-Административная консоль Microsoft Dynamics NAV 2017
+<span data-ttu-id="dac10-101">Административная консоль Microsoft Dynamics NAV 2017</span><span class="sxs-lookup"><span data-stu-id="dac10-101">Microsoft Dynamics NAV 2017 Administration Shell</span></span>

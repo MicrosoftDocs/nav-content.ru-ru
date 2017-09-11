@@ -1,1 +1,1 @@
-Среда разработки Microsoft Dynamics NAV
+<span data-ttu-id="1a43f-101">Среда разработки Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="1a43f-101">Microsoft Dynamics NAV Development Environment</span></span>
