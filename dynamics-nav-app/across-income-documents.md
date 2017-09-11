@@ -7,7 +7,7 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
 ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
 ms.openlocfilehash: 49acc3549180b73dada6415f3ea40f17c1dd9e4c
