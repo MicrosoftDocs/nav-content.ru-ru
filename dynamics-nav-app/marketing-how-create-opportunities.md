@@ -1,46 +1,48 @@
 ---
-title: "Практическое руководство. Создание возможностей продаж"
+title: "Создание возможностей продаж"
+description: "Описывается создание возможностей из менеджеров по продажам или контактов в Dynamics NAV."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 5217d19534706160a74de7ade2fa4af556277de5
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: d0a3517e794964d139a04b25e5ea7c9acf1bd4f8
 ms.contentlocale: ru-ru
-ms.lasthandoff: 09/11/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-create-sales-opportunities"></a><span data-ttu-id="f4a72-102">Практическое руководство. Создание возможностей продаж</span><span class="sxs-lookup"><span data-stu-id="f4a72-102">How to: Create Sales Opportunities</span></span>
-<span data-ttu-id="f4a72-103">Можно создать возможности для возможностей торговли с имеющимися у вас контактами.</span><span class="sxs-lookup"><span data-stu-id="f4a72-103">You can create opportunities for the sales opportunities you have on your contacts.</span></span> <span data-ttu-id="f4a72-104">Все возможности должны назначаться менеджеру или специалисту по закупкам, а также должны содержать контакт.</span><span class="sxs-lookup"><span data-stu-id="f4a72-104">All opportunities must be assigned to a salesperson or purchaser and must have a contact.</span></span>
+# <a name="how-to-create-sales-opportunities"></a><span data-ttu-id="8b71e-103">Практическое руководство. Создание возможностей продаж</span><span class="sxs-lookup"><span data-stu-id="8b71e-103">How to: Create Sales Opportunities</span></span>
+<span data-ttu-id="8b71e-104">Можно создать возможности для возможностей торговли с имеющимися у вас контактами.</span><span class="sxs-lookup"><span data-stu-id="8b71e-104">You can create opportunities for the sales opportunities you have on your contacts.</span></span> <span data-ttu-id="8b71e-105">Все возможности должны назначаться менеджеру или специалисту по закупкам, а также должны содержать контакт.</span><span class="sxs-lookup"><span data-stu-id="8b71e-105">All opportunities must be assigned to a salesperson or purchaser and must have a contact.</span></span>
 
-<span data-ttu-id="f4a72-105">Возможности продаж можно создавать в окне **Список возможностей**.</span><span class="sxs-lookup"><span data-stu-id="f4a72-105">You can create opportunities from the **Opportunity List** window.</span></span> <span data-ttu-id="f4a72-106">Но обычно возможности создаются из конкретных контактов или менеджеров по продажам.</span><span class="sxs-lookup"><span data-stu-id="f4a72-106">But you typically will create opportunities from the specific contact or salespeople.</span></span>
+<span data-ttu-id="8b71e-106">Возможности продаж можно создавать в окне **Список возможностей**.</span><span class="sxs-lookup"><span data-stu-id="8b71e-106">You can create opportunities from the **Opportunity List** window.</span></span> <span data-ttu-id="8b71e-107">Но обычно возможности создаются из конкретных контактов или менеджеров по продажам.</span><span class="sxs-lookup"><span data-stu-id="8b71e-107">But you typically will create opportunities from the specific contact or salespeople.</span></span>
 
-<span data-ttu-id="f4a72-107">Перед созданием возможностей необходимо настроить циклы продаж возможностей.</span><span class="sxs-lookup"><span data-stu-id="f4a72-107">Before you can create opportunities, you must set up opportunity sales cycles.</span></span> <span data-ttu-id="f4a72-108">Дополнительные сведения см. в разделе [Практическое руководство. Настройка циклов продаж и этапов для возможностей](marketing-how-setup-opportunity-sales-cycles-stages.md).</span><span class="sxs-lookup"><span data-stu-id="f4a72-108">For more information see [How to: Set Up Opportunity Sales Cycles and Stages](marketing-how-setup-opportunity-sales-cycles-stages.md).</span></span>
+<span data-ttu-id="8b71e-108">Перед созданием возможностей необходимо настроить циклы продаж возможностей.</span><span class="sxs-lookup"><span data-stu-id="8b71e-108">Before you can create opportunities, you must set up opportunity sales cycles.</span></span> <span data-ttu-id="8b71e-109">Дополнительные сведения см. в разделе [Практическое руководство. Настройка циклов продаж и этапов для возможностей](marketing-how-setup-opportunity-sales-cycles-stages.md).</span><span class="sxs-lookup"><span data-stu-id="8b71e-109">For more information see [How to: Set Up Opportunity Sales Cycles and Stages](marketing-how-setup-opportunity-sales-cycles-stages.md).</span></span>
 
-## <a name="to-create-an-opportunity-from-a-salesperson"></a><span data-ttu-id="f4a72-109">Создание возможности для менеджера по продажам</span><span class="sxs-lookup"><span data-stu-id="f4a72-109">To create an opportunity from a salesperson</span></span>
-1. <span data-ttu-id="f4a72-110">В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Менеджеры**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="f4a72-110">In the top right corner, choose the **Search for Page or Report** icon, enter **Salespeople**, and then choose the related link.</span></span>
-2. <span data-ttu-id="f4a72-111">Выберите из списка менеджера по продажам, для которого требуется создать возможность.</span><span class="sxs-lookup"><span data-stu-id="f4a72-111">Select the salesperson from the list for whom you want to create an opportunity.</span></span>
-3. <span data-ttu-id="f4a72-112">Выберите действие **Возможности**, а затем выберите **Список**.</span><span class="sxs-lookup"><span data-stu-id="f4a72-112">Choose the **Opportunities** action, and then choose **List**.</span></span>
-4. <span data-ttu-id="f4a72-113">Выберите **Создать**, а затем заполните соответствующие поля.</span><span class="sxs-lookup"><span data-stu-id="f4a72-113">Choose **New**, and then fill in the relevant fields.</span></span>  
+## <a name="to-create-an-opportunity-from-a-salesperson"></a><span data-ttu-id="8b71e-110">Создание возможности для менеджера по продажам</span><span class="sxs-lookup"><span data-stu-id="8b71e-110">To create an opportunity from a salesperson</span></span>
+1. <span data-ttu-id="8b71e-111">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Менеджеры**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="8b71e-111">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Salespeople**, and then choose the related link.</span></span>
+2. <span data-ttu-id="8b71e-112">Выберите из списка менеджера по продажам, для которого требуется создать возможность.</span><span class="sxs-lookup"><span data-stu-id="8b71e-112">Select the salesperson from the list for whom you want to create an opportunity.</span></span>
+3. <span data-ttu-id="8b71e-113">Выберите действие **Возможности**, а затем выберите **Список**.</span><span class="sxs-lookup"><span data-stu-id="8b71e-113">Choose the **Opportunities** action, and then choose **List**.</span></span>
+4. <span data-ttu-id="8b71e-114">Выберите **Создать**, а затем заполните соответствующие поля.</span><span class="sxs-lookup"><span data-stu-id="8b71e-114">Choose **New**, and then fill in the fields as relevant.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
-<!-- taken out for OPS -->
-<!-- [AZURE.INCLUDE [tooltip-note](../includes/tooltip-note.md)] -->
 
-## <a name="to-create-an-opportunity-from-a-contact"></a><span data-ttu-id="f4a72-114">Создание возможности для контакта</span><span class="sxs-lookup"><span data-stu-id="f4a72-114">To create an opportunity from a contact</span></span>
-1. <span data-ttu-id="f4a72-115">В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Контакты**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="f4a72-115">In the top right corner, choose the **Search for Page or Report** icon, enter **Contacts**, and then choose the related link.</span></span>
-2. <span data-ttu-id="f4a72-116">Выберите из списка контакт, для которого требуется создать возможность.</span><span class="sxs-lookup"><span data-stu-id="f4a72-116">Select the contact from the list for whom you want to create an opportunity.</span></span>
-3. <span data-ttu-id="f4a72-117">Выполните одно из следующих действий:</span><span class="sxs-lookup"><span data-stu-id="f4a72-117">Do one of the following:</span></span>
-  * <span data-ttu-id="f4a72-118">Выберите действие **Создать возможности**.</span><span class="sxs-lookup"><span data-stu-id="f4a72-118">Choose the **Create Opportunity** action.</span></span>
-  * <span data-ttu-id="f4a72-119">Выберите действие **Возможности**, а затем выберите **Создать**.</span><span class="sxs-lookup"><span data-stu-id="f4a72-119">Choose the  **Opportunities** action, and then choose **New**.</span></span>
-4. <span data-ttu-id="f4a72-120">Заполните соответствующие поля.</span><span class="sxs-lookup"><span data-stu-id="f4a72-120">Fill in the relevant fields.</span></span>
 
-##<a name="see-also"></a><span data-ttu-id="f4a72-121">См. также</span><span class="sxs-lookup"><span data-stu-id="f4a72-121">See Also</span></span>  
-[<span data-ttu-id="f4a72-122">Управление продажами</span><span class="sxs-lookup"><span data-stu-id="f4a72-122">Manage Sales</span></span>](sales-manage-sales.md)  
-[<span data-ttu-id="f4a72-123">Создание контактов и управление ими</span><span class="sxs-lookup"><span data-stu-id="f4a72-123">Create and Manage Contacts</span></span>](marketing-contacts.md)  
-[<span data-ttu-id="f4a72-124">Работа с Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="f4a72-124">Work with Dynamics NAV</span></span>](ui-work-product.md)
+## <a name="to-create-an-opportunity-from-a-contact"></a><span data-ttu-id="8b71e-115">Создание возможности для контакта</span><span class="sxs-lookup"><span data-stu-id="8b71e-115">To create an opportunity from a contact</span></span>
+1. <span data-ttu-id="8b71e-116">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Контакты**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="8b71e-116">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Contacts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="8b71e-117">Выберите из списка контакт, для которого требуется создать возможность.</span><span class="sxs-lookup"><span data-stu-id="8b71e-117">Select the contact from the list for whom you want to create an opportunity.</span></span>
+3. <span data-ttu-id="8b71e-118">Выполните одно из следующих действий:</span><span class="sxs-lookup"><span data-stu-id="8b71e-118">Do one of the following:</span></span>
+   * <span data-ttu-id="8b71e-119">Выберите действие **Создать возможности**.</span><span class="sxs-lookup"><span data-stu-id="8b71e-119">Choose the **Create Opportunity** action.</span></span>
+   * <span data-ttu-id="8b71e-120">Выберите действие **Возможности**, а затем выберите **Создать**.</span><span class="sxs-lookup"><span data-stu-id="8b71e-120">Choose the  **Opportunities** action, and then choose **New**.</span></span>
+4. <span data-ttu-id="8b71e-121">Заполните соответствующие поля.</span><span class="sxs-lookup"><span data-stu-id="8b71e-121">Fill in the relevant fields.</span></span>
+
+## <a name="see-also"></a><span data-ttu-id="8b71e-122">См. также</span><span class="sxs-lookup"><span data-stu-id="8b71e-122">See Also</span></span>
+[<span data-ttu-id="8b71e-123">Продажи</span><span class="sxs-lookup"><span data-stu-id="8b71e-123">Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="8b71e-124">Создание контактов и управление ими</span><span class="sxs-lookup"><span data-stu-id="8b71e-124">Creating and Managing Contacts</span></span>](marketing-contacts.md)  
+[<span data-ttu-id="8b71e-125">Работа с Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="8b71e-125">Working with Dynamics NAV</span></span>](ui-work-product.md)
 

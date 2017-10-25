@@ -1,1 +1,1 @@
-<span data-ttu-id="ec730-101">C:\\Program Files\\Microsoft Dynamics NAV\\100</span><span class="sxs-lookup"><span data-stu-id="ec730-101">C:\\Program Files\\Microsoft Dynamics NAV\\100</span></span>
+<span data-ttu-id="6b829-101">C:\\Program Files\\Microsoft Dynamics NAV\\100</span><span class="sxs-lookup"><span data-stu-id="6b829-101">C:\\Program Files\\Microsoft Dynamics NAV\\100</span></span>

@@ -1,38 +1,50 @@
 ---
-title: "Настройка основных финансовых процессов"
+title: "Настройка финансовых процессов"
+description: "Узнайте о задачах по настройке финансов для своего бизнеса в соответствии требованиями учет и аудита."
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: b911f3701f7a326e5812f13c8528a4719c25241a
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: accounting, auditing, bookkeeping
+ms.date: 08/10/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 4fbd005dce27b7afdf926704f97f3908cb3db803
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="setting-up-finance"></a><span data-ttu-id="13dac-103">Настройка финансов</span><span class="sxs-lookup"><span data-stu-id="13dac-103">Setting Up Finance</span></span>
+<span data-ttu-id="13dac-104">Чтобы вам было проще начать работу, [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] предлагает стандартные конфигурации для большинства финансовых процессов.</span><span class="sxs-lookup"><span data-stu-id="13dac-104">To help you get going quickly, [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] includes standard configurations for most financial processes.</span></span> <span data-ttu-id="13dac-105">Если необходимо изменить конфигурации в соответствии с бизнесом, это возможно.</span><span class="sxs-lookup"><span data-stu-id="13dac-105">If you need to change the configurations to suit your business, go right ahead.</span></span> <span data-ttu-id="13dac-106">Например, с домашней страницы можно открыть руководство по сопровождаемой настройке для настройки ставки налога для вашего местоположения.</span><span class="sxs-lookup"><span data-stu-id="13dac-106">For example, from the Home page you can use an assisted setup guide to set up sales tax rate for your location.</span></span>  
 
-#<a name="set-up-core-financial-processes"></a><span data-ttu-id="f651e-102">Настройка основных финансовых процессов</span><span class="sxs-lookup"><span data-stu-id="f651e-102">Set Up Core Financial Processes</span></span>
-<span data-ttu-id="f651e-103">Dynamics NAV содержит стандартную конфигурацию большинства финансовых процессов, но вы можете изменить ее в соответствии со своими бизнес-потребностями.</span><span class="sxs-lookup"><span data-stu-id="f651e-103">Dynamics NAV includes a standard configuration of most financial processes, but you can change the configuration to suit your business.</span></span>
-<span data-ttu-id="f651e-104">С домашней страницы можно открыть руководство по настройке, помогающее настроить налог в зависимости, например, от вашего местоположения.</span><span class="sxs-lookup"><span data-stu-id="f651e-104">From Home, you can access an assisted setup guide that helps you set up sales tax depending on your location, for example.</span></span> <span data-ttu-id="f651e-105">Другие аспекты управления настройкой финансов вы должны настроить самостоятельно, например, в зависимости от того, хотите ли вы использовать измерения.</span><span class="sxs-lookup"><span data-stu-id="f651e-105">Other aspects of finance-setup management you must set up yourself, depending on whether you want to use dimensions, for example.</span></span>  
+<span data-ttu-id="13dac-107">Однако существуют некоторые параметры, которые необходимо настроить самостоятельно.</span><span class="sxs-lookup"><span data-stu-id="13dac-107">However, there are some things you need to set up yourself.</span></span> <span data-ttu-id="13dac-108">Например, если нужно использовать измерения в качестве основы для бизнес-аналитики.</span><span class="sxs-lookup"><span data-stu-id="13dac-108">For example, if you want to use dimensions as a basis for business intelligence.</span></span>  
 
-<span data-ttu-id="f651e-106">В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.</span><span class="sxs-lookup"><span data-stu-id="f651e-106">The following table describes a sequence of tasks, with links to the topics that describe them.</span></span>
+<span data-ttu-id="13dac-109">В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются.</span><span class="sxs-lookup"><span data-stu-id="13dac-109">The following table describes a sequence of tasks, with links to the topics that describe them.</span></span>
 
-| <span data-ttu-id="f651e-107">Действие</span><span class="sxs-lookup"><span data-stu-id="f651e-107">To</span></span>                                                                  | <span data-ttu-id="f651e-108">Ссылка</span><span class="sxs-lookup"><span data-stu-id="f651e-108">See</span></span>                      |
-|---------------------------------------------------------------------|--------------------------|
-|<span data-ttu-id="f651e-109">Выберите способ обработки платежей поставщиков.</span><span class="sxs-lookup"><span data-stu-id="f651e-109">Choose how you want to handle payments of your vendors.</span></span>|[<span data-ttu-id="f651e-110">Способы платежа</span><span class="sxs-lookup"><span data-stu-id="f651e-110">Payment Methods</span></span>](finance-setup-payment-methods.md)|
-|<span data-ttu-id="f651e-111">Настройте финансовые периоды.</span><span class="sxs-lookup"><span data-stu-id="f651e-111">Set up fiscal periods.</span></span>|[<span data-ttu-id="f651e-112">Как открыть новый финансовый года</span><span class="sxs-lookup"><span data-stu-id="f651e-112">How to: Open a New Fiscal Year</span></span>](finance-setup-how-open-new-fiscal-year.md)|
-|<span data-ttu-id="f651e-113">Настройка дополнительных валюты при ведении международной торговли.</span><span class="sxs-lookup"><span data-stu-id="f651e-113">Set up additional currencies if you have international trade.</span></span>|[<span data-ttu-id="f651e-114">Настройка валют</span><span class="sxs-lookup"><span data-stu-id="f651e-114">Set Up Currencies</span></span>](finance-setup-setup-currencies.md)|
-|<span data-ttu-id="f651e-115">Добавление измерений для более глубокого бизнес-анализа.</span><span class="sxs-lookup"><span data-stu-id="f651e-115">Add dimensions for richer business intelligence.</span></span>|[<span data-ttu-id="f651e-116">Настройка измерений</span><span class="sxs-lookup"><span data-stu-id="f651e-116">Set Up Dimensions</span></span>](finance-setup-setup-dimensions.md)|
-|<span data-ttu-id="f651e-117">Добавление новых счетов для существующего плана счетов.</span><span class="sxs-lookup"><span data-stu-id="f651e-117">Add new accounts to the existing chart of accounts.</span></span>|[<span data-ttu-id="f651e-118">Настройка плана счетов</span><span class="sxs-lookup"><span data-stu-id="f651e-118">Set Up the Chart of Accounts</span></span>](finance-setup-setup-chart-accounts.md)|
+| <span data-ttu-id="13dac-110">По</span><span class="sxs-lookup"><span data-stu-id="13dac-110">To</span></span> | <span data-ttu-id="13dac-111">Ссылка</span><span class="sxs-lookup"><span data-stu-id="13dac-111">See</span></span> |
+| --- | --- |
+| <span data-ttu-id="13dac-112">Выбор способа оплаты поставщикам.</span><span class="sxs-lookup"><span data-stu-id="13dac-112">Choose how you pay your vendors.</span></span> |[<span data-ttu-id="13dac-113">Определение способов оплаты</span><span class="sxs-lookup"><span data-stu-id="13dac-113">Defining Payment Methods</span></span>](finance-payment-methods.md) |
+| <span data-ttu-id="13dac-114">Определяйте учетные группы, которые сопоставляют объекты, такие как клиенты, поставщики, товары, ресурсы и документов продажи и покупки со счетами главной книги.</span><span class="sxs-lookup"><span data-stu-id="13dac-114">Specify the posting groups that map entities like customers, vendors, items, resources, and sales and purchase documents to general ledger accounts.</span></span> |[<span data-ttu-id="13dac-115">Настройка учетных групп</span><span class="sxs-lookup"><span data-stu-id="13dac-115">Setting Up Posting Groups</span></span>](finance-posting-groups.md)|
+|<span data-ttu-id="13dac-116">Настройте отклонение, при котором система закрывает счет, даже если платеж, включая все скидки, не полностью покрывает сумму счета.</span><span class="sxs-lookup"><span data-stu-id="13dac-116">Set up a tolerance by which the system closes an invoice even though the payment, including any discount, does not fully cover the amount on the invoice.</span></span>|[<span data-ttu-id="13dac-117">Практическое руководство. Работа с отклонениями в оплате и отклонениями скидки по оплате</span><span class="sxs-lookup"><span data-stu-id="13dac-117">How to: Work with Payment Tolerances and Payment Discount Tolerances</span></span>](finance-payment-tolerance-and-payment-discount-tolerance.md)|
+| <span data-ttu-id="13dac-118">Настройте финансовые периоды.</span><span class="sxs-lookup"><span data-stu-id="13dac-118">Set up fiscal periods.</span></span> |[<span data-ttu-id="13dac-119">Практическое руководство. Открытие нового финансового года</span><span class="sxs-lookup"><span data-stu-id="13dac-119">How to: Open a New Fiscal Year</span></span>](finance-how-open-new-fiscal-year.md) |
+| <span data-ttu-id="13dac-120">Определите способ подачи в налоговые органы отчетов о суммах налога на добавленную стоимость, собранного в результате продаж.</span><span class="sxs-lookup"><span data-stu-id="13dac-120">Define how you report value-added tax amounts that you have collected for sales to the tax authorities.</span></span> |[<span data-ttu-id="13dac-121">Практическое руководство. Подача отчета об НДС в налоговые органы</span><span class="sxs-lookup"><span data-stu-id="13dac-121">How To: Report VAT to Tax Authorities</span></span>](finance-how-report-vat.md)|
+| <span data-ttu-id="13dac-122">Настройка функций продаж и покупок для обработки платежей в иностранных валютах.</span><span class="sxs-lookup"><span data-stu-id="13dac-122">Set your Sales and Purchases features up to handle payments in foreign currencies.</span></span>|[<span data-ttu-id="13dac-123">Практическое руководство. Включение операций книги в разных валютах</span><span class="sxs-lookup"><span data-stu-id="13dac-123">How to: Enable Application of Ledger Entries in Different Currencies</span></span>](finance-how-enable-application-ledger-entries-different-currencies.md)
+| <span data-ttu-id="13dac-124">Добавление новых счетов для существующего плана счетов.</span><span class="sxs-lookup"><span data-stu-id="13dac-124">Add new accounts to the existing chart of accounts.</span></span> |[<span data-ttu-id="13dac-125">Настройка плана счетов</span><span class="sxs-lookup"><span data-stu-id="13dac-125">Setting Up the Chart of Accounts</span></span>](finance-setup-chart-accounts.md) |
+| <span data-ttu-id="13dac-126">Настройка диаграмм бизнес-аналитики для анализа движения денежных средств.</span><span class="sxs-lookup"><span data-stu-id="13dac-126">Set up business intelligence (BI) charts to analyze cash flow.</span></span> |[<span data-ttu-id="13dac-127">Настройка анализа движения денежных средств</span><span class="sxs-lookup"><span data-stu-id="13dac-127">Setting Up Cash Flow Analysis</span></span>](finance-setup-cash-flow-analyses.md) |
+|<span data-ttu-id="13dac-128">Включение выставления счетов клиенту, который не настроен в системе.</span><span class="sxs-lookup"><span data-stu-id="13dac-128">Enable invoicing of a customer who is not set up in the system.</span></span>|[<span data-ttu-id="13dac-129">Практическое руководство. Настройка клиентов, оплачивающих наличными</span><span class="sxs-lookup"><span data-stu-id="13dac-129">How to: Set Up Cash Customers</span></span>](finance-how-to-set-up-cash-customers.md)|
+| <span data-ttu-id="13dac-130">Настройка отчетности Интрастат и отправка отчета в уполномоченные органы</span><span class="sxs-lookup"><span data-stu-id="13dac-130">Set up Intrastat reporting, and submit the report to an authority</span></span> | [<span data-ttu-id="13dac-131">Практическое руководство. Настройка и подача отчетности Интрастат</span><span class="sxs-lookup"><span data-stu-id="13dac-131">How to: Set Up and Report Intrastat</span></span>](finance-how-setup-report-intrastat.md)|
 
+## <a name="see-also"></a><span data-ttu-id="13dac-132">См. также</span><span class="sxs-lookup"><span data-stu-id="13dac-132">See Also</span></span>
+<span data-ttu-id="13dac-133">[Финансы](finance.md)</span><span class="sxs-lookup"><span data-stu-id="13dac-133">[Finance](finance.md)]</span></span>  
+[<span data-ttu-id="13dac-134">Управление банковскими счетами</span><span class="sxs-lookup"><span data-stu-id="13dac-134">Managing Bank Accounts</span></span>](bank-manage-bank-accounts.md)  
+[<span data-ttu-id="13dac-135">Работа с измерениями</span><span class="sxs-lookup"><span data-stu-id="13dac-135">Working with Dimensions</span></span>](finance-dimensions.md)  
+[<span data-ttu-id="13dac-136">Импорт бизнес-данных из других финансовых систем</span><span class="sxs-lookup"><span data-stu-id="13dac-136">Importing Business Data from Other Finance Systems</span></span>](upload-data.md)  
+[<span data-ttu-id="13dac-137">Анализ движения денежных средств в организации</span><span class="sxs-lookup"><span data-stu-id="13dac-137">Analyzing Cash Flow in Your Company</span></span>](finance-analyze-cash-flow.md)  
+<span data-ttu-id="13dac-138">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="13dac-138">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
 
-
-##<a name="see-also"></a><span data-ttu-id="f651e-119">См. также</span><span class="sxs-lookup"><span data-stu-id="f651e-119">See Also</span></span>
-<span data-ttu-id="f651e-120">[Управление банковскими счетами](bank-manage-bank-accounts.md)  </span><span class="sxs-lookup"><span data-stu-id="f651e-120">[Manage Bank Accounts](bank-manage-bank-accounts.md)  </span></span>  
-[<span data-ttu-id="f651e-121">Измерения</span><span class="sxs-lookup"><span data-stu-id="f651e-121">Dimensions</span></span>](finance-setup-dimensions.md)  
+## 
 

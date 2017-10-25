@@ -1,0 +1,57 @@
+---
+title: "Практическое руководство. Настройка предоплат клиентов"
+description: "Предоплата — это авансовые платежи по заказам на продажу, которые получены, для которых создан счет и которые учтены, но до окончательного выставления счетов. Например, вам может потребоваться задаток, чтобы произвести товар и отгрузить его клиенту. Предоплаты позволяют создавать счета и собирать авансовые платежи от клиентов и учитывать платежи для правильных счетов."
+documentationcenter: 
+author: SorenGP
+ms.prod: dynamics-nav-2017
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: 
+ms.date: 07/01/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: e775716ae23902f7667ad95b3debcd22a4db7827
+ms.contentlocale: ru-ru
+ms.lasthandoff: 10/16/2017
+
+---
+# <a name="how-to-set-up-customer-prepayments"></a><span data-ttu-id="5375e-105">Практическое руководство. Настройка предоплат клиентов</span><span class="sxs-lookup"><span data-stu-id="5375e-105">How to: Set Up Customer Prepayments</span></span>
+<span data-ttu-id="5375e-106">Предоплата — это авансовые платежи по заказам на продажу, которые получены, для которых создан счет и которые учтены, но до окончательного выставления счетов.</span><span class="sxs-lookup"><span data-stu-id="5375e-106">Prepayments are advance payments on sales orders that are received, invoiced, and posted before the final invoice is issued.</span></span> <span data-ttu-id="5375e-107">Например, вам может потребоваться задаток, чтобы произвести товар и отгрузить его клиенту.</span><span class="sxs-lookup"><span data-stu-id="5375e-107">For example, you may require a deposit before you manufacture and ship an item to a customer.</span></span> <span data-ttu-id="5375e-108">Предоплаты позволяют создавать счета и собирать авансовые платежи от клиентов и учитывать платежи для правильных счетов.</span><span class="sxs-lookup"><span data-stu-id="5375e-108">Prepayments let you invoice and collect advance payments from customers and post the payments against the correct invoices and accounts.</span></span>  
+  
+### <a name="to-set-up-customer-prepayments"></a><span data-ttu-id="5375e-109">Настройка предоплат клиентов</span><span class="sxs-lookup"><span data-stu-id="5375e-109">To set up customer prepayments</span></span>  
+  
+1.  <span data-ttu-id="5375e-110">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Настройка модуля "Продажи"**, затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="5375e-110">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Sales & Receivables Setup**, and then choose the related link.</span></span>  
+  
+2.  <span data-ttu-id="5375e-111">На экспресс-вкладке **Нумерация** убедитесь, что серия номеров **Серия номеров учт. счетов предопл.** совпадает с **Серия номеров учт. счетов**.</span><span class="sxs-lookup"><span data-stu-id="5375e-111">On the **Numbering** FastTab, verify that the number series for the **Posted Prepmt. Inv. Nos.** is the same as the **Posted Invoice Nos.**.</span></span> <span data-ttu-id="5375e-112">Убедитесь также, что серия номеров для **Серия номеров учт. кр.-нот предопл.** совпадает с серией для **Серия номеров учт. кредит-нот**.</span><span class="sxs-lookup"><span data-stu-id="5375e-112">Also verify that the number series for the **Posted Prepmt. Cr. Memo Nos.** is the same as the **Posted Credit Memo Nos.**.</span></span>  
+  
+3.  <span data-ttu-id="5375e-113">На экспресс-вкладке **Предоплата** введите следующие сведения.</span><span class="sxs-lookup"><span data-stu-id="5375e-113">On the **Prepayment** FastTab, enter the following information.</span></span>  
+  
+    |<span data-ttu-id="5375e-114">Поле</span><span class="sxs-lookup"><span data-stu-id="5375e-114">Field</span></span>|<span data-ttu-id="5375e-115">Описанием</span><span class="sxs-lookup"><span data-stu-id="5375e-115">Description</span></span>|  
+    |---------------------------------|---------------------------------------|  
+    |<span data-ttu-id="5375e-116">**Испол. Аванс Счет Но.**</span><span class="sxs-lookup"><span data-stu-id="5375e-116">**Use Prepayment Account**</span></span>|<span data-ttu-id="5375e-117">Выберите это поле, чтобы учесть предоплаты поставщикам, используя субсчет, указанный в поле **Счет предоплаты** в окне **Учетные группы клиента**.</span><span class="sxs-lookup"><span data-stu-id="5375e-117">Select to post prepayments using the subaccount specified in the **Prepayment Account** field in the **Customer Posting Groups** window.</span></span>|  
+    |<span data-ttu-id="5375e-118">**Создание Авансового Счета**</span><span class="sxs-lookup"><span data-stu-id="5375e-118">**Create Prepayment Invoice**</span></span>|<span data-ttu-id="5375e-119">Выберите, чтобы создать счет на предоплату.</span><span class="sxs-lookup"><span data-stu-id="5375e-119">Select to create an invoice for the prepayment.</span></span> <span data-ttu-id="5375e-120">Если это поле не выбрано, счет на предоплату создан не будет.</span><span class="sxs-lookup"><span data-stu-id="5375e-120">If this field is not selected, an invoice for the prepayment will not be created.</span></span>|  
+    |<span data-ttu-id="5375e-121">**Учт. Аванс Серия Номеров**</span><span class="sxs-lookup"><span data-stu-id="5375e-121">**Posted Prepayment Nos.**</span></span>|<span data-ttu-id="5375e-122">Введите код серии номеров, который требуется использовать для счетов на предоплату.</span><span class="sxs-lookup"><span data-stu-id="5375e-122">Enter the code of the number series that you want to use for prepayment invoices.</span></span>|  
+    |<span data-ttu-id="5375e-123">**Учт. разн. по предопл. - серия ном. док.**</span><span class="sxs-lookup"><span data-stu-id="5375e-123">**Posted PD Doc. Nos.**</span></span>|<span data-ttu-id="5375e-124">Введите код серии номеров, который требуется использовать для документов предоплаты.</span><span class="sxs-lookup"><span data-stu-id="5375e-124">Enter the code of the number series that you want to use for prepayment documents.</span></span>|  
+    |<span data-ttu-id="5375e-125">**Разн. по предопл. - тип серии номеров док.**</span><span class="sxs-lookup"><span data-stu-id="5375e-125">**PD Doc. Nos. Type**</span></span>|<span data-ttu-id="5375e-126">Укажите, требуется ли использовать серию номеров или символ для идентификации документов предоплаты.</span><span class="sxs-lookup"><span data-stu-id="5375e-126">Select if you want to use a number series or symbol to identify prepayment documents.</span></span>|  
+    |<span data-ttu-id="5375e-127">**Символ для док. разн. по предопл.**</span><span class="sxs-lookup"><span data-stu-id="5375e-127">**Symbol for PD Doc.**</span></span>|<span data-ttu-id="5375e-128">Введите символ, который будет печататься на документах предоплаты.</span><span class="sxs-lookup"><span data-stu-id="5375e-128">Enter a symbol to be printed on prepayment documents.</span></span>|  
+    |<span data-ttu-id="5375e-129">**Разн. по предопл.: прибыль - знач. изм. условия**</span><span class="sxs-lookup"><span data-stu-id="5375e-129">**PD Gains Condition Dim Value**</span></span>|<span data-ttu-id="5375e-130">Введите код для измерения, которое используется для создания условной прибыли от предоплаты.</span><span class="sxs-lookup"><span data-stu-id="5375e-130">Enter the code for the dimension that is used to generate conditional prepayment gains.</span></span>|  
+    |<span data-ttu-id="5375e-131">**Разн. по предопл.: убытки - знач. изм. условия**</span><span class="sxs-lookup"><span data-stu-id="5375e-131">**PD Losses Condition Dim Value**</span></span>|<span data-ttu-id="5375e-132">Введите код для измерения, которое используется для создания условного убытка от предоплаты.</span><span class="sxs-lookup"><span data-stu-id="5375e-132">Enter the code for the dimension that is used to generate conditional prepayment losses.</span></span>|  
+    |<span data-ttu-id="5375e-133">**Разн. по предопл.: прибыль - знач. изм. вида**</span><span class="sxs-lookup"><span data-stu-id="5375e-133">**PD Gains Kind Dim Value**</span></span>|<span data-ttu-id="5375e-134">Введите код для измерения, которое используется для создания платежа с точки зрения прибыли от предоплаты.</span><span class="sxs-lookup"><span data-stu-id="5375e-134">Enter the code for the dimension that is used to generate payment in kind prepayment gains.</span></span>|  
+    |<span data-ttu-id="5375e-135">**Разн. по предопл.: убытки - знач. изм. вида**</span><span class="sxs-lookup"><span data-stu-id="5375e-135">**PD Losses Kind Dim Value**</span></span>|<span data-ttu-id="5375e-136">Введите код для измерения, которое используется для создания платежа с точки зрения прибыли от предоплаты.</span><span class="sxs-lookup"><span data-stu-id="5375e-136">Enter the code for the dimension that is used to generate payment in kind prepayment gains.</span></span>|  
+  
+4.  <span data-ttu-id="5375e-137">Откройте окно **Учетные группы клиента**.</span><span class="sxs-lookup"><span data-stu-id="5375e-137">Open the **Customer Posting Groups** window.</span></span>  
+  
+5.  <span data-ttu-id="5375e-138">В поле **Счет предоплаты** укажите счет главной книги, который должен использоваться для учета предоплаты клиентов.</span><span class="sxs-lookup"><span data-stu-id="5375e-138">In the **Prepayment Account** field, specify the general ledger accounts that you want to use for posting customer prepayments.</span></span>  
+  
+6.  <span data-ttu-id="5375e-139">Нажмите **Закрыть**, чтобы закрыть окно и сохранить введенные данные.</span><span class="sxs-lookup"><span data-stu-id="5375e-139">Choose **Close** to close the window and save your entries.</span></span>  
+  
+ <span data-ttu-id="5375e-140">Теперь вы можете создавать счета и собирать авансовые платежи от клиентов и учитывать платежи для правильных счетов.</span><span class="sxs-lookup"><span data-stu-id="5375e-140">You can now invoice and collect advance payments from customers and post the payments to the correct invoices and accounts.</span></span>  
+  
+## <a name="see-also"></a><span data-ttu-id="5375e-141">См. также</span><span class="sxs-lookup"><span data-stu-id="5375e-141">See Also</span></span>  
+ <span data-ttu-id="5375e-142">[Пошаговое руководство. Настройка и выставление счетов на продажу](../../walkthrough-setting-up-and-invoicing-sales-prepayments.md) </span><span class="sxs-lookup"><span data-stu-id="5375e-142">[Walkthrough: Setting Up and Invoicing Sales Prepayments](../../walkthrough-setting-up-and-invoicing-sales-prepayments.md) </span></span>  
+ <span data-ttu-id="5375e-143">[Предоплата по счету](invoice-prepayments.md) </span><span class="sxs-lookup"><span data-stu-id="5375e-143">[Invoice Prepayments](invoice-prepayments.md) </span></span>  
+ <span data-ttu-id="5375e-144">[Настройка предоплаты](set-up-prepayments.md) </span><span class="sxs-lookup"><span data-stu-id="5375e-144">[Set Up Prepayments](set-up-prepayments.md) </span></span>  
+ [<span data-ttu-id="5375e-145">Практическое руководство. Корректировка предоплат</span><span class="sxs-lookup"><span data-stu-id="5375e-145">How to: Correct Prepayments</span></span>](how-to-correct-prepayments.md)

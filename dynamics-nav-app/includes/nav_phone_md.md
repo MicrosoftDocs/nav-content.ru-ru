@@ -1,1 +1,1 @@
-<span data-ttu-id="0f618-101">Клиент Microsoft Dynamics NAV для телефонов</span><span class="sxs-lookup"><span data-stu-id="0f618-101">Microsoft Dynamics NAV Phone client</span></span>
+<span data-ttu-id="0bb90-101">Microsoft Dynamics NAV Клиент для телефона</span><span class="sxs-lookup"><span data-stu-id="0bb90-101">Microsoft Dynamics NAV Phone client</span></span>

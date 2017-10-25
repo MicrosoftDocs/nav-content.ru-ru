@@ -1,1 +1,1 @@
-<span data-ttu-id="b9259-101">Установка Microsoft Dynamics NAV 2017</span><span class="sxs-lookup"><span data-stu-id="b9259-101">Microsoft Dynamics NAV 2017 Setup</span></span>
+<span data-ttu-id="c31f4-101">Microsoft Dynamics NAV 2017 Настройка</span><span class="sxs-lookup"><span data-stu-id="c31f4-101">Microsoft Dynamics NAV 2017 Setup</span></span>

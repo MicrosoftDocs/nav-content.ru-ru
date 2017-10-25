@@ -1,0 +1,81 @@
+---
+title: "Управление профилями и ролевыми центрами"
+description: "Узнайте, как управлять пользователями и ролевыми центрами в Dynamics NAV."
+author: jswymer
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: profiles, roles, role centers, user roles
+ms.date: 09/01/2017
+ms.author: jswymer
+ms.prod: dynamics-nav-2018
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: cd60cbc206b8e2cd6665b98ee49a5dc10c50fe08
+ms.contentlocale: ru-ru
+ms.lasthandoff: 10/16/2017
+
+---
+# <a name="managing-profiles-and-role-centers"></a><span data-ttu-id="87e5c-103">Управление профилями и ролевыми центрами</span><span class="sxs-lookup"><span data-stu-id="87e5c-103">Managing Profiles and Role Centers</span></span>
+<span data-ttu-id="87e5c-104">Профили — это коллекции пользователей [!INCLUDE[navnow_md](includes/navnow_md.md)], которые относятся к одному ролевому центру.</span><span class="sxs-lookup"><span data-stu-id="87e5c-104">Profiles are collections of [!INCLUDE[navnow_md](includes/navnow_md.md)] users who share the same Role Center.</span></span> <span data-ttu-id="87e5c-105">Ролевой центр — тип страницы, на которой можно разместить различные части.</span><span class="sxs-lookup"><span data-stu-id="87e5c-105">A Role Center is a type of page on which you can place different parts.</span></span> <span data-ttu-id="87e5c-106">Каждая часть представляет собой контейнер, в котором можно размещать другие страницы или предварительно заданные части системы, например части Outlook для добавления задач, уведомлений или заметок.</span><span class="sxs-lookup"><span data-stu-id="87e5c-106">Each part is a container in which you can host other pages or pre-defined system parts, such as an Outlook part or parts for adding tasks, notifications, or notes.</span></span>  
+
+## <a name="about-profiles-and-role-centers"></a><span data-ttu-id="87e5c-107">О профилях и ролевых центрах</span><span class="sxs-lookup"><span data-stu-id="87e5c-107">About profiles and Role Centers</span></span>
+<span data-ttu-id="87e5c-108">Профили используются для связывания пользователей с заранее заданными ролевыми центрами.</span><span class="sxs-lookup"><span data-stu-id="87e5c-108">You use profiles to link users to pre-defined Role Centers.</span></span> <span data-ttu-id="87e5c-109">Ролевой центр — это начальная страница для всех пользователей профиля, которая была настроена для отражения задач и приоритетов пользователей профиля.</span><span class="sxs-lookup"><span data-stu-id="87e5c-109">A Role Center is a home page for all users of a profile, which has been configured to reflect the tasks and priorities of users of the profile.</span></span> <span data-ttu-id="87e5c-110">Например, ролевой центр обработки заказов настроен для отражения задач и приоритетов обработчика заказов.</span><span class="sxs-lookup"><span data-stu-id="87e5c-110">For example, the Order Processor Role Center has been configured to reflect the tasks and priorities of an order processor.</span></span> <span data-ttu-id="87e5c-111">Ролевой центр обеспечивает простой доступ к информации, которая требуется пользователям для выполнения их ежедневной работы.</span><span class="sxs-lookup"><span data-stu-id="87e5c-111">A Role Center provides easy access to information users need to perform their daily work.</span></span> <span data-ttu-id="87e5c-112">Например, ролевой центр определяет очереди или плитку, которая отображается при первом входе пользователей, а также ссылки со страницы навигации.</span><span class="sxs-lookup"><span data-stu-id="87e5c-112">For example, the Role Center determines the Cues, or tile, that show when isers first sign in, and the links from the navigation page.</span></span>
+
+<span data-ttu-id="87e5c-113">Используемый профиль отображается в заголовке основной области содержимого ролевого центра.</span><span class="sxs-lookup"><span data-stu-id="87e5c-113">The profile that is used appears in the header of the Role Center’s main content area.</span></span> <span data-ttu-id="87e5c-114">Администратор может настроить этот ролевой центр для соответствия потребностям определенной роли в определенной организации.</span><span class="sxs-lookup"><span data-stu-id="87e5c-114">An administrator can customize this Role Center to meet the needs of a specific role in a specific company.</span></span> <span data-ttu-id="87e5c-115">Затем ролевой центр обработчика заказов можно далее настроить на отдельном компьютере в соответствии с требованиями сотрудника, выполняющего работу обработчика заказов.</span><span class="sxs-lookup"><span data-stu-id="87e5c-115">The Order Processor Role Center can then be further personalized on a single computer to meet the needs of a person who is carrying out the job as an order processor.</span></span> <span data-ttu-id="87e5c-116">Это лицо может настроить ролевой центр путем сохранения запросов, добавления фильтров и добавления или удаления полей.</span><span class="sxs-lookup"><span data-stu-id="87e5c-116">This person can personalize the Role Center by saving queries, adding filters, and adding or removing fields.</span></span>
+
+<span data-ttu-id="87e5c-117">Профили и ролевые центры согласовываются с ролями и обязанностями в организации.</span><span class="sxs-lookup"><span data-stu-id="87e5c-117">Profiles and Role Centers align with the roles and responsibilities in your organization.</span></span> <span data-ttu-id="87e5c-118">В программе  [!INCLUDE[navnow_md](includes/navnow_md.md)] предусмотрен набор профилей по умолчанию, каждый из которых соответствует ролевому центру и связан с ним соответствующим образом.</span><span class="sxs-lookup"><span data-stu-id="87e5c-118">[!INCLUDE[navnow_md](includes/navnow_md.md)] provides a set of default profiles, which each correspond to and link to a Role Center.</span></span> <span data-ttu-id="87e5c-119">Администраторы могут изменять имеющиеся профили или создавать новые.</span><span class="sxs-lookup"><span data-stu-id="87e5c-119">Administrators can modify existing profiles or create new ones.</span></span>  
+  
+> [!NOTE]  
+>  <span data-ttu-id="87e5c-120">Профили не связаны явным образом с ролями и правами доступа, образующими систему безопасности, однако у пользователей профиля должны быть права доступа, соответствующие их ролям в системе безопасности.</span><span class="sxs-lookup"><span data-stu-id="87e5c-120">Profiles are not explicitly linked to the roles and permissions that constitute the security system, but profile users must have permissions that align with their roles in the security system.</span></span> <span data-ttu-id="87e5c-121">Дополнительные сведения см. в разделе [Безопасность в среде с ролевой настройкой](http://go.microsoft.com/fwlink?LinkId=147633) в библиотеке MSDN.</span><span class="sxs-lookup"><span data-stu-id="87e5c-121">For more information, see [Security in the Role Tailored Environment](http://go.microsoft.com/fwlink?LinkId=147633) in the MSDN Library.</span></span> 
+
+## <a name="to-create-a-profile"></a><span data-ttu-id="87e5c-122">Создание профиля</span><span class="sxs-lookup"><span data-stu-id="87e5c-122">To create a profile</span></span>
+1.  <span data-ttu-id="87e5c-123">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Профили**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="87e5c-123">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Profiles**, and then choose the related link.</span></span>  
+  
+2.  <span data-ttu-id="87e5c-124">Выберите действие **Создать**, чтобы открыть окно **создания карточки профиля**.</span><span class="sxs-lookup"><span data-stu-id="87e5c-124">Choose the **New** action to open the **New Profile Card** window.</span></span>  
+  
+3.  <span data-ttu-id="87e5c-125">В поле **Код профиля** введите название, описывающее требуемую роль пользователя.</span><span class="sxs-lookup"><span data-stu-id="87e5c-125">In the **Profile ID** field, enter a name that describes the intended role of the user.</span></span>  
+  
+4.  <span data-ttu-id="87e5c-126">В поле **Описание** введите описание кода профиля, например **"Обработчик заказов"**.</span><span class="sxs-lookup"><span data-stu-id="87e5c-126">In the **Description** field, enter a description of the Profile ID, for example, **Order Processor**.</span></span>  
+  
+5.  <span data-ttu-id="87e5c-127">В поле **Код ролевого центра** установите ролевой центр, который требуется назначить этому профилю.</span><span class="sxs-lookup"><span data-stu-id="87e5c-127">Set the **Role Center ID** field to the Role Center that you want to assign to the profile.</span></span>  
+  
+6.  <span data-ttu-id="87e5c-128">Чтобы сделать этот ролевой центр центром по умолчанию для этого профиля, установите флажок **Ролевой центр по умолчанию**.</span><span class="sxs-lookup"><span data-stu-id="87e5c-128">To make this Role Center the default for the profile, select the **Default Role Center** chack box.</span></span>  
+  
+7.  <span data-ttu-id="87e5c-129">Нажмите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="87e5c-129">Choose the **OK** button.</span></span> <span data-ttu-id="87e5c-130">.</span><span class="sxs-lookup"><span data-stu-id="87e5c-130">.</span></span>  
+  
+<span data-ttu-id="87e5c-131">Процедура изменения существующего профиля такая же за исключением того, что необходимо выбрать существующий профиль на странице "Профили" вместо нажатия кнопки **Создать**.</span><span class="sxs-lookup"><span data-stu-id="87e5c-131">The procedure for modifying an existing profile is the same, except you select an existing profile in the Profiles page instead of clicking **New**.</span></span>  
+
+
+##<a name="copying-a-profile"></a><span data-ttu-id="87e5c-132">Копирование профиля</span><span class="sxs-lookup"><span data-stu-id="87e5c-132">Copying a profile</span></span> 
+<span data-ttu-id="87e5c-133">Копирование профиля может сэкономить время, если требуется использовать аналогичные настройки в профиле и необходимо изменить лишь несколько настроек.</span><span class="sxs-lookup"><span data-stu-id="87e5c-133">Copying a profile can save you time if you want to use similar settings on a profile and you only want to change a few settings.</span></span>
+
+1.  <span data-ttu-id="87e5c-134">Откройте профиль, который необходимо скопировать, затем выберите действие **Копировать профиль**.</span><span class="sxs-lookup"><span data-stu-id="87e5c-134">Open the profile that you want to copy, and then choose the **Copy Profile** action.</span></span>
+
+2.  <span data-ttu-id="87e5c-135">В поле **Код нового профиля** введите имя для профиля, который необходимо скопировать.</span><span class="sxs-lookup"><span data-stu-id="87e5c-135">In **New Profile ID** field, enter a name for the profile that you want to copy.</span></span> 
+
+3.  <span data-ttu-id="87e5c-136">Задайте в поле **Новая область профиля** одно из следующих значений:</span><span class="sxs-lookup"><span data-stu-id="87e5c-136">Set the **New Profile Scope** field to one of the following:</span></span>
+
+    - <span data-ttu-id="87e5c-137">**Система**, чтобы сделать новый профиль доступным всем базам данных арендаторов, которые используют данное приложение.</span><span class="sxs-lookup"><span data-stu-id="87e5c-137">**System** to make the new profile available to all tenant databases that use the application.</span></span>
+    - <span data-ttu-id="87e5c-138">**Арендатор**, чтобы сделать новый профиль доступным только для базы данных текущего арендатора.</span><span class="sxs-lookup"><span data-stu-id="87e5c-138">**Tenant** to make the new profile available to just the current tenant database.</span></span> 
+4. <span data-ttu-id="87e5c-139">По завершении нажмите кнопку **OK**.</span><span class="sxs-lookup"><span data-stu-id="87e5c-139">Choose the **OK** buttom when done.</span></span>
+
+## <span data-ttu-id="87e5c-140"><a name="ExportImportProfile"></a>Экспорт и импорт профилей</span><span class="sxs-lookup"><span data-stu-id="87e5c-140"><a name="ExportImportProfile"></a>Exporting and importing profiles</span></span>
+
+<span data-ttu-id="87e5c-141">Можно экспортировать профили в виде XML-файлов в базу данных [!INCLUDE[d365fin](includes/d365fin_md.md)] и импортировать их из этой базы данных.</span><span class="sxs-lookup"><span data-stu-id="87e5c-141">You can export and import profiles as XML files to and from the a [!INCLUDE[d365fin](includes/d365fin_md.md)] database.</span></span> <span data-ttu-id="87e5c-142">Экспорт и импорт профиля может сэкономить время при настройке пользовательского интерфейса, так как используется существующая настройка профиля вместо настройки профиля с нуля.</span><span class="sxs-lookup"><span data-stu-id="87e5c-142">Exporting and importing a profile can save you time when configuring the user interface because you reuse an existing profile configuration instead of having to configure a profile from scratch.</span></span> <span data-ttu-id="87e5c-143">При имеется профиль, который настроен в базе данных [!INCLUDE[d365fin](includes/d365fin_md.md)], и вы хотите повторно использовать все или некоторые из конфигураций такого же профиля в другой базе данных, можно экспортировать профиль в XML-файл.</span><span class="sxs-lookup"><span data-stu-id="87e5c-143">If you have a profile that is configured in a [!INCLUDE[d365fin](includes/d365fin_md.md)] database and you would like to reuse all or some of the same profile configurations in another database, you can export the profile to an XML file.</span></span> <span data-ttu-id="87e5c-144">После этого, можно импортировать XML-файл профиля в другую базу данных.</span><span class="sxs-lookup"><span data-stu-id="87e5c-144">Then, you can import the profile XML file into the other database.</span></span>
+
+-   <span data-ttu-id="87e5c-145">Для экспорта профиля откройте поиск и откройте страницу **Экспортировать профили**, выберите профиль из списка, затем выберите действие **Экспорт**.</span><span class="sxs-lookup"><span data-stu-id="87e5c-145">To export a profile, open search for and open the **Export Profiles** page, select the profile from the list, and then choose the **Export** action.</span></span> <span data-ttu-id="87e5c-146">Сохраните файл XML в папке на вашем компьютере или в сети.</span><span class="sxs-lookup"><span data-stu-id="87e5c-146">Save the XML file to a location on your computer or network.</span></span> 
+  
+-   <span data-ttu-id="87e5c-147">Для импорта профиля откройте поиск и откройте страницу **Импортировать профили**, выберите XML-файл профиля, затем выберите кнопку **ОК**.</span><span class="sxs-lookup"><span data-stu-id="87e5c-147">To import a profile, open search for and open the **Import Profiles** page, select the profile XML file, and then choose the **OK** button.</span></span> 
+
+    > [!NOTE]  
+    >  <span data-ttu-id="87e5c-148">Невозможно импортировать профиль, который уже существует в базе данных, даже если файл XML имеет другое имя или содержимое.</span><span class="sxs-lookup"><span data-stu-id="87e5c-148">You cannot import a profile that already exists in the database, even though the XML file is named differently or has different content.</span></span> <span data-ttu-id="87e5c-149">Перед импортом нового профиля необходимо удалить существующий.</span><span class="sxs-lookup"><span data-stu-id="87e5c-149">You must delete the existing profile before you can import the new profile.</span></span> 
+
+
+
+## <a name="see-also"></a><span data-ttu-id="87e5c-150">См. также</span><span class="sxs-lookup"><span data-stu-id="87e5c-150">See Also</span></span>  
+[<span data-ttu-id="87e5c-151">Практическое руководство. Управление пользователями и разрешениями</span><span class="sxs-lookup"><span data-stu-id="87e5c-151">How to: Manage Users and Permissions</span></span>](ui-how-users-permissions.md)  
+[<span data-ttu-id="87e5c-152">Настройка пользовательского интерфейса</span><span class="sxs-lookup"><span data-stu-id="87e5c-152">Customizing the User Interface</span></span>](ui-customizing-overview.md)   
+<!--[Security Overview](../Security%20Overview.md)-->
+

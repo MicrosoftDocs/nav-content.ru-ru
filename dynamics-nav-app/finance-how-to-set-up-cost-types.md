@@ -1,0 +1,66 @@
+---
+title: "Как настраивать диаграмму типов затрат"
+description: "План типов себестоимости подобен плану счетов в Главной книге."
+documentationcenter: 
+author: SorenGP
+ms.prod: dynamics-nav-2017
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: cost types, general ledger, accounts
+ms.date: 07/01/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 104b057639090bd9797f06ebcc6b573899b9f87c
+ms.contentlocale: ru-ru
+ms.lasthandoff: 10/16/2017
+
+---
+# <a name="how-to-set-up-cost-types"></a><span data-ttu-id="d9ac0-103">Практическое руководство. Настройка типов затрат</span><span class="sxs-lookup"><span data-stu-id="d9ac0-103">How to: Set Up Cost Types</span></span>
+<span data-ttu-id="d9ac0-104">Диаграмма типов затрат подобна плану счетов в Главной книге.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-104">The chart of cost types is similar to the chart of accounts in the general ledger.</span></span> <span data-ttu-id="d9ac0-105">Диаграмму типов затрат можно настроить одним из следующих способов:</span><span class="sxs-lookup"><span data-stu-id="d9ac0-105">You can set up the chart of cost types in the following ways:</span></span>  
+
+-   <span data-ttu-id="d9ac0-106">Структурирование диаграммы типов затрат аналогично счетам прибылей и убытков на диаграмме счетов главной книги.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-106">Structure the chart of cost types similar to the income statement accounts in the general ledger chart of accounts.</span></span> <span data-ttu-id="d9ac0-107">Затем можно перенести план счетов главной книги в план типов затрат.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-107">Then, you can transfer the general ledger chart of accounts to the chart of cost types.</span></span> <span data-ttu-id="d9ac0-108">Все необходимые изменения можно внести после перевода.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-108">You can make any necessary adjustments after the transfer.</span></span>  
+-   <span data-ttu-id="d9ac0-109">Создайте новую диаграмму типов затрат или добавьте новые типы затрат в существующий план типов затрат.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-109">Create new chart of cost types or add new cost types to existing chart of cost types.</span></span> <span data-ttu-id="d9ac0-110">Необходимо создать каждый новый тип затрат по отдельности.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-110">You must create each new cost type individually.</span></span>  
+
+## <a name="to-transfer-the-general-ledger-chart-of-accounts-to-the-chart-of-cost-types"></a><span data-ttu-id="d9ac0-111">Перенос плана счетов главной книги в план типов затрат</span><span class="sxs-lookup"><span data-stu-id="d9ac0-111">To transfer the general ledger chart of accounts to the chart of cost types</span></span>  
+1.  <span data-ttu-id="d9ac0-112">Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Диаграмма типов затрат**, затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-112">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Chart of Cost Types**, and then choose the related link.</span></span>  
+2.  <span data-ttu-id="d9ac0-113">Выберите действие **Извлечь типы затрат из плана счетов**.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-113">Choose the **Get Cost Types from Chart of Accounts** action.</span></span> <span data-ttu-id="d9ac0-114">В отобразившемся диалоговом окне нажмите кнопку **Да**, чтобы подтвердить перемещение.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-114">In the dialog box, choose the **Yes** button to confirm the transfer.</span></span> <span data-ttu-id="d9ac0-115">Функция использует план счетов для создания диаграммы типов затрат.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-115">The function uses the chart of accounts to create a chart of cost types.</span></span>  
+
+    <span data-ttu-id="d9ac0-116">Диаграмма типов затрат теперь содержит все счета отчета о прибылях и убытках в главной книге и включает заголовки и подытоги.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-116">The chart of cost types now contain all income statement accounts in the general ledger and include headings and subtotals.</span></span> <span data-ttu-id="d9ac0-117">Можно изменить диаграмму типов затрат при необходимости.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-117">You can change the chart of cost types, as necessary.</span></span> <span data-ttu-id="d9ac0-118">Например, возможно удаление дубликатов существующих типов затрат.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-118">For example, you can delete duplicate existing cost types.</span></span>  
+
+    > [!IMPORTANT]  
+    >  <span data-ttu-id="d9ac0-119">Функция **Внести типы затрат в план счетов** обновляет связь между планом счетов и диаграммой типов затрат.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-119">The **Register Cost Types in Chart of Accounts** function updates the relationship between the chart of accounts and the chart of cost types.</span></span> <span data-ttu-id="d9ac0-120">Поле **Номер**</span><span class="sxs-lookup"><span data-stu-id="d9ac0-120">The **No.**</span></span> <span data-ttu-id="d9ac0-121">заполняется и проверяется, чтобы гарантировать, что все счета главной книги относятся только к одному типу затрат.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-121">field is filled and verified to make sure that each general ledger account is related to only one cost type.</span></span> <span data-ttu-id="d9ac0-122">Функция выполняется автоматически до передачи операций главной книги в учет затрат.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-122">The function runs automatically before transferring general ledger entries to cost accounting.</span></span>  
+
+## <a name="to-set-up-new-cost-types-in-the-chart-of-cost-types-window"></a><span data-ttu-id="d9ac0-123">Настройка новых типов себестоимости в окне "Диаграмма типов затрат"</span><span class="sxs-lookup"><span data-stu-id="d9ac0-123">To set up new cost types in the Chart of Cost Types window</span></span>  
+1.  <span data-ttu-id="d9ac0-124">Откройте окно **Диаграмма типов затрат** в режиме редактирования.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-124">Open the **Chart of Cost Types** window in edit mode.</span></span>  
+2.  <span data-ttu-id="d9ac0-125">Заполните поля, как описано, по мере необходимости.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-125">Fill in the fields as described as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+
+    > [!NOTE]  
+    >  <span data-ttu-id="d9ac0-126">Можно настроить и обслуживать типы затрат в окне **Карта типов затрат** или в окне **Диаграмма типов затрат**.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-126">You can set up and maintain cost types in either the **Cost Type Card** window or in the **Chart of Cost Types** window.</span></span> <span data-ttu-id="d9ac0-127">В рамках этой процедуры настраиваются типы затрат в окне **Диаграмма типов затрат**.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-127">In this procedure, you set up cost types in the **Chart of Cost Types** window.</span></span>
+
+3.  <span data-ttu-id="d9ac0-128">После создания всех типов затрат выберите действие **Сдвинуть типы затрат**.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-128">After you have created all cost types, choose the **Indent Cost Types** action.</span></span> <span data-ttu-id="d9ac0-129">В диалоговом окне нажмите кнопку **Да**.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-129">In the dialog box, choose the **Yes** button.</span></span>  
+4.  <span data-ttu-id="d9ac0-130">Связывание нового типа себестоимости с соответствующим счетом Главной книги.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-130">Link the new cost type to the corresponding general ledger account.</span></span>  
+
+    > [!IMPORTANT]  
+    >  <span data-ttu-id="d9ac0-131">Если в полях **Группировка** для типа строки **Сумма (до)** были введены определения до выполнения функции **Сдвинуть типы затрат**, их следует ввести снова после выполнения этой функции, так как она производит запись значений поверх старых во всех полях **Сумма (до)**.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-131">If you have entered definitions in the **Totaling** fields for the line type of **End-Total** before you run the **Indent Cost Types** function, then you must enter the definitions again because the function overwrites the values in all **End-Total** fields.</span></span>  
+
+## <a name="to-update-cost-types"></a><span data-ttu-id="d9ac0-132">Обновление типов затрат</span><span class="sxs-lookup"><span data-stu-id="d9ac0-132">To update cost types</span></span>  
+1.  <span data-ttu-id="d9ac0-133">В окне **Настройка учета затрат** выберите, если требуется, диаграмму типов затрат, чтобы она автоматически обновлялась, когда диаграмма счетов изменена.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-133">In the **Cost Accounting Setup** window, select if you want the chart of cost types to be automatically updated when the chart of accounts is changed.</span></span>  
+2.  <span data-ttu-id="d9ac0-134">В поле **Выровнять счет ГК** возможен выбор из следующих параметров.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-134">In the **Align G/L Account** field, you can choose from the following options.</span></span>  
+
+- <span data-ttu-id="d9ac0-135">**Без выравнивания** — соответствующее изменение не вносится в план типов себестоимости при изменении плана счетов.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-135">**No Alignment** - There is no corresponding change in the chart of cost types when you change the chart of accounts.</span></span>  
+- <span data-ttu-id="d9ac0-136">**Автоматически** — соответствующее изменение вносится в план типов себестоимости при изменении плана счетов.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-136">**Automatic** - A corresponding change is made in the chart of cost types when you change the chart of accounts.</span></span>  
+- <span data-ttu-id="d9ac0-137">**Запрос** — при изменении плана счетов отображается сообщение с запросом на подтверждение внесения соответствующего изменения в план типов затрат.</span><span class="sxs-lookup"><span data-stu-id="d9ac0-137">**Prompt** - A message is displayed asking if you want to make a corresponding change in the chart of cost types when you change the chart of accounts.</span></span>  
+
+## <a name="see-also"></a><span data-ttu-id="d9ac0-138">См. также</span><span class="sxs-lookup"><span data-stu-id="d9ac0-138">See Also</span></span>  
+[<span data-ttu-id="d9ac0-139">Учет по затратам</span><span class="sxs-lookup"><span data-stu-id="d9ac0-139">Accounting for Costs</span></span>](finance-manage-cost-accounting.md)  
+<span data-ttu-id="d9ac0-140">[Определение отношения между типами затрат и счетами главной книги](finance-defining-the-relationship-between-cost-types-and-general-ledger-accounts.md) </span><span class="sxs-lookup"><span data-stu-id="d9ac0-140">[Defining the Relationship Between Cost Types and General Ledger Accounts](finance-defining-the-relationship-between-cost-types-and-general-ledger-accounts.md) </span></span>  
+<span data-ttu-id="d9ac0-141">[Определение центров затрат и объектов затрат для плана счетов](finance-defining-cost-centers-and-cost-objects-for-chart-of-accounts.md) </span><span class="sxs-lookup"><span data-stu-id="d9ac0-141">[Defining Cost Centers and Cost Objects for Chart of Accounts](finance-defining-cost-centers-and-cost-objects-for-chart-of-accounts.md) </span></span>  
+<span data-ttu-id="d9ac0-142">[Обеспечивает баланс между типом затрат, центром затрат и объектом затрат](finance-balances-between-cost-type-cost-center-and-cost-object.md) </span><span class="sxs-lookup"><span data-stu-id="d9ac0-142">[Balances Between Cost Type, Cost Center, and Cost Object](finance-balances-between-cost-type-cost-center-and-cost-object.md) </span></span>  
+<span data-ttu-id="d9ac0-143">[Настройка учета затрат](finance-set-up-cost-accounting.md) </span><span class="sxs-lookup"><span data-stu-id="d9ac0-143">[Setting Up Cost Accounting](finance-set-up-cost-accounting.md) </span></span>  
+<span data-ttu-id="d9ac0-144">[Терминология в учете затрат](finance-terminology-in-cost-accounting.md) </span><span class="sxs-lookup"><span data-stu-id="d9ac0-144">[Terminology in Cost Accounting](finance-terminology-in-cost-accounting.md) </span></span>  
+[<span data-ttu-id="d9ac0-145">Об учете затрат</span><span class="sxs-lookup"><span data-stu-id="d9ac0-145">About Cost Accounting</span></span>](finance-about-cost-accounting.md)  
+<span data-ttu-id="d9ac0-146">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="d9ac0-146">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
+

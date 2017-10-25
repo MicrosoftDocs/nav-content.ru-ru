@@ -1,47 +1,81 @@
 ---
-title: "Справка по приложению Dynamics NAV | Microsoft Docs"
-description: "Dynamics NAV — это решение по управлению деятельностью для малых и средних предприятий, позволяющее автоматизировать и упростить бизнес процессы и лучше управлять бизнесом."
-documentationcenter: 
-author: edupont04
+title: "Встречайте Dynamics NAV"
+description: "Узнайте о возможностях и рабочих сценариях в Dynamics NAV, решении по управлению деятельностью для небольших и средних предприятий."
+author: SusanneWindfeldPedersen
 ms.prod: dynamics-nav-2017
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: setup wizard
-ms.date: 06/21/2017
-ms.author: edupont
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 47766b9163ef87d90275f7820c845ad53524df4f
+ms.date: 08/23/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 3162ca9bc53f862c1602f96ddf5eb7e9c7125005
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/26/2017
-
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="welcome-to-included365finlongincludesd365finlongmdmd"></a>Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
+[!INCLUDE[d365fin](includes/d365fin_md.md)] — это решение по управлению деятельностью для малых и средних предприятий, позволяющее автоматизировать и упростить бизнес процессы и лучше управлять бизнесом. Регистрация очень проста, и вы можете перенести существующие бизнес-данные из своей системы.
+После регистрации в предварительной версии [!INCLUDE[d365fin](includes/d365fin_md.md)] вы получаете доступ к демонстрационной организации. Демонстрационная организация содержит примеры данных, но вы можете создавать собственные документы продажи, например, настроить банковский счет.  
 
-# <a name="welcome-to-includenavnowlongincludesnavnowlongmdmd"></a><span data-ttu-id="cd03f-103">Добро пожаловать в [!INCLUDE[navnowlong](includes/navnowlong_md.md)]</span><span class="sxs-lookup"><span data-stu-id="cd03f-103">Welcome to [!INCLUDE[navnowlong](includes/navnowlong_md.md)]</span></span>
-[!INCLUDE[navnow](includes/navnow_md.md)]<span data-ttu-id="cd03f-104"> — это решение по управлению деятельностью для малых и средних предприятий, позволяющее автоматизировать и упростить бизнес процессы и лучше управлять бизнесом.</span><span class="sxs-lookup"><span data-stu-id="cd03f-104"> is a business management solution for small and mid-sized organizations that automates and streamlines business processes and helps you manage your business.</span></span> <span data-ttu-id="cd03f-105">Регистрация очень проста, и вы можете перенести существующие бизнес-данные из своей системы.</span><span class="sxs-lookup"><span data-stu-id="cd03f-105">Signing up is easy, and you can migrate existing business data from your legacy system.</span></span>
+## <a name="get-to-know-included365finincludesd365finmdmd"></a>Обзор [!INCLUDE[d365fin](includes/d365fin_md.md)]
+В [!INCLUDE[d365fin](includes/d365fin_md.md)] некоторые моменты будут хорошо знакомы вам, а другие могут быть незнакомы. В демонстрационной организации визуальные руководства объясняют основные функции и помогают попробовать выполнить ежедневные задачи, такие как создание счета продажи и просмотр отчета. Если вы выйдите из руководства, например для того, чтобы изучить [!INCLUDE[d365fin](includes/d365fin_md.md)] самостоятельно, но захотите вернуться в него, перейдите на домашнюю страницу и запустите тур "Приступая к работе".  
 
-## <a name="get-to-know-includenavnowincludesnavnowmdmd"></a><span data-ttu-id="cd03f-106">Обзор [!INCLUDE[navnow](includes/navnow_md.md)]</span><span class="sxs-lookup"><span data-stu-id="cd03f-106">Get to know [!INCLUDE[navnow](includes/navnow_md.md)]</span></span>
-<span data-ttu-id="cd03f-107">В [!INCLUDE[navnow](includes/navnow_md.md)] некоторые моменты будут хорошо знакомы вам, а другие могут быть незнакомы.</span><span class="sxs-lookup"><span data-stu-id="cd03f-107">In [!INCLUDE[navnow](includes/navnow_md.md)], some things will be familiar to you, and other things might be unfamiliar.</span></span>  
+Краткие и полезные советы см. в разделах:  
 
-<span data-ttu-id="cd03f-108">Краткие и полезные советы см. в разделах:</span><span class="sxs-lookup"><span data-stu-id="cd03f-108">For some quick, nice-to-know tricks, see:</span></span>  
+* [Поиск вещей](ui-search.md)  
+* [Поиск, фильтрация и сортировка списков](ui-enter-criteria-filters.md)  
+* [Ввод данных](ui-enter-data.md)  
 
-* [<span data-ttu-id="cd03f-109">Поиск вещей</span><span class="sxs-lookup"><span data-stu-id="cd03f-109">Find things</span></span>](ui-search.md)  
-* [<span data-ttu-id="cd03f-110">Задание фильтров</span><span class="sxs-lookup"><span data-stu-id="cd03f-110">Set filters</span></span>](ui-enter-criteria-filters.md)  
-* [<span data-ttu-id="cd03f-111">Сортировка данных в списках</span><span class="sxs-lookup"><span data-stu-id="cd03f-111">Sort data in lists</span></span>](ui-sorting.md)  
+Дополнительные сведения см. в разделе [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md).  
 
-<span data-ttu-id="cd03f-112">Дополнительные сведения см. в разделе [Работа с [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md).</span><span class="sxs-lookup"><span data-stu-id="cd03f-112">For more information, see [Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md).</span></span>  
+Когда вы будете готовы приступить к более сложным задачам и захотите просмотреть некоторые бизнес-процессы, поддерживаемые в [!INCLUDE[d365fin](includes/d365fin_md.md)], см. раздел [Функциональные бизнес-возможности](madeira-business-functionality.md). Обзор текущих возможностей и предстоящих обновлений см. на дорожной контакте по адресу [roadmap.dynamics.com](https://roadmap.dynamics.com/#edition=1#application=a56e2c12-2a92-e611-80dc-c4346bac0910#status=3a708a86-ae97-e611-80df-c4346baceb68).  
 
-## <a name="the-home-pages"></a><span data-ttu-id="cd03f-113">Домашние страницы</span><span class="sxs-lookup"><span data-stu-id="cd03f-113">The Home pages</span></span>
-<span data-ttu-id="cd03f-114">Домашние страницы имеют ориентированный на роль дизайн для предоставления быстрого доступа к бизнес-процессам и интеллектуальным инструментам, необходимым для выполнения работы.</span><span class="sxs-lookup"><span data-stu-id="cd03f-114">Home pages use a role-centric design to give you fast access to the business process and intelligence tools that you need to do your job.</span></span> <span data-ttu-id="cd03f-115">Например, бухгалтер может отслеживать платежи и утверждения, а также просматривать диаграммы финансового исполнения.</span><span class="sxs-lookup"><span data-stu-id="cd03f-115">For example, an accountant can monitor payments and approvals, and view finance performance charts.</span></span>  
+## <a name="the-home-pages"></a>Домашние страницы
+Домашние страницы имеют ориентированный на роль дизайн для предоставления быстрого доступа к бизнес-процессам и интеллектуальным инструментам, необходимым для выполнения работы. Например, бухгалтер может отслеживать платежи и утверждения, а также просматривать диаграммы финансового исполнения. Чтобы просмотреть различные домашние страницы, щелкните значок **Параметры** ![Параметры](media/ui-experience/settings_icon_small.png "Значок "Параметры" для ролевого центра") в правом верхнем углу, щелкните **Мои настройки** и выберите ролевой центр для изучения. Выполните вход еще раз, чтобы применить изменение. Дополнительные сведения см. в разделе [Изменение ролевого центра](change-role.md).  
 
-## <a name="see-also"></a><span data-ttu-id="cd03f-116">См. также</span><span class="sxs-lookup"><span data-stu-id="cd03f-116">See Also</span></span>
-<span data-ttu-id="cd03f-117">[Работа с [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="cd03f-117">[Working with [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)</span></span>  
-<span data-ttu-id="cd03f-118">[Установка [!INCLUDE[navnow](includes/navnow_md.md)]](setup.md)</span><span class="sxs-lookup"><span data-stu-id="cd03f-118">[Setting Up [!INCLUDE[navnow](includes/navnow_md.md)]](setup.md)</span></span>  
-[<span data-ttu-id="cd03f-119">Финансы</span><span class="sxs-lookup"><span data-stu-id="cd03f-119">Finance</span></span>](finance-setup.md)  
-<span data-ttu-id="cd03f-120">[Настройка [!INCLUDE[navnow](includes/navnow_md.md)] с помощью расширений](ui-extensions.md)</span><span class="sxs-lookup"><span data-stu-id="cd03f-120">[Customizing [!INCLUDE[navnow](includes/navnow_md.md)] Using Extensions](ui-extensions.md)</span></span>  
-<span data-ttu-id="cd03f-121">[Использование [!INCLUDE[navnow](includes/navnow_md.md)] в качестве рабочего почтового ящика в Outlook](across-outlook.md)</span><span class="sxs-lookup"><span data-stu-id="cd03f-121">[Using [!INCLUDE[navnow](includes/navnow_md.md)] as my Business Inbox in Outlook](across-outlook.md)</span></span>  
-<span data-ttu-id="cd03f-122">[Получение [!INCLUDE[navnow](includes/navnow_md.md)] на мобильном устройстве](install-mobile-app.md)</span><span class="sxs-lookup"><span data-stu-id="cd03f-122">[Getting [!INCLUDE[navnow](includes/navnow_md.md)] on Your Mobile Device](install-mobile-app.md)</span></span>  
+Каждая домашняя страница содержит кнопку **Настройка и расширения**. Здесь вы получаете доступ к списку сопровождаемой настройки, которая может помочь облегчить начало работы за счет быстрой настройки выбранных областей. Если область не включена в сопровождаемую настройку, выберите действие **Ручная настройка** для доступа к окнам настройки, в которых можно заполнить поля настройки для всех областей вручную. Дополнительные сведения см. также в разделе [Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md).  
+
+| Мастер настройки | Описанием |
+| --- | --- |
+| Миграция бизнес-данных |Позволяет импортировать ваши данные из существующей организации, например клиентов, поставщиков и товары из Quickbooks или Excel. |
+| Настройка организации |Создайте новую пробную организацию для ввода данных и ознакомления с [!INCLUDE[d365fin](includes/d365fin_md.md)]. Если в пошли обзора "Приступая к работе", вероятно, эта процедура уже **Завершена**. |
+| Настройка прогноза движения денежных средств |Настройка диаграммы "Прогноз движения денежных средств" для просмотра прогнозируемого движения денежных средств в организацию и из нее. Диаграмма доступна в разделе **Ролевой центр бухгалтера**. |
+| Настройка рабочих процессов утверждения |Настройка возможности автоматического уведомления утверждающего при попытках пользователей создать или изменить определенные значения в документах, строках журналов или карточках, например задать сумму выше определенного лимита. |
+| Настройка рабочего процесса утверждения клиента |Настройка возможности автоматически уведомлять утверждающего при попытках пользователей создать или изменить карточку клиента. |
+| Настройка электронной почты |Подготовка к отправке сообщений по электронной почте непосредственно из, например, заказов на продажу или контактов в [!INCLUDE[d365fin](includes/d365fin_md.md)]. |
+| Настройка регистрации эл.почты |Настройка возможности регистрации корреспонденции электронной почты [!INCLUDE[d365fin](includes/d365fin_md.md)] для использования при взаимодействии. |
+| Настройка Outlook для [!INCLUDE[d365fin](includes/d365fin_md.md)] |Настройка возможности использования и запуска [!INCLUDE[d365fin](includes/d365fin_md.md)] из Outlook. |
+| Настройка отчетов |Настройка наборов данных, которые можно использовать для создания мощных отчетов, например с помощью Excel или Power BI. |
+| Настройка рабочего процесса утверждения товара |Настройка возможности отправлять уведомления утверждающему, когда пользователь изменяет или создает товар. |
+| Настройка рабочего процесса утверждения платежа |Настройка возможности отправлять уведомления утверждающему, когда пользователь отправляет строки журнала платежей на утверждение. |
+| Настройка Dynamics NAV Connector |Настройка подключения к Dynamics 365 for Sales, которое позволяет синхронизировать данные, такие как контакты и заказы на продажу. |
+| Настройка налога с продаж |Начало работы с налоговыми группами по умолчанию и назначение кодов налоговых областей, которые можно назначать клиентам и поставщикам для автоматического расчета налога с продаж в документах продажи или покупки. |
+
+## <a name="trying-things-out-in-your-own-company"></a>Изучение компонентов в собственной организации
+Думаете о том, чтобы подписаться? Вы можете легко перейти с демонстрационной организации, чтобы создать собственную организацию и работать в ней. Это отличный способ приблизиться к решению приобрести подписку. Предоставляются настройки для финансов, вам достаточно создать или импортировать собственных клиентов и поставщиков, а также продаваемые товары или услуги. После этого все готово для учета счетов и использования интеллектуальных инструментов для анализа вашего бизнеса. Вы можете бесплатно пользоваться своей организацией в течение 30-дневного пробного периода. Если вы подписываетесь на [!INCLUDE[d365fin](includes/d365fin_md.md)] в течение этого времени, все уже готово для работы. Вы можете продолжать то, что вы делали в течение пробного периода.  
+
+Чтобы создать организацию для ознакомления с компонентами приложения, перейдите в меню **Мои настройки** в правом верхнем углу и измените организацию на **Моя организация**. Выйдите из [!INCLUDE[d365fin](includes/d365fin_md.md)], а затем снова войдите, чтобы применить изменение. Руководство по сопровождаемой настройке поможет вам предоставить базовую информацию о организации. После этого изучите домашнюю страницу и найдите действие **Сопровождаемая настройка**.  
+
+## <a name="ready-to-subscribe"></a>Готовы подписаться?
+При каждом выполнении входа во время пробного периода отображается уведомление вверху в синем поле с указанием оставшегося времени. Если вы решите приобрести подписку, перейдите по ссылке в уведомлении, чтобы связаться с Майкрософт. Можно также связаться с группой [!INCLUDE[d365fin](includes/d365fin_md.md)] Sales по адресу [Microsoft Dynamics NAV](https://go.microsoft.com/fwlink/?linkid=828707).  
+
+## <a name="other-dynamics-nav-apps"></a>Другие приложения Dynamics NAV
+Перейдите к содержимому о других приложениях Dynamics NAV, выбрав ссылку [Dynamics NAV](https://docs.microsoft.com/dynamics365) на синем баннере вверху этой страницы. Дополнительные сведения можно также получить на [веб-сайте Dynamics NAV](https://www.microsoft.com/en-us/dynamics365/).
+
+## <a name="see-also"></a>См. также
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Установка [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
+[Финансы](finance.md)  
+[Настройка [!INCLUDE[d365fin](includes/d365fin_md.md)] с помощью расширений](ui-extensions.md)  
+[Использование [!INCLUDE[d365fin](includes/d365fin_md.md)] в качестве рабочего почтового ящика в Outlook](madeira-outlook.md)  
+[Получение [!INCLUDE[d365fin](includes/d365fin_md.md)] на мобильном устройстве](install-mobile-app.md)  
+[Документация Microsoft Dynamics NAV](https://docs.microsoft.com/en-us/dynamics365/#pivot=solutions&panel=solutions_financials)  
+[roadmap.dynamics.com](https://roadmap.dynamics.com/#edition=1#application=a56e2c12-2a92-e611-80dc-c4346bac0910#status=3a708a86-ae97-e611-80df-c4346baceb68)  
+[Microsoft Dynamics NAV](https://go.microsoft.com/fwlink/?linkid=828707)  
+
+##
 

@@ -1,1 +1,1 @@
-<span data-ttu-id="75270-101">инструменты подготовки</span><span class="sxs-lookup"><span data-stu-id="75270-101">provisioning tools</span></span>
+<span data-ttu-id="e357b-101">инструменты подготовки</span><span class="sxs-lookup"><span data-stu-id="e357b-101">provisioning tools</span></span>

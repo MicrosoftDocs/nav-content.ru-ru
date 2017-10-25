@@ -1,1 +1,1 @@
-<span data-ttu-id="2d74e-101">среда разработки</span><span class="sxs-lookup"><span data-stu-id="2d74e-101">development environment</span></span>
+<span data-ttu-id="84311-101">среда разработки</span><span class="sxs-lookup"><span data-stu-id="84311-101">development environment</span></span>

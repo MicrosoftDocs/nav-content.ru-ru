@@ -1,1 +1,1 @@
-<span data-ttu-id="c3874-101">Параметр</span><span class="sxs-lookup"><span data-stu-id="c3874-101">Option</span></span>
+<span data-ttu-id="eaf09-101">Параметр</span><span class="sxs-lookup"><span data-stu-id="eaf09-101">Option</span></span>

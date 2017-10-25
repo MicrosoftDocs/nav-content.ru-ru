@@ -1,0 +1,64 @@
+---
+title: "Сведения о проектировании — оценка стоимости запасов"
+description: "Оценка стоимости запасов XE \"Оценка стоимости запасов\" — определение себестоимости, назначенной товару в запасах, выраженной с помощью следующего уравнения."
+documentationcenter: 
+author: SorenGP
+ms.prod: dynamics-nav-2017
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: 
+ms.date: 07/01/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: ab8f7606bf88e208a358b90fe8a9b30460201f63
+ms.contentlocale: ru-ru
+ms.lasthandoff: 10/16/2017
+
+---
+# <a name="design-details-inventory-valuation"></a><span data-ttu-id="d1c1c-103">Сведения о проектировании: оценка стоимости запасов</span><span class="sxs-lookup"><span data-stu-id="d1c1c-103">Design Details: Inventory Valuation</span></span>
+<span data-ttu-id="d1c1c-104">Оценка стоимости запасов XE "Оценка стоимости запасов" — определение себестоимости, назначенной товару в запасах, выраженной с помощью следующего уравнения.</span><span class="sxs-lookup"><span data-stu-id="d1c1c-104">Inventory valuation XE "Inventory Valuation"  is the determination of the cost that is assigned to an inventory item, as expressed by the following equation.</span></span>  
+
+<span data-ttu-id="d1c1c-105">Запасы в конце = запасы в начале + чистые покупки - себестоимость продаж</span><span class="sxs-lookup"><span data-stu-id="d1c1c-105">Ending inventory = beginning inventory + net purchases – cost of goods sold</span></span>  
+
+<span data-ttu-id="d1c1c-106">В вычислении оценки запасов используется поле **Сумма себестоимости (факт)** операций стоимости для товара.</span><span class="sxs-lookup"><span data-stu-id="d1c1c-106">The calculation of inventory valuation uses the **Cost Amount (Actual)** field of the value entries for the item.</span></span> <span data-ttu-id="d1c1c-107">Операции классифицируются по типам операций XE "Тип операции", соответствующим компонентам стоимости, прямым затратам, непрямым затрата, вариациям, переоценке и округлению.</span><span class="sxs-lookup"><span data-stu-id="d1c1c-107">The entries are classified according to the entry type XE "Entry Type"  that corresponds to the cost components, direct cost, indirect cost, variance, revaluation, and rounding.</span></span> <span data-ttu-id="d1c1c-108">Дополнительные сведения см. в разделе [Сведения о проектировании. Компоненты себестоимости](design-details-cost-components.md).</span><span class="sxs-lookup"><span data-stu-id="d1c1c-108">For more information, see [Design Details: Cost Components](design-details-cost-components.md).</span></span>  
+
+<span data-ttu-id="d1c1c-109">Операции применяются друг к другу путем фиксированного применения XE "Применение; фиксированное" или в соответствии с общим предположением потока затрат, определенным методом учета себестоимости XE "Метод; учет себестоимости" XE "Метод учета себестоимости".</span><span class="sxs-lookup"><span data-stu-id="d1c1c-109">Entries are applied against each other, either by the fixed application XE "Application; Fixed" , or according to the general cost-flow assumption defined by the costing method XE "Method; Costing"  XE "Costing Method" .</span></span> <span data-ttu-id="d1c1c-110">Одну операцию расхода склада можно применить к нескольким операциям увеличения с разными датами учета и возможными различными значениями стоимости приобретения XE "Стоимость приобретения".</span><span class="sxs-lookup"><span data-stu-id="d1c1c-110">One entry of inventory decrease can be applied to more than one increase entry with different posting dates and possibly different acquisition cost XE "Acquisition Cost" s.</span></span> <span data-ttu-id="d1c1c-111">Дополнительные сведения см. в разделе [Сведения о проектировании: применение товара](design-details-item-application.md).</span><span class="sxs-lookup"><span data-stu-id="d1c1c-111">For more information, see [Design Details: Item Application](design-details-item-application.md).</span></span> <span data-ttu-id="d1c1c-112">Следовательно, вычисление стоимости запасов XE "Стоимость запасов" на заданную дату основано на суммировании операций с положительной и отрицательной суммой.</span><span class="sxs-lookup"><span data-stu-id="d1c1c-112">Therefore, calculation of the inventory value XE "Inventory Value"  for a given date is based on summing up positive and negative value entries.</span></span>  
+
+## <a name="inventory-valuation-report"></a><span data-ttu-id="d1c1c-113">Отчет "Оценка стоимости товаров"</span><span class="sxs-lookup"><span data-stu-id="d1c1c-113">Inventory Valuation report</span></span>  
+<span data-ttu-id="d1c1c-114">Для вычисления стоимости запасов в отчете **Оценка стоимости товаров** отчет начинается с вычисления стоимости запасов товара в заданную начальную дату.</span><span class="sxs-lookup"><span data-stu-id="d1c1c-114">To calculate the inventory value in the **Inventory Valuation** report, the report begins by calculating the value of the item’s inventory at a given starting date.</span></span> <span data-ttu-id="d1c1c-115">Затем добавляется стоимость приходов склада и вычитается стоимость расходов склада до данной даты окончания.</span><span class="sxs-lookup"><span data-stu-id="d1c1c-115">It then adds the value of inventory increases and subtracts the value of inventory decreases up to a given ending date.</span></span> <span data-ttu-id="d1c1c-116">Конечный результат — стоимость запасов на дату окончания.</span><span class="sxs-lookup"><span data-stu-id="d1c1c-116">The end result is the inventory value on the ending date.</span></span> <span data-ttu-id="d1c1c-117">В отчете эти значения вычисляются суммированием значений в поле **Сумма себестоимости (факт)** в операциях стоимости с использованием дат учета в качестве фильтров.</span><span class="sxs-lookup"><span data-stu-id="d1c1c-117">The report calculates these values by summing the values in the **Cost Amount (Actual)** field in the value entries, using the posting dates as filters.</span></span>  
+
+<span data-ttu-id="d1c1c-118">В распечатанном отчете всегда будут указаны фактические суммы, то есть себестоимости операций, учтенные как операции, по которым выставлены счета.</span><span class="sxs-lookup"><span data-stu-id="d1c1c-118">The printed report always shows actual amounts, that is, the cost of entries that have been posted as invoiced.</span></span> <span data-ttu-id="d1c1c-119">В отчете также будет напечатана ожидаемая себестоимость операций, которые учтены как полученные и отгруженные, если установить флажок в поле Включать ожидаемую себест. на экспресс-вкладке Параметры.</span><span class="sxs-lookup"><span data-stu-id="d1c1c-119">The report will also print the expected cost of entries that have posted as received or shipped, if you select the Include Expected Cost field on the Options FastTab.</span></span>  
+
+> [!IMPORTANT]  
+>  <span data-ttu-id="d1c1c-120">Значения в отчете **Оценка стоимости товаров** выверяются на счету складских запасов в ГК, что означает, что операции стоимости учтены в ГК.</span><span class="sxs-lookup"><span data-stu-id="d1c1c-120">Values in the **Inventory Valuation** report is reconciled with the Inventory account in the general ledger, meaning the value entries in question have been posted to the general ledger.</span></span>  
+
+> [!IMPORTANT]  
+>  <span data-ttu-id="d1c1c-121">Суммы в столбцах **Значение** отчета основываются на дате учета транзакций по товару.</span><span class="sxs-lookup"><span data-stu-id="d1c1c-121">Amounts in the **Value** columns of the report are based on the posting date of transactions for an item.</span></span>  
+
+## <a name="inventory-valuation---wip-report"></a><span data-ttu-id="d1c1c-122">Отчет "Оценка стоимости запасов - НЗП"</span><span class="sxs-lookup"><span data-stu-id="d1c1c-122">Inventory Valuation - WIP report</span></span>  
+<span data-ttu-id="d1c1c-123">Производственной организации необходимо указать значение трех типов склада:</span><span class="sxs-lookup"><span data-stu-id="d1c1c-123">A manufacturing company needs to determine the value of three types of inventory:</span></span>  
+
+* <span data-ttu-id="d1c1c-124">Запасы сырья</span><span class="sxs-lookup"><span data-stu-id="d1c1c-124">Raw Materials inventory</span></span>  
+* <span data-ttu-id="d1c1c-125">Запасы НЗП</span><span class="sxs-lookup"><span data-stu-id="d1c1c-125">WIP inventory</span></span>  
+* <span data-ttu-id="d1c1c-126">Запасы готовой продукции</span><span class="sxs-lookup"><span data-stu-id="d1c1c-126">Finished Goods inventory</span></span>  
+
+<span data-ttu-id="d1c1c-127">Стоимость запасов НЗП определяется следующим выражением:</span><span class="sxs-lookup"><span data-stu-id="d1c1c-127">The value of WIP inventory is determined by the following equation:</span></span>  
+
+* <span data-ttu-id="d1c1c-128">Запасы НЗП в конце = запасы НЗП в начале + себестоимость производства - себестоимость произведенных товаров</span><span class="sxs-lookup"><span data-stu-id="d1c1c-128">Ending WIP inventory = Beginning WIP inventory + manufacturing costs – cost of goods manufactured</span></span>  
+
+<span data-ttu-id="d1c1c-129">Что касается приобретенных запасов, операции стоимости предоставляют основу для оценки стоимости товаров.</span><span class="sxs-lookup"><span data-stu-id="d1c1c-129">As for purchased inventory, the value entries provide the basis of the inventory valuation.</span></span> <span data-ttu-id="d1c1c-130">Вычисление выполняется с использованием значений в поле **Сумма себестоимости (факт)** товара и операций стоимости производственных мощностей, связанных с производственным заказом.</span><span class="sxs-lookup"><span data-stu-id="d1c1c-130">The calculation is made using the values in the **Cost Amount (Actual)** field of the item and capacity value entries associated with a production order.</span></span>  
+
+<span data-ttu-id="d1c1c-131">Цель оценки запасов НЗП — определить стоимость товаров, производство которых еще не завершено к указанной дате.</span><span class="sxs-lookup"><span data-stu-id="d1c1c-131">The purpose of WIP inventory valuation is to determine the value of the items whose manufacturing has not yet been completed on a given date.</span></span> <span data-ttu-id="d1c1c-132">Следовательно, стоимость запасов НЗП основана на операциях стоимости, связанных с потреблением, и операциями журнала производственных мощностей.</span><span class="sxs-lookup"><span data-stu-id="d1c1c-132">Therefore the WIP inventory value is based on the value entries related to the consumption and capacity ledger entries.</span></span> <span data-ttu-id="d1c1c-133">По операциям книги потребления необходимо полностью выставить счет на дату оценки.</span><span class="sxs-lookup"><span data-stu-id="d1c1c-133">Consumption ledger entries must be completely invoiced at the date of the valuation.</span></span> <span data-ttu-id="d1c1c-134">Таким образом, отчет **Оценка стоимости запасов — НЗП** показывает затраты, представляющие стоимость запасов НЗП в двух категориях: потребление и произв. мощность.</span><span class="sxs-lookup"><span data-stu-id="d1c1c-134">Therefore, the **Inventory Valuation – WIP** report shows the costs representing the WIP inventory value in two categories: consumption and capacity.</span></span>  
+
+## <a name="see-also"></a><span data-ttu-id="d1c1c-135">См. также</span><span class="sxs-lookup"><span data-stu-id="d1c1c-135">See Also</span></span>  
+<span data-ttu-id="d1c1c-136">[Сведения о проектировании: выверка с главной книгой](design-details-reconciliation-with-the-general-ledger.md) </span><span class="sxs-lookup"><span data-stu-id="d1c1c-136">[Design Details: Reconciliation with the General Ledger](design-details-reconciliation-with-the-general-ledger.md) </span></span>  
+<span data-ttu-id="d1c1c-137">[Сведения о проектировании: переоценка](design-details-revaluation.md) </span><span class="sxs-lookup"><span data-stu-id="d1c1c-137">[Design Details: Revaluation](design-details-revaluation.md) </span></span>  
+<span data-ttu-id="d1c1c-138">[Сведения о проектировании: учет производственного заказа](design-details-production-order-posting.md)
+[Управление себестоимостью товаров](finance-manage-inventory-costs.md)</span><span class="sxs-lookup"><span data-stu-id="d1c1c-138">[Design Details: Production Order Posting](design-details-production-order-posting.md)
+[Managing Inventory Costs](finance-manage-inventory-costs.md)</span></span>  
+[<span data-ttu-id="d1c1c-139">Финансы</span><span class="sxs-lookup"><span data-stu-id="d1c1c-139">Finance</span></span>](finance.md)  
+<span data-ttu-id="d1c1c-140">[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="d1c1c-140">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
+
