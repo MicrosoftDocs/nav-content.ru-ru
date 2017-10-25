@@ -1,1 +1,1 @@
-Компоненты Microsoft Dynamics NAV Web Server
+Microsoft Dynamics NAV Компоненты веб-сервера

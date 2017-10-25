@@ -1,18 +1,21 @@
 ---
-title: "Практическое руководство. Создание возможностей продаж"
+title: "Создание возможностей продаж"
+description: "Описывается создание возможностей из менеджеров по продажам или контактов в Dynamics NAV."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f7105692b20eb3d6ae2a493f192000d9561c2be4
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: d0a3517e794964d139a04b25e5ea7c9acf1bd4f8
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 # <a name="how-to-create-sales-opportunities"></a>Практическое руководство. Создание возможностей продаж
@@ -23,24 +26,23 @@ ms.lasthandoff: 06/26/2017
 Перед созданием возможностей необходимо настроить циклы продаж возможностей. Дополнительные сведения см. в разделе [Практическое руководство. Настройка циклов продаж и этапов для возможностей](marketing-how-setup-opportunity-sales-cycles-stages.md).
 
 ## <a name="to-create-an-opportunity-from-a-salesperson"></a>Создание возможности для менеджера по продажам
-1. В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Менеджеры**, а затем выберите связанную ссылку.
+1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Менеджеры**, а затем выберите связанную ссылку.
 2. Выберите из списка менеджера по продажам, для которого требуется создать возможность.
 3. Выберите действие **Возможности**, а затем выберите **Список**.
-4. Выберите **Создать**, а затем заполните соответствующие поля.  
+4. Выберите **Создать**, а затем заполните соответствующие поля. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
-<!-- taken out for OPS -->
-<!-- [AZURE.INCLUDE [tooltip-note](../includes/tooltip-note.md)] -->
+
 
 ## <a name="to-create-an-opportunity-from-a-contact"></a>Создание возможности для контакта
-1. В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Контакты**, а затем выберите связанную ссылку.
+1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Контакты**, а затем выберите связанную ссылку.
 2. Выберите из списка контакт, для которого требуется создать возможность.
 3. Выполните одно из следующих действий:
-  * Выберите действие **Создать возможности**.
-  * Выберите действие **Возможности**, а затем выберите **Создать**.
+   * Выберите действие **Создать возможности**.
+   * Выберите действие **Возможности**, а затем выберите **Создать**.
 4. Заполните соответствующие поля.
 
-##<a name="see-also"></a>См. также  
-[Управление продажами](sales-manage-sales.md)  
+## <a name="see-also"></a>См. также
+[Продажи](sales-manage-sales.md)  
 [Создание контактов и управление ими](marketing-contacts.md)  
 [Работа с Dynamics NAV](ui-work-product.md)
 

@@ -1,1 +1,1 @@
-Консоль разработки Microsoft Dynamics NAV 2017
+Microsoft Dynamics NAV 2017 Оболочка разработки

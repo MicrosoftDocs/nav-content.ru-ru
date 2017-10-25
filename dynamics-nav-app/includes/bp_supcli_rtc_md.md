@@ -1,1 +1,1 @@
-Только клиент Microsoft Dynamics NAV Windows
+Microsoft Dynamics NAV Только для клиента для Windows

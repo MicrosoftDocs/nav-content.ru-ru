@@ -1,36 +1,38 @@
 ---
-title: "Управление возможностями продаж"
+title: "Управление возможностями продаж и интересами"
+description: "Описывается управление входящими интересами и возможностями продаж в Dynamics NAV, а также связыванием возможностей с менеджерами по продажам для отслеживания потенциальных продаж."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: d5190546b3a403310ac76830aadbc2dbd14b5d00
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 92b20d0ef49e3ed5d10ec218c62463a29c5163ea
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="manage-sales-opportunities"></a>Управление возможностями продаж
+# <a name="managing-sales-opportunities"></a>Управление возможностями продаж
 Все входящие потенциальные сделки можно рассматривать как возможность продаж. Можно создавать возможности и связывать их с менеджерами, чтобы отслеживать потенциальные продажи.
 
 Прежде чем начать использовать функцию управления возможностями, необходимо настроить циклы продаж и их этапы. Создавая возможность, нужно предоставить сведения о контакте, менеджере, цикле продаж и датах, а также предварительную оценку суммы продаж этой возможности и собственную оценку вероятности ее успеха.
 
-В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются. Эти задачи перечислены в обычном порядке их выполнения.
+В следующей таблице приводится последовательность задач со ссылками на разделы, в которых они описываются. 
 
-|Действие |Ссылка |
-|---|-----|
-|Настройте циклы продаж, которые вы обычно используете, и различные стадии внутри каждого цикла возможностей продаж.|[Практическое руководство. Настройка циклов продаж и этапов циклов](marketing-how-setup-opportunity-sales-cycles-stages.md)|
-|Создать имеющиеся возможности продаж на основе контактов.|[Как создать возможности](marketing-how-create-opportunities.md)|
-|Перемещение возможности продаж по циклу продаж до завершения|[Обработка возможностей продаж](marketing-processing-sales-opportunities.md)|
+| По | Ссылка |
+| --- | --- |
+| Настройте циклы продаж, которые вы обычно используете, и различные стадии внутри каждого цикла возможностей продаж. |[Практическое руководство. Настройка циклов продаж и этапов циклов](marketing-how-setup-opportunity-sales-cycles-stages.md) |
+| Создать имеющиеся возможности продаж на основе контактов. |[Практическое руководство. Создание возможностей](marketing-how-create-opportunities.md) |
+| Перемещение возможности продаж по циклу продаж до завершения. |[Обработка возможностей продаж](marketing-processing-sales-opportunities.md) |
 
-
-##<a name="see-also"></a>См. также  
-[Управление продажами](sales-manage-sales.md)  
+## <a name="see-also"></a>См. также
+[Продажи](sales-manage-sales.md)  
 [Создание контактов и управление ими](marketing-contacts.md)  
-[Работа с Dynamics NAV](ui-work-product.md)
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

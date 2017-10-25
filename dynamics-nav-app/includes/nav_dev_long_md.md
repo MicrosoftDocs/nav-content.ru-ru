@@ -1,1 +1,1 @@
-Среда разработки Microsoft Dynamics NAV
+Microsoft Dynamics NAV Среда разработки

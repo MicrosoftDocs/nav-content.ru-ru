@@ -1,18 +1,21 @@
 ---
-title: "Практическое руководство. Связывание контактов с клиентами, поставщиками и банковскими счетами"
+title: "Связывание контактов с клиентами и поставщиками"
+description: "Далее описывается процедура связывания контакта с клиентом, поставщиком или банковским счетом из той же компании, чтобы вы могли синхронизировать общие данные."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 35775255d4b11e98b5c7f1df0babc538d62d6698
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 9e77d890117a6c6ae4dae502e6de48b7b8e53985
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 # <a name="how-to-link-contacts-with-customers-vendors-and-bank-accounts"></a>Практическое руководство. Связывание контактов с клиентами, поставщиками и банковскими счетами
@@ -23,10 +26,10 @@ ms.lasthandoff: 06/26/2017
 2. Выберите действие **Связать с существующим**, а затем выберите **Клиент**, **Поставщик** или **Банк**.
 3. Выберите клиента, поставщика или банковский счет для связывания.
 
- В поле **Текущие главные поля** следует указывать, каким из полей следует отдавать приоритет в случае конфликта информации, общей для контакта и клиента, поставщика или счета. Например, если код менеджера по продажам в контакте отличается от кода у клиента, можно выбрать **Контакт**, чтобы использовать информацию в контакте.
+   В поле **Текущие главные поля** следует указывать, каким из полей следует отдавать приоритет в случае конфликта информации, общей для контакта и клиента, поставщика или счета. Например, если код менеджера по продажам в контакте отличается от кода у клиента, можно выбрать **Контакт**, чтобы использовать информацию в контакте.
 
-
-##<a name="see-also"></a>См. также
-[Синхронизация контактов с клиентами, поставщиками и банковскими счетами](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)
+## <a name="see-also"></a>См. также
+[Синхронизация контактов с клиентами, поставщиками и банковскими счетами](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
 [Создание контактов и управление ими](marketing-contacts.md)  
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

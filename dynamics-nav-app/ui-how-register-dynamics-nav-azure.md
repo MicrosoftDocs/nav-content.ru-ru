@@ -9,12 +9,12 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 225773f7f686dd6e9a79f759d520d66f7e7b9d0a
+ms.prod: dynamics-nav-2017
+ms.translationtype: HT
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: d41b96ab5807402a342991d5c5bc2d672db09e2f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 # <a name="how-to-register-dynamics-nav-in-the-azure-management-portal"></a>Практическое руководство. Регистрация Dynamics NAV на портале управления Azure
@@ -25,8 +25,7 @@ ms.lasthandoff: 06/26/2017
 Цель регистрации состоит в том, что Dynamics NAV и служба, к которой вы хотите подключиться, должны знать сведения Azure Active Directory (Azure AD) друг о друге.
 
 ## <a name="to-register-dynamics-nav-in-the-azure-management-portal"></a>Регистрация Dynamics NAV на портале управления Azure
-1. Выполните вход на портал управления Azure по адресу [https://portal.azure.com](https://portal.azure.com).
-    Если вы не знакомы с порталом управления, руководство можно найти в [библиотеке документации по Azure](https://azure.microsoft.com/en-us/documentation/articles).
+1. Выполните вход на портал управления Azure по адресу [https://portal.azure.com](https://portal.azure.com). Если вы не знакомы с порталом управления, руководство можно найти в [библиотеке документации по Azure](https://azure.microsoft.com/en-us/documentation/articles).
 2. В левой области навигации выберите **Дополнительные службы**, затем выберите **Регистрации приложений**.
 3. В верхнем меню выберите **Добавить**, затем в разделе **Создать область** заполните поля, указав следующие сведения:
     - **Название**: укажите название решения Dynamics NAV, например *Dynamics NAV*.
@@ -47,7 +46,7 @@ ms.lasthandoff: 06/26/2017
 
 Теперь ваш экземпляр Dynamics NAV зарегистрирован на портале управления Azure, вам предоставлен доступ к соответствующим службам, и вы получили информацию, которая потребуется в Dynamics NAV.  
 
-## <a name="to-add-the-information-to-dynamics-nav"></a>Добавление сведений в Dynamics NAV
+## <a name="to-add-the-information-to-dynamics-nav"></a>Добавление информации в Dynamics NAV
 1. В правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Мастер установки приложения Azure AD**, затем выберите связанную ссылку.
 2. В мастере выберите **Далее**.
 3. В поле **Код клиента** укажите содержимое, которое было скопировано из поля **Код приложения** ранее.
@@ -57,6 +56,6 @@ ms.lasthandoff: 06/26/2017
 Ваш экземпляр Dynamics NAV зарегистрирован и готов для подключения с службам, таким как Cortana Intelligence и Power BI.
 
 ## <a name="see-also"></a>См. также
-[Прогноз запасов и продаж](ui-extensions-sales-forecast.md)  
+[Прогноз продаж и запасов](ui-extensions-sales-forecast.md)  
 [Настройка Dynamics NAV](setup.md)  
 

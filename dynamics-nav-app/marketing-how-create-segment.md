@@ -1,25 +1,28 @@
 ---
-title: "Как создать сегменты"
+title: "Создание сегментов"
+description: "Далее описывается процедура создания сегмента для группы контактов в Dynamics NAV, например, чтобы обращаться к нескольким контактам с помощью прямой почтовой рассылки."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 62b9e2c54e7229e9c9e8fdd51f56ee874b34ab40
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 930f03d18612cd161137c92121e91b91aa1a21ac
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 # <a name="how-to-create-segments"></a>Как создать сегменты
 Для выбора группы контактов можно создать сегменты, например, если требуется создать взаимодействие, в которое вовлечены несколько контактов, таких как прямая почтовая рассылка.
 
 ## <a name="to-create-a-segment"></a>Создание сегмента
-1. На начальной странице выберите **Активные сегменты**. Или в правом верхнем углу выберите значок **Поиск страницы или отчета**, введите **Сегменты**, а затем выберите связанную ссылку.
+1. На начальной странице выберите **Активные сегменты**. Или выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Сегменты**, а затем выберите связанную ссылку.
 2. Выберите действие **Создать**.
 3. В разделе **Общее** в поле **Номер** введите номер сегмента.
 
@@ -28,7 +31,8 @@ ms.lasthandoff: 06/26/2017
 
 Теперь в сегмент можно добавить контакты. Дополнительные сведения см. в разделе [Практическое руководство. Добавление контактов к сегментам](marketing-add-contact-segment.md).
 
-##<a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 [Управление сегментами](marketing-segments.md)  
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

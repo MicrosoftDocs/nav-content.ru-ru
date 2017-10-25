@@ -1,23 +1,23 @@
 ---
-title: "Практическое руководство. Определение расширенного текста"
+title: "Добавление строк для определения расширенного в описании товара"
+description: "Вы можете добавить строки, чтобы расширить стандартный текст описания товара."
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 11/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ed6da717268252928775099eff77dd34f42117cf
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.date: 01/16/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 25667e524253bfd122919af7a1089b4e323ffbb0
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-    
-# <a name="how-to-define-extended-text"></a>Практическое руководство. Определение расширенного текста
-
+# <a name="how-to-set-up-extended-item-text"></a>Практическое руководство. Настройка расширенного текста товара
 Можно расширить стандартный текст для товаров, добавив дополнительные строки, и настроить условия использования этих строк. Сделать это можно из карточек товара.
 
 ## <a name="to-define-extended-text-for-an-item-description"></a>Определение расширенного текста для описания товара
@@ -25,12 +25,12 @@ ms.lasthandoff: 06/26/2017
 2. В поле **Код** введите код, а в поле **Описание** введите необходимый текст.
 3. Выберите **Расширенные тексты**.
 4. Заполните строки в окне **Расширенный текст** дополнительным текстом.
-5. Заполните поле **Код языка** или **Все коды языков**, если используются коды языков. 
+5. Заполните поле **Код языка** или **Все коды языков**, если используются коды языков.
 6. Заполните поля **Дата начала** и **Дата окончания** для ограничения времени использования расширенного текста.
 7. Установите соответствующие флажки для тех типов документов, в которых необходимо печатать расширенный текст.
-8. Закройте окно.
+8. Закройте данное окно.
 
 ## <a name="see-also"></a>См. также
-[Работа с Dynamics NAV](ui-work-product.md)
-
+[Настройка запасов](inventory-setup-inventory.md)  
+[Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

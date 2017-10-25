@@ -1,1 +1,1 @@
-Веб-клиент Microsoft Dynamics NAV
+Microsoft Dynamics NAV Веб-клиент

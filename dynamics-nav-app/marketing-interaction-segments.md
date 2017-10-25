@@ -1,21 +1,24 @@
 ---
-title: "Взаимодействия и сегменты"
+title: "Отслеживание сегментов и связанных взаимодействий"
+description: "Узнайте о создании сегментов для определения групп контактов и определения взаимодействий для сегментов."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: c66dff69fa31458e94f7de5fa4b524656141a5f6
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: b4fb4abfdfe69856d0e26e20d30f3adcaf2fd665
 ms.contentlocale: ru-ru
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="interactions-and-segments"></a>Взаимодействия и сегменты
+# <a name="managing-interactions-for-segments"></a>Управление взаимодействиями для сегментов
 Окно **Сегмент** является своеобразным рабочим листом, где можно:
 
 * создавать сегменты;
@@ -40,12 +43,12 @@ ms.lasthandoff: 06/26/2017
 
 В окне **Зарегистрированные сегменты** вы можете создать контрольный сегмент, содержащий те же контакты, что и в зарегистрированном сегменте.
 
-
-##<a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также
 [Практическое руководство. Создание сегментов](marketing-how-create-segment.md)  
-[Как создать взаимодействия для сегментов](marketing-how-create-interactions.md)  
+[Практическое руководство. Создание взаимодействий для сегментов](marketing-how-create-interactions.md)  
 [Управление сегментами](marketing-segments.md)  
 [Регистрация взаимодействий с контактами](marketing-interactions.md)  
 [Управление возможностями продаж](marketing-manage-sales-opportunities.md)  
-[Создание контактов и управление ими](marketing-contacts.md)
+[Создание контактов и управление ими](marketing-contacts.md)  
+[Работа с Dynamics NAV](ui-work-product.md)
 
