@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Node Name="" DisplayName="Справка" Page="index.html">
+  <Node Name="" DisplayName="Приступая к работе" Page="index.html">
+    <Node Name="" DisplayName="Обзор бизнес-функций" Page="madeira-business-functionality.html"/>
+    <Node Name="" DisplayName="Импорт бизнес-данных из других финансовых систем" Page="upload-data.html"/>
+    <Node Name="" DisplayName="Получение Dynamics NAV на мобильном устройстве" Page="install-mobile-app.html"/>
+    <Node Name="" DisplayName="Использование Dynamics NAV в качестве рабочего почтового ящика в Outlook" Page="across-outlook.html"/>
+    <Node Name="" DisplayName="Включение бизнес-данных для Power BI" Page="across-powerbi.html"/>
+    <Node Name="" DisplayName="Использование Dynamics NAV в автоматическом бизнес-процессе" Page="across-how-use-financials-data-source-flow.html"/>
+    <Node Name="" DisplayName="Использование Dynamics NAV как источника данных Power BI" Page="across-how-use-financials-data-source-powerbi.html"/>
+    <Node Name="" DisplayName="Настройка Dynamics NAV с помощью расширений" Page="ui-extensions.html"/>
+  </Node>
+  <Node Name="" DisplayName="Советы и подсказки" Page="ui-work-product.html">
+    <Node Name="" DisplayName="Работа с Dynamics NAV" Page="ui-work-product.html"/>
+    <Node Name="" DisplayName="Использование поиска страницы или отчета" Page="ui-search.html"/>
+    <Node Name="" DisplayName="Изменение базовых настроек" Page="ui-change-basic-settings.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Изменение ролевого центра" Page="change-role.html"/>
+    <Node Name="" DisplayName="Настройка Dynamics NAV" Page="ui-customizing-overview.md.html"/>
+    <Node Name="" DisplayName="Разрешение Dynamics NAV предлагать значения" Page="ui-let-system-suggest-values.html"/>
+    <Node Name="" DisplayName="Печать отчета" Page="ui-work-report.html"/>
+    <Node Name="" DisplayName="Видео о распространенных задачах" Page="across-videos.html"/>
+  </Node>
+  <Node Name="" DisplayName="Настройка Dynamics NAV" Page="setup.html">
+    <Node Name="" DisplayName="Настройка и администрирование" Page="admin-setup-and-administration.html">
+      <Node Name="" DisplayName="Регистрация изменений" Page="across-log-changes.html"/>
+      <Node Name="" DisplayName="Создание новых организаций" Page="about-new-company.html"/>
+      <Node Name="" DisplayName="Пользователи, профили и ролевые центры" Page="admin-users-profiles-roles.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Управление пользователями и разрешениями" Page="ui-how-users-permissions.html"/>
+      <Node Name="" DisplayName="Использование очередей работ для планирования задач" Page="admin-job-queues-schedule-tasks.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Публикация веб-службы" Page="across-how-publish-web-service.html"/>
+    </Node>
+    <Node Name="" DisplayName="Настройка финансов" Page="finance-setup-finance.html">
+      <Node Name="" DisplayName="Определение способов оплаты" Page="finance-payment-methods.html"/>
+      <Node Name="" DisplayName="Настройка учетных групп" Page="finance-posting-groups.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Работа с отклонениями в оплате и отклонениями скидки по оплате" Page="finance-payment-tolerance-and-payment-discount-tolerance.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Открытие нового финансового года" Page="finance-how-open-new-fiscal-year.html"/>
+      <Node Name="" DisplayName="Настройка налога на добавленную стоимость" Page="finance-setup-vat.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Обновление валютных курсов" Page="finance-how-update-currencies.html"/>
+      <Node Name="" DisplayName="Настройка плана счетов" Page="finance-setup-chart-accounts.html"/>
+      <Node Name="" DisplayName="Настройка анализа движения денежных средств" Page="finance-setup-cash-flow-analyses.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка клиентов, оплачивающих наличными" Page="finance-how-to-set-up-cash-customers.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка отчетности Интрастат" Page="finance-how-setup-report-intrastat.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Работа с отчетом консолидированного пробного баланса" Page="accross-how-consolidated-company-reporting.html"/>
+    </Node>
+    <Node Name="" DisplayName="Настройка банковских операций" Page="bank-setup-banking.html">
+      <Node Name="" DisplayName="Практическое руководство. Настройка банковских счетов" Page="bank-how-setup-bank-accounts.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка службы конвертации банковских данных" Page="bank-how-setup-bank-data-conversion-service.html"/>
+    </Node>
+    <Node Name="" DisplayName="Настройка продаж" Page="sales-setup-sales.html">
+      <Node Name="" DisplayName="Практическое руководство. Регистрация новых клиентов" Page="sales-how-register-new-customers.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Включение платежей клиентов через службу платежей" Page="sales-how-enable-payment-service-extensions.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Регистрация специальных цен продажи и скидок" Page="sales-how-record-sales-price-discount-payment-agreements.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка менеджеров по продажам" Page="sales-how-setup-salespeople.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка профилей отправки документов" Page="sales-how-setup-document-send-profiles.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Отправка документов по электронной почте" Page="ui-how-send-documents-email.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Проверка регистрационных номеров НДС" Page="sales-how-to-verify-vat-registration-numbers.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка экспедиторов" Page="sales-how-to-set-up-shipping-agents.html"/>
+    </Node>
+    <Node Name="" DisplayName="Настройка покупки" Page="purchasing-setup-purchasing.html">
+      <Node Name="" DisplayName="Практическое руководство. Регистрация новых поставщиков" Page="purchasing-how-register-new-vendors.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Регистрация специальных цен покупки и скидок" Page="purchasing-how-record-purchase-price-discount-payment-agreements.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Назначение приоритетов поставщикам" Page="purchasing-how-prioritize-vendors.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка менеджеров по закупкам" Page="purchasing-how-setup-purchasers.html"/>
+    </Node>
+    <Node Name="" DisplayName="Настройка запасов" Page="inventory-setup-inventory.html">
+      <Node Name="" DisplayName="Практическое руководство. Настройка общей информации по запасам" Page="inventory-how-setup-general.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Работа с центрами ответственности" Page="inventory-responsibility-centers.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка складов" Page="inventory-how-setup-locations.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Регистрация новых товаров" Page="inventory-how-register-new-items.html"/>
+      <Node Name="" DisplayName="Как настроить единицы хранения" Page="inventory-how-to-set-up-stockkeeping-units.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Категоризация товаров" Page="inventory-how-categorize-items.html"/>
+    </Node>
+    <Node Name="" DisplayName="Настройка управления проектами" Page="projects-setup-projects.html">
+      <Node Name="" DisplayName="Практическое руководство. Настройка ресурсов" Page="projects-how-setup-resources.html"/>
+      <Node Name="" DisplayName="Практическое руководство: настройка табелей" Page="projects-how-setup-time-sheets.html"/>
+      <Node Name="" DisplayName="Как настроить работы" Page="projects-how-setup-jobs.html"/>
+    </Node>
+    <Node Name="" DisplayName="Настройка основных средств" Page="fa-setup.html">
+      <Node Name="" DisplayName="Практическое руководство. Настройка общих данных основных средств" Page="fa-how-setup-general.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка амортизации основных средств" Page="fa-how-setup-depreciation.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка страхования основных средств" Page="fa-how-setup-insurance.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка обслуживания основных средств" Page="fa-how-setup-maintenance.html"/>
+    </Node>
+    <Node Name="" DisplayName="Настройка управления складом" Page="warehouse-setup-warehouse.html">
+      <Node Name="" DisplayName="Сведения о проектировании: обзор склада" Page="design-details-warehouse-overview.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка типов ячеек" Page="warehouse-how-to-set-up-bin-types.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Создание ячеек" Page="warehouse-how-to-create-individual-bins.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Создание содержимого ячейки" Page="warehouse-how-to-set-up-bin-contents.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка шаблонов размещения" Page="warehouse-how-to-set-up-put-away-templates.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка работников склада" Page="warehouse-how-to-set-up-warehouse-employees.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка складов для использования ячеек" Page="warehouse-how-to-set-up-locations-to-use-bins.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Преобразование существующих местоположений в размещения для складов" Page="warehouse-how-to-convert-existing-locations-to-warehouse-locations.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка базовых складов с помощью зон операций" Page="warehouse-how-to-set-up-basic-warehouses-with-operations-areas.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка товаров и складов для использования расширенного подбора и размещения" Page="warehouse-how-to-set-up-items-for-directed-put-away-and-pick.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Подсчет, корректировка или повторная классификация запасов" Page="inventory-how-count-adjust-reclassify.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Разрешение автоматической разбивки с расширенным подбором и размещением" Page="warehouse-enable-automatic-breaking-bulk-with-directed-put-away-and-pick.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Включение подбора по методу FEFO" Page="warehouse-picking-by-fefo.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Включение автоматизированных систем сбора данных (ADCS)" Page="warehouse-use-automated-data-capture-systems-adcs.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Изменение структуры складов" Page="warehouse-how-to-restructure-warehouses.html"/>
+    </Node>
+    <Node Name="" DisplayName="Настройка производства" Page="production-configure-production-processes.html">
+      <Node Name="" DisplayName="Практическое руководство. Создание календарей производственного центра" Page="production-how-to-create-work-center-calendars.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка производственных и машинных центров" Page="production-how-to-set-up-work-and-machine-centers.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Создание маршрутов" Page="production-how-to-create-routings.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Создание производственных спецификаций" Page="production-how-to-create-production-boms.html"/>
+      <Node Name="" DisplayName="Включение списания компонентов в соответствии с производственным выпуском" Page="production-how-to-flush-components-according-to-operation-output.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Работа с единицами измерения производственной партии" Page="production-how-to-use-the-manufacturing-batch-unit-of-measure.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Работа с производственными семействами" Page="production-how-work-family.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка стандартных строк маршрута" Page="production-how-set-up-standard-routing-lines.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Субподрядное производство" Page="production-how-to-subcontract-manufacturing.html"/>
+    </Node>
+    <Node Name="" DisplayName="Настройка управления сервисным обслуживанием" Page="service-setup-service.html">
+      <Node Name="" DisplayName="Практическое руководство. Настройка стандартных сервисных кодов" Page="service-how-setup-service-coding.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка сервисных процессов" Page="service-setup-service-processes.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка отчетности по неисправностям" Page="service-how-setup-fault-reporting.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка сервисных предложений" Page="service-how-setup-service-offerings.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка устранения проблем" Page="service-how-setup-troubleshooting.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка распределения ресурсов" Page="service-how-setup-resource-allocation.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка цен и дополнительных издержек для сервисов" Page="service-how-setup-service-costs-pricing.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка сервисных товаров и компонентов сервисных товаров" Page="service-how-setup-service-items.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка рабочих часов и часов работы сервиса" Page="service-how-setup-work-service-hours.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка статусов для сервисных заказов и ремонтных работ" Page="service-order-repair-status.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка программы предоставления товаров во временное пользование" Page="service-how-setup-loaner-program.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Настройка сервисных контрактов" Page="service-how-setup-service-contracts.html"/>
+    </Node>
+    <Node Name="" DisplayName="Методы амортизации" Page="fa-depreciation-methods.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Настройка электронной почты" Page="madeira-how-setup-email.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Создание серий номеров" Page="ui-create-number-series.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Настройка расширенного текста товара" Page="ui-how-define-ext-text.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Настройка базовых календарей" Page="across-how-to-assign-base-calendars.html"/>
+    <Node Name="" DisplayName="Настройка сложных областей приложения с помощью рекомендаций" Page="set-up-complex-application-areas-using-best-practices.html">
+      <Node Name="" DisplayName="Рекомендации по настройке. Планирование поставок" Page="setup-best-practices-supply-planning.html"/>
+      <Node Name="" DisplayName="Рекомендации по настройке. Методы учета себестоимости" Page="setup-best-practices-costing-method.html"/>
+    </Node>
+  </Node>
+  <Node Name="" DisplayName="Финансы" Page="finance.html">
+    <Node Name="" DisplayName="Управление дебиторской задолженностью" Page="receivables-manage-receivables.html">
+      <Node Name="" DisplayName="Автоматическое применение платежей и выверка банковских счетов" Page="receivables-apply-payments-auto-reconcile-bank-accounts.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Выверка платежей клиентов вручную из списка неоплаченных документов продажи" Page="receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Применение платежей клиентов вручную" Page="receivables-how-apply-sales-transactions-manually.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Сбор непогашенных остатков задолженности" Page="receivables-collect-outstanding-balances.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Использование товарных издержек для учета дополнительных торговых расходов" Page="payables-how-assign-item-charges.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Работа с отклонениями в оплате и отклонениями скидки по оплате" Page="finance-payment-tolerance-and-payment-discount-tolerance.html"/>
+    </Node>
+    <Node Name="" DisplayName="Управление кредиторской задолженностью" Page="payables-manage-payables.html">
+      <Node Name="" DisplayName="Осуществление платежей" Page="payables-make-payments.html"/>
+      <Node Name="" DisplayName="Автоматическое применение платежей и выверка банковских счетов" Page="receivables-apply-payments-auto-reconcile-bank-accounts.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Выверка платежей поставщикам вручную" Page="payables-how-apply-purchase-transactions-manually.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Использование товарных издержек для учета дополнительных торговых расходов" Page="payables-how-assign-item-charges.html"/>
+    </Node>
+    <Node Name="" DisplayName="Выставление счетов на предоплату" Page="finance-invoice-prepayments.html">
+      <Node Name="" DisplayName="Практическое руководство. Настройка предоплаты" Page="finance-set-up-prepayments.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Создание счетов на предоплату" Page="finance-how-to-create-prepayment-invoices.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Корректировка предоплат" Page="finance-how-to-correct-prepayments.html"/>
+    </Node>
+    <Node Name="" DisplayName="Управление банковскими счетами" Page="bank-manage-bank-accounts.html">
+      <Node Name="" DisplayName="Автоматическое применение платежей и выверка банковских счетов" Page="receivables-apply-payments-auto-reconcile-bank-accounts.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Выверка банковских счетов по отдельности" Page="bank-how-reconcile-bank-accounts-separately.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Перевод банковских средств" Page="bank-how-transfer-bank-funds.html"/>
+    </Node>
+    <Node Name="" DisplayName="Управление межфирменными транзакциями" Page="intercompany-manage.html">
+      <Node Name="" DisplayName="Практическое руководство. Настройка межфирменных взаимодействий" Page="intercompany-how-setup.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Работа с межфирменными документами и журналами" Page="intercompany-how-work-documents-journals.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Управление межфирменными входящими и исходящими ящиками" Page="intercompany-how-manage-intercompany-inbox.html"/>
+    </Node>
+    <Node Name="" DisplayName="Учет по затратам" Page="finance-manage-cost-accounting.html">
+      <Node Name="" DisplayName="Терминология в учете затрат" Page="finance-terminology-in-cost-accounting.html"/>
+      <Node Name="" DisplayName="Об учете затрат" Page="finance-about-cost-accounting.html"/>
+      <Node Name="" DisplayName="Настройка учета затрат" Page="finance-set-up-cost-accounting.html"/>
+      <Node Name="" DisplayName="Перемещение и операции учета затрат" Page="finance-transfer-and-post-cost-entries.html"/>
+      <Node Name="" DisplayName="Определение и распределение затрат" Page="finance-define-and-allocate-costs.html"/>
+      <Node Name="" DisplayName="Создание бюджетов затрат" Page="finance-create-cost-budgets.html"/>
+    </Node>
+    <Node Name="" DisplayName="Управление себестоимостью товаров" Page="finance-manage-inventory-costs.html">
+      <Node Name="" DisplayName="Об оценке себестоимости товаров" Page="finance-learn-about-costing.html"/>
+      <Node Name="" DisplayName="Настройка оценки стоимости запасов и учета себестоимости" Page="finance-set-up-inventory-valuation-and-costing.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Переоценка запасов" Page="inventory-how-revalue-inventory.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Корректировка себестоимости товаров" Page="inventory-how-adjust-item-costs.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Обработка запасов и себестоимость производства" Page="finance-handle-inventory-and-manufacturing-costs.html"/>
+      <Node Name="" DisplayName="Практическое руководство: обновление стандартных себестоимостей" Page="finance-how-to-update-standard-costs.html"/>
+      <Node Name="" DisplayName="Отчет о затратах и выверка с главной книгой" Page="finance-report-costs-and-reconcile-with-the-general-ledger.html"/>
+      <Node Name="" DisplayName="Сведения о проектировании: себестоимость запасов" Page="design-details-inventory-costing.html"/>
+    </Node>
+    <Node Name="" DisplayName="Сведения о главной книге и плане счетов" Page="finance-general-ledger.html"/>
+    <Node Name="" DisplayName="Работа с измерениями" Page="finance-dimensions.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Создание бюджетов" Page="finance-how-create-budgets.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Учет транзакций непосредственно в главной книге." Page="finance-how-post-transactions-directly.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Сторнирование учета" Page="finance-how-reverse-journal-posting.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Распределение затрат и дохода" Page="year-allocate-costs-income.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Использование товарных издержек для учета дополнительных торговых расходов" Page="payables-how-assign-item-charges.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Регистрация и возмещение расходов сотрудников" Page="finance-how-record-reimburse-employee-expenses.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Доходы и расходы будущих периодов" Page="finance-how-defer-revenue-expenses.html"/>
+    <Node Name="" DisplayName="Практическое руководство: импорт транзакций по зарплате" Page="finance-how-import-payroll-transactions.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Подача отчета об НДС в налоговые органы" Page="finance-how-report-vat.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Работа с НДС по продажам и покупкам" Page="finance-work-with-vat.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Преобразование сервисных контрактов, которые включают суммы НДС" Page="service-how-to-convert-service-contracts.html"/>
+    <Node Name="" DisplayName="Анализ финансовых выписок в Excel" Page="finance-analyze-excel.html"/>
+    <Node Name="" DisplayName="Анализ движения денежных средств в организации" Page="finance-analyze-cash-flow.html"/>
+    <Node Name="" DisplayName="Закрытие года и периодов" Page="year-close-years-periods.html">
+      <Node Name="" DisplayName="Практическое руководство. Задание учетных периодов" Page="finance-how-specify-posting-periods.html"/>
+      <Node Name="" DisplayName="Закрытие периодов" Page="year-how-complete-period-end-processes.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Обновление валютных курсов" Page="finance-how-update-currencies.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Распределение затрат и дохода" Page="year-allocate-costs-income.html"/>
+      <Node Name="" DisplayName="Практическое руководство. Подача отчета об НДС в налоговые органы" Page="finance-how-report-vat.html"/>
+      <Node Name="" DisplayName="Подготовка отчетов по предварительному закрытию" Page="year-prepare-preclose-reports.html"/>
+      <Node Name="" DisplayName="Закрытие книг" Page="year-close-books.html"/>
+      <Node Name="" DisplayName="Подготовка отчетов о закрытии" Page="year-prepare-close-statement.html"/>
+    </Node>
+  </Node>
+  <Node Name="" DisplayName="Бизнес-аналитика" Page="bi.html">
+    <Node Name="" DisplayName="Практическое руководство. Анализ фактических сумм в с равнении с суммами бюджета" Page="bi-how-analyze-actual-versus-budget.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Работа с финансовыми отчетами" Page="bi-how-work-account-schedule.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Настройка и публикация веб-служб ключевых показателей эффективности, которые основаны на финансовых отчетах" Page="bi-how-to-set-up-and-publish-kpi-web-services-based-on-account-schedules.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Анализ данных по измерениям" Page="bi-how-analyze-data-dimension.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Создание аналитических отчетов" Page="bi-how-create-analysis-views-reports.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Создание отчетов с XBRL" Page="bi-create-reports-with-xbrl.html"/>
+  </Node>
+  <Node Name="" DisplayName="Продажи" Page="sales-manage-sales.html">
+    <Node Name="" DisplayName="Практическое руководство. Создание предложений" Page="sales-how-make-offers.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Выставление счетов продажи" Page="sales-how-invoice-sales.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Продажа продукции" Page="sales-how-sell-products.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Создание типовых строк продажи и покупки" Page="sales-how-work-standard-lines.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Выполнение прямых поставок" Page="sales-how-drop-shipment.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Создание специальных заказов" Page="sales-how-to-create-special-orders.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Исправление или отмена неоплаченных счетов продажи" Page="sales-how-correct-cancel-sales-invoice.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Обработка возвратов продажи или отмен" Page="sales-how-process-sales-returns-cancellations.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Работа с общими заказами на продажу" Page="sales-how-to-create-blanket-sales-orders.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Объединение поставок в один счет" Page="sales-how-to-combine-shipments-on-a-single-invoice.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Расчет сроков планирования заказов" Page="sales-how-to-calculate-order-promising-dates.html"/>
+    <Node Name="" DisplayName="Как осуществить трассировку посылок" Page="sales-how-track-packages.html"/>
+  </Node>
+  <Node Name="" DisplayName="Закупки" Page="purchasing-manage-purchasing.html">
+    <Node Name="" DisplayName="Практическое руководство. Регистрация покупок" Page="purchasing-how-record-purchases.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Запрос предложений" Page="purchasing-how-request-quotes.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Покупка товаров для продажи" Page="purchasing-how-purchase-products-sale.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Исправление или отмена неоплаченных счетов покупки" Page="purchasing-how-correct-cancel-unpaid-purchase-invoices.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Объединение приходных накладных в один счет" Page="purchasing-how-to-combine-receipts.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Обработка возвратов покупки или отмен" Page="purchasing-how-process-purchase-returns-cancellations.html"/>
+    <Node Name="" DisplayName="Расчет даты для покупок" Page="purchasing-date-calculation-for-purchases.html"/>
+  </Node>
+  <Node Name="" DisplayName="Запасы" Page="inventory-manage-inventory.html">
+    <Node Name="" DisplayName="Практическое руководство. Регистрация новых товаров" Page="inventory-how-register-new-items.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Работа со спецификациями" Page="inventory-how-work-BOMs.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Категоризация товаров" Page="inventory-how-categorize-items.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Работа с атрибутами продуктов" Page="inventory-how-work-item-attributes.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Работа с нескладируемыми товарами" Page="inventory-how-work-nonstock-items.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Подсчет, корректировка и повторная классификация запасов" Page="inventory-how-count-adjust-reclassify.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Просмотр наличия товара" Page="inventory-how-availability-overview.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Перемещение запасов между складами" Page="inventory-how-transfer-between-locations.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Резервирование товаров" Page="inventory-how-to-reserve-items.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Работа с серийными номерами и номерами партий" Page="inventory-how-work-item-tracking.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Работа с центрами ответственности" Page="inventory-responsibility-centers.html"/>
+  </Node>
+  <Node Name="" DisplayName="Управление проектами" Page="projects-manage-projects.html">
+    <Node Name="" DisplayName="Практическое руководство. Создание работ" Page="projects-how-create-jobs.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Использование ресурсов для работ" Page="projects-how-use-resources.html"/>
+    <Node Name="" DisplayName="Практическое руководство: использование табелей для работ" Page="projects-how-use-time-sheets.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Управление бюджетами работ" Page="projects-how-manage-budgets.html"/>
+    <Node Name="" DisplayName="Практическое руководство: запись потребления для работ" Page="projects-how-record-job-usage.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Управление запасами для работы" Page="projects-how-manage-project-supplies.html"/>
+    <Node Name="" DisplayName="Общее представление о методах учета НЗП" Page="projects-understanding-wip.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Отслеживание хода выполнения работ и производительности" Page="projects-how-monitor-progress-performance.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Выставление счетов за работы" Page="projects-how-invoice-jobs.html"/>
+  </Node>
+  <Node Name="" DisplayName="Основные средства" Page="fa-manage.html">
+    <Node Name="" DisplayName="Практическое руководство. Приобретение основных средств" Page="fa-how-acquire.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Обслуживание основных средств" Page="fa-how-maintain.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Страхование основных средств" Page="fa-how-insure.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Перемещение, разделение или объединение основных средств" Page="fa-how-trans-split-combine.html"/>
+    <Node Name="" DisplayName="Практическое руководство.Переоценка основных средств" Page="fa-how-revalue.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Амортизация основных средств" Page="fa-how-depreciate-amortize.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Списание или выбытие основных средств" Page="fa-how-dispose-retire.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Управление бюджетами основных средств" Page="fa-how-manage-budgets.html"/>
+  </Node>
+  <Node Name="" DisplayName="Управление отношениями" Page="marketing-relationship-management.html">
+    <Node Name="" DisplayName="Настройка управления отношениями" Page="marketing-setup-marketing.html"/>
+    <Node Name="" DisplayName="Управление контактами" Page="marketing-contacts.html"/>
+    <Node Name="" DisplayName="Управление сегментами" Page="marketing-segments.html"/>
+    <Node Name="" DisplayName="Запись взаимодействий" Page="marketing-interactions.html"/>
+    <Node Name="" DisplayName="Управление возможностями продаж" Page="marketing-manage-sales-opportunities.html"/>
+    <Node Name="" DisplayName="Управление отношениями с клиентом с помощью Dynamics 365 for Sales из Dynamics NAV" Page="marketing-integrate-dynamicscrm.html"/>
+  </Node>
+  <Node Name="" DisplayName="Персонал и зарплата" Page="hr-manage-human-resources.html">
+    <Node Name="" DisplayName="Практическое руководство. Регистрация сотрудников" Page="hr-how-register-employees.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Управление простоем сотрудника" Page="hr-how-manage-absence.html"/>
+  </Node>
+  <Node Name="" DisplayName="Планирование" Page="production-planning.html">
+    <Node Name="" DisplayName="О функциональности планирования" Page="production-about-planning-functionality.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Субподрядное производство" Page="production-how-to-subcontract-manufacturing.html"/>
+    <Node Name="" DisplayName="Планирование со складами и без складов" Page="production-planning-with-without-locations.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Создание прогноза" Page="production-how-to-create-a-forecast.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Создание производственных заказов из заказов на продажу" Page="production-how-to-create-production-orders-from-sales-orders.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Планирование заказов проекта" Page="production-how-to-plan-project-orders.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Последовательное планирование по каждому заказу" Page="production-how-to-plan-for-new-demand.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Выполнение полного планирования, MPS или MRP" Page="production-how-to-run-mps-and-mrp.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Прямое перепланирование или обновление производственных заказов" Page="production-how-to-replan-refresh-production-orders.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Отслеживание связей между спросом и предложением" Page="production-how-track-demand-supply.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Изменение предложений по планированию в графическом виде" Page="production-how-to-modify-planning-suggestions-in-a-graphical-view.html"/>
+  </Node>
+  <Node Name="" DisplayName="Управление сборкой" Page="assembly-assemble-items.html">
+    <Node Name="" DisplayName="Сборка на заказ и сборка на склад" Page="assembly-assemble-to-order-or-assemble-to-stock.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Предложения продажи сборки на заказ" Page="assembly-how-to-quote-an-assemble-to-order-sale.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Сборка товаров" Page="assembly-how-to-assemble-items.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Продажа товара, собранного на заказ" Page="assembly-how-to-sell-items-assembled-to-order.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Продажа складских товаров в потоках сборки на заказ" Page="assembly-how-to-sell-inventory-items-in-assemble-to-order-flows.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Совместная продажа товаров, собираемых на заказ, и складских товаров" Page="assembly-how-to-sell-assemble-to-order-items-and-inventory-items-together.html"/>
+    <Node Name="" DisplayName="Практическое руководство: отмена учета сборки" Page="assembly-how-to-undo-assembly-posting.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Работа со спецификациями" Page="inventory-how-work-BOMs.html"/>
+    <Node Name="" DisplayName="Сведения о проектировании: учет заказа на сборку" Page="design-details-assembly-order-posting.html"/>
+  </Node>
+  <Node Name="" DisplayName="Производство" Page="production-manage-manufacturing.html">
+    <Node Name="" DisplayName="О производственных заказах" Page="production-about-production-orders.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Создание производственных заказов" Page="production-how-to-create-production-orders.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Субподрядное производство" Page="production-how-to-subcontract-manufacturing.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Учет потребления и выхода для одной строки запущенного производственного заказа" Page="production-how-to-register-consumption-and-output.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Учет потребления в пакетном режиме" Page="production-how-to-post-consumption.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Учет в пакетном режиме выпуска продукции и времени работы" Page="production-how-to-post-output-quantity.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Учет брака/отходов" Page="production-how-to-post-scrap.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Просмотр загрузки производственных и машинных центров" Page="production-how-to-view-the-load-on-work-centers.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Учет производственных мощностей" Page="production-how-to-post-capacities.html"/>
+    <Node Name="" DisplayName="О затратах на завершенные производственные заказы" Page="finance-about-finished-production-order-costs.html"/>
+  </Node>
+  <Node Name="" DisplayName="Управление складом" Page="warehouse-manage-warehouse.html">
+    <Node Name="" DisplayName="Практическое руководство. Приемка товаров" Page="warehouse-how-receive-items.html"/>
+    <Node Name="" DisplayName="Практическое руководство: подлежащие переброске товары" Page="warehouse-how-to-cross-dock-items.html"/>
+    <Node Name="" DisplayName="Размещение товаров" Page="warehouse-put-away-items.html"/>
+    <Node Name="" DisplayName="Перемещение товаров" Page="warehouse-move-items.html"/>
+    <Node Name="" DisplayName="Подбор товаров" Page="warehouse-pick-items.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Отгрузка товаров" Page="warehouse-how-ship-items.html"/>
+  </Node>
+  <Node Name="" DisplayName="Сервисный центр" Page="service-service.html">
+    <Node Name="" DisplayName="Планирование сервисного обслуживания" Page="service-plan-service.html"/>
+    <Node Name="" DisplayName="Выполнение контрактов на обслуживание" Page="service-fulfill-service-contracts.html"/>
+    <Node Name="" DisplayName="Предоставление услуги" Page="service-deliver-service.html"/>
+  </Node>
+  <Node Name="" DisplayName="Общие бизнес-функции" Page="ui-across-business-areas.html">
+    <Node Name="" DisplayName="Практическое руководство. Настройка расширенного текста товара" Page="ui-how-define-ext-text.html"/>
+    <Node Name="" DisplayName="Работа с финансовыми журналами" Page="ui-work-general-journals.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Отправка документов по электронной почте" Page="ui-how-send-documents-email.html"/>
+    <Node Name="" DisplayName="Работа с отчетами" Page="ui-work-report.html"/>
+    <Node Name="" DisplayName="Управление макетами отчетов и документов" Page="ui-manage-report-layouts.html"/>
+    <Node Name="" DisplayName="Регистрация изменений в Dynamics NAV" Page="across-log-changes.html"/>
+    <Node Name="" DisplayName="Практическое руководство. Управление пользователями и разрешениями" Page="ui-how-users-permissions.html"/>
+    <Node Name="" DisplayName="Настройка Dynamics NAV с помощью расширений" Page="ui-extensions.html"/>
+    <Node Name="" DisplayName="Входящие документы" Page="across-income-documents.html">
+      <Node Name="" DisplayName="Практическое руководство. Настройка входящих документов" Page="across-how-setup-income-documents.html"/>
+      <Node Name="" DisplayName="Обработка входящих документов" Page="across-process-income-documents.html"/>
+    </Node>
+    <Node Name="" DisplayName="Рабочий процесс" Page="across-workflow.html">
+      <Node Name="" DisplayName="Настройка рабочих процессов" Page="across-set-up-workflows.html"/>
+      <Node Name="" DisplayName="Использование рабочих процессов" Page="across-use-workflows.html"/>
+    </Node>
+    <Node Name="" DisplayName="Электронный обмен данными" Page="across-data-exchange.html">
+      <Node Name="" DisplayName="О структуре обмена данными" Page="across-about-the-data-exchange-framework.html"/>
+      <Node Name="" DisplayName="Настройка обмена данными" Page="across-set-up-data-exchange.html"/>
+      <Node Name="" DisplayName="Обмен данными" Page="across-exchange-data.html"/>
+    </Node>
+    <Node Name="" DisplayName="Определение задач пользователя" Page="across-user-tasks.html"/>
+  </Node>
+  <Node Name="" DisplayName="Пошаговые руководства по бизнес-процессам" Page="walkthrough-business-process-walkthroughs.html">
+    <Node Name="" DisplayName="Пошаговое руководство. Проведение кампании по продажам" Page="walkthrough-conducting-a-sales-campaign.html"/>
+    <Node Name="" DisplayName="Пошаговое руководство. Настройка и выставление счетов на продажу" Page="walkthrough-setting-up-and-invoicing-sales-prepayments.html"/>
+    <Node Name="" DisplayName="Пошаговое руководство. Настройка и использование рабочего процесса утверждения покупки" Page="walkthrough-setting-up-and-using-a-purchase-approval-workflow.html"/>
+    <Node Name="" DisplayName="Пошаговое руководство. Получение и складирование в основных складских конфигурациях" Page="walkthrough-picking-and-shipping-in-basic-warehousing.html"/>
+    <Node Name="" DisplayName="Пошаговое руководство. Получение и складирование в расширенных складских конфигурациях" Page="walkthrough-receiving-and-putting-away-in-advanced-warehousing.html"/>
+    <Node Name="" DisplayName="Пошаговое руководство. Планирование поставок вручную" Page="walkthrough-planning-supplies-manually.html"/>
+    <Node Name="" DisplayName="Пошаговое руководство. Автоматическое планирование поставок" Page="walkthrough-planning-supplies-automatically.html"/>
+    <Node Name="" DisplayName="Пошаговое руководство: продажа, сборка и отгрузка наборов" Page="walkthrough-selling-assembling-and-shipping-kits.html"/>
+    <Node Name="" DisplayName="Пошаговое руководство. Управление проектами с помощью работ" Page="walkthrough-managing-projects-with-jobs.html"/>
+    <Node Name="" DisplayName="Пошаговое руководство. Вычисление незавершенного производства для задания" Page="walkthrough-calculating-work-in-process-for-a-job.html"/>
+    <Node Name="" DisplayName="Пошаговое руководство. Подбор и отгрузка в основных складских конфигурациях" Page="walkthrough-picking-and-shipping-in-basic-warehousing.html"/>
+    <Node Name="" DisplayName="Пошаговое руководство. Трассировка серийных номеров и номеров партии" Page="walkthrough-tracing-serial-lot-numbers.html"/>
+  </Node>
+  <Node Name="" DisplayName="Сведения о проектировании" Page="design-details-application-design.html">
+    <Node Name="" DisplayName="Сведения о проектировании: операции набора измерений" Page="design-details-dimension-set-entries.html"/>
+    <Node Name="" DisplayName="Сведения о проектировании: планирование поставок" Page="design-details-supply-planning.html"/>
+    <Node Name="" DisplayName="Сведения о проектировании: себестоимость запасов" Page="design-details-inventory-costing.html"/>
+    <Node Name="" DisplayName="Сведения о проектировании: управление складом" Page="design-details-warehouse-management.html"/>
+    <Node Name="" DisplayName="Сведения о проектировании: трассировка товара" Page="design-details-item-tracking.html"/>
+    <Node Name="" DisplayName="Сведения о проектировании: строка учета финансового журнала" Page="design-details-general-journal-post-line.html"/>
+  </Node>
+  <Node Name="" DisplayName="Локальная функциональность" Page="index.html">
+    <Node Name="" DisplayName="Канада" Page="LocalFunctionality/Canada/canada-local-functionality.html"/>
+    <Node Name="" DisplayName="Дания" Page="LocalFunctionality/Denmark/denmark-local-functionality.html"/>
+    <Node Name="" DisplayName="Соединенное Королевство" Page="LocalFunctionality/UnitedKingdom/united-kingdom-local-functionality.html"/>
+    <Node Name="" DisplayName="Соединенные Штаты" Page="LocalFunctionality/UnitedStates/united-states-local-functionality.html"/>
+  </Node>
+</Node>
