@@ -1,6 +1,6 @@
 ---
 title: "Регистры налоговых разниц"
-description: "Вы можете просматривать учтенные транзакции налоговых разниц со всеми кодами доходов или расходов в регистрах налоговых разниц. Чтобы открыть форму, в меню **Налоговый учет**, щелкните **История**, а затем выберите **Регистры налоговых разниц**."
+description: "Вы можете просматривать учтенные транзакции налоговых разниц со всеми кодами доходов или расходов в регистрах налоговых разниц."
 documentationcenter: 
 author: SorenGP
 ms.prod: dynamics-nav-2017
@@ -12,20 +12,23 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 60bd091c89b1a3a7bbeb421d348795ecbcd95716
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 23674b4bb11e6e22c8ec0013be2966aff1538139
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
-# <a name="tax-difference-registers"></a><span data-ttu-id="7aac6-104">Регистры налоговых разниц</span><span class="sxs-lookup"><span data-stu-id="7aac6-104">Tax Difference Registers</span></span>
-<span data-ttu-id="7aac6-105">Вы можете просматривать учтенные транзакции налоговых разниц со всеми кодами доходов или расходов в регистрах налоговых разниц.</span><span class="sxs-lookup"><span data-stu-id="7aac6-105">You can view posted tax difference transactions with all the income or expense codes in the tax difference registers.</span></span> <span data-ttu-id="7aac6-106">Чтобы открыть форму, в меню **Налоговый учет**, щелкните **История**, а затем выберите **Регистры налоговых разниц**.</span><span class="sxs-lookup"><span data-stu-id="7aac6-106">To open the form, in the **Tax Accounting** menu, click **History**, and then click **Tax Difference Registers**.</span></span>  
-  
- <span data-ttu-id="7aac6-107">Наведите указатель мыши на нужный регистр, нажмите **Регистр налоговых разниц**, а затем щелкните **Книги операций** для просмотра транзакций, создавших налоговые разницы.</span><span class="sxs-lookup"><span data-stu-id="7aac6-107">Place the pointer on the necessary register, click **Register Tax Diff.**, and then click **Ledger Entries** to view transactions that have created tax differences.</span></span> <span data-ttu-id="7aac6-108">В открывшейся форме выберите транзакцию, а затем нажмите кнопку **Навигация** чтобы получить подробные сведения о создании данной транзакции.</span><span class="sxs-lookup"><span data-stu-id="7aac6-108">In the opened form, select a transaction, and then click the **Navigate** button to get details about the creation of the transaction.</span></span>  
-  
-## <a name="see-also"></a><span data-ttu-id="7aac6-109">См. также</span><span class="sxs-lookup"><span data-stu-id="7aac6-109">See Also</span></span>  
- <span data-ttu-id="7aac6-110">[Налоговые разницы](tax-differences.md) </span><span class="sxs-lookup"><span data-stu-id="7aac6-110">[Tax Differences](tax-differences.md) </span></span>  
- <span data-ttu-id="7aac6-111">[Настройка расчета налоговых разниц](setting-up-tax-difference-calculation.md) </span><span class="sxs-lookup"><span data-stu-id="7aac6-111">[Setting up Tax Difference Calculation](setting-up-tax-difference-calculation.md) </span></span>  
- <span data-ttu-id="7aac6-112">[Налоговый учет](tax-accounting.md) </span><span class="sxs-lookup"><span data-stu-id="7aac6-112">[Tax Accounting](tax-accounting.md) </span></span>  
- <span data-ttu-id="7aac6-113">[Налоговые отчеты](assetId:///e42ca8e7-1cee-4fb8-9f71-e596f29cabc3) </span><span class="sxs-lookup"><span data-stu-id="7aac6-113">[Tax Reports](assetId:///e42ca8e7-1cee-4fb8-9f71-e596f29cabc3) </span></span>  
- [<span data-ttu-id="7aac6-114">Налоговые регистры</span><span class="sxs-lookup"><span data-stu-id="7aac6-114">Tax Registers</span></span>](tax-registers.md)
+# <a name="tax-difference-registers"></a><span data-ttu-id="ad380-103">Регистры налоговых разниц</span><span class="sxs-lookup"><span data-stu-id="ad380-103">Tax Difference Registers</span></span>
+<span data-ttu-id="ad380-104">Вы можете просматривать учтенные транзакции налоговых разниц со всеми кодами доходов или расходов в регистрах налоговых разниц.</span><span class="sxs-lookup"><span data-stu-id="ad380-104">You can view posted tax difference transactions with all the income or expense codes in the tax difference registers.</span></span>
+
+1. <span data-ttu-id="ad380-105">Выберите значок ![Поиск страницы или отчета](../../media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Регистры налоговых разниц**, а затем выберите связанную ссылку.</span><span class="sxs-lookup"><span data-stu-id="ad380-105">Choose the ![Search for Page or Report](../../media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Tax Difference Registers**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="ad380-106">Наведите указатель мыши на нужный регистр, выберите действие **Регистр налоговых разниц**, а затем выберите действие **Книги операций** для просмотра транзакций, создавших налоговые разницы.</span><span class="sxs-lookup"><span data-stu-id="ad380-106">Place the pointer on the necessary register, choose the **Register Tax Diff.** action, and then choose the **Ledger Entries** action to view transactions that have created tax differences.</span></span>
+3. <span data-ttu-id="ad380-107">В открывшейся форме выберите транзакцию, а затем выберите действие **Навигация** чтобы получить подробные сведения о создании данной транзакции.</span><span class="sxs-lookup"><span data-stu-id="ad380-107">In the opened form, select a transaction, and then choose the **Navigate** action to get details about the creation of the transaction.</span></span>  
+
+## <a name="see-also"></a><span data-ttu-id="ad380-108">См. также</span><span class="sxs-lookup"><span data-stu-id="ad380-108">See Also</span></span>  
+ <span data-ttu-id="ad380-109">[Налоговые разницы](tax-differences.md) </span><span class="sxs-lookup"><span data-stu-id="ad380-109">[Tax Differences](tax-differences.md) </span></span>  
+ <span data-ttu-id="ad380-110">[Настройка расчета налоговых разниц](setting-up-tax-difference-calculation.md) </span><span class="sxs-lookup"><span data-stu-id="ad380-110">[Setting up Tax Difference Calculation](setting-up-tax-difference-calculation.md) </span></span>  
+ <span data-ttu-id="ad380-111">[Налоговый учет](tax-accounting.md) </span><span class="sxs-lookup"><span data-stu-id="ad380-111">[Tax Accounting](tax-accounting.md) </span></span>  
+ <span data-ttu-id="ad380-112">[Налоговые отчеты](assetId:///e42ca8e7-1cee-4fb8-9f71-e596f29cabc3) </span><span class="sxs-lookup"><span data-stu-id="ad380-112">[Tax Reports](assetId:///e42ca8e7-1cee-4fb8-9f71-e596f29cabc3) </span></span>  
+ [<span data-ttu-id="ad380-113">Налоговые регистры</span><span class="sxs-lookup"><span data-stu-id="ad380-113">Tax Registers</span></span>](tax-registers.md)
+
