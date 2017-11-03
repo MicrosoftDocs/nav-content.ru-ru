@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 560adbc39f4f77e27d9ac9be6dbea1aa7ed71c81
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: c1b3c745597f96165aec92a08bba50ecb6727a84
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="design-details-codeunit-408-dimension-management"></a>Сведения о проектировании: Codeunit 408 Dimension Management
@@ -174,7 +174,7 @@ Codeunit 408 Dimension Management — это библиотека функций
 
  TestNewDimValue  
 
- MoveDimBufToItemBudgetDim. (Удалено, поскольку удалена таблица ItemBudgetDim.)  
+ MoveDimBufToItemBudgetDim. (Удалить, поскольку удалена таблица ItemBudgetDim.)  
 
  GetServContractDim  
 

@@ -1,6 +1,6 @@
 ---
 title: "Управление банками и кассами"
-description: Dynamics NAV
+description: "Функциональная возможность для России для управления банками и кассами описывается в нескольких разделах."
 documentationcenter: 
 author: SorenGP
 ms.prod: dynamics-nav-2017
@@ -12,16 +12,16 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: db6c9a2041b15ff9bd47bae0702c764e7e3b8903
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 6a19a56ad84275141509055d0808e41d4191be6d
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="bank-and-cash-management"></a>Управление банками и кассами
-Dynamics NAV
+Функциональная возможность для России для управления банками и кассами описывается в нескольких разделах.
 
-##<a name="see-also"></a>См. также
+## <a name="in-this-section"></a>В этом разделе
 [Управление банком](bank-management.md)  
 [Управление мелкими доходами/расходами](petty-cash-management.md)  
 [Практическое руководство. Настройка платежного поручения](how-to-set-up-a-bank-payment-order.md)  

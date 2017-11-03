@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/09/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 691d2b1b0200a21d1fcff58a68c5963c2b650cbf
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: dd2bb16af611be7f7720fdf07eb65fd268aba039
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-update-standard-costs"></a>Практическое руководство: обновление стандартных себестоимостей
@@ -44,6 +44,6 @@ ms.lasthandoff: 10/16/2017
 ## <a name="see-also"></a>См. также  
  [О расчете стандартной себестоимости](finance-about-calculating-standard-cost.md)   
  [Управление себестоимостью товаров](finance-manage-inventory-costs.md)   
- [Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md) [[Финансы](finance.md)]  
+ [Сведения о проектировании: методы учета себестоимости](design-details-costing-methods.md) [[Финансы](finance.md)  
  [Работа с [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

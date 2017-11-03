@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 2457930cfab834dfbd47d878b851592e44a0f5e7
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 6d62c2e2fb3d5803df51a4e697a986f059def18d
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="about-planning-functionality"></a>О функциональности планирования
@@ -74,7 +74,7 @@ ms.lasthandoff: 10/16/2017
 
 Поля настройки глобального планирования в окне **Производство - настройка** включают:  
 
--   Динамич. код нижнего уровня]  
+-   Динамический код нижнего уровня  
 -   Текущий прогноз производства  
 -   Исп. прогноз по складам  
 -   Страховой запас времени подготовки по умолчанию  

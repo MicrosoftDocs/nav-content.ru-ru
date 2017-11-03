@@ -1,6 +1,6 @@
 ---
 title: "Запасы"
-description: 
+description: "Функция запасов для России описывается в нескольких разделах."
 documentationcenter: 
 author: SorenGP
 ms.prod: dynamics-nav-2017
@@ -12,16 +12,16 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: c186f7234cd71748f3adf9af2a83812bd6e95632
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: af493097266ef7c543a466e46dc132cbede7fc81
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="inventory"></a>Запасы
+Функция запасов для России описывается в нескольких разделах.
 
-
-##<a name="see-also"></a>См. также
+## <a name="in-this-section"></a>В этом разделе
 [Настройка товаров](inventory-setup.md)  
 [Акты Оприходования](item-documents.md)  
 [Акты обязательств по товару](item-obligatory-acts.md)  

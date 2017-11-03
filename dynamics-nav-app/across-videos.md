@@ -12,10 +12,10 @@ ms.search.keywords: video, library, how to
 ms.date: 06/02/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 25d26af01e3006fccf025d0f7c146e0bc8f501ee
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 456bdf12b9fc30e3845b83099759df1b83935d56
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="visit-our-video-library"></a>Посетите нашу библиотеку видео
@@ -35,8 +35,8 @@ ms.lasthandoff: 10/16/2017
 
 > [!Tip]  
 > В дополнение к видео **Бизнес-помощь** содержит такие ресурсы, как ссылки на разделы справки и руководства по сопровождаемой настройке, помогающие выполнять настройку. Эти ресурсы заменяют диаграмму в ролевом центре. После изучения ресурсов вы можете вернуться в диаграмму в меню **Бизнес-помощь**, выбрав **Показать диаграмму**.  
-  
-Вы можете просмотреть наши видео с инструкциями и много другого содержимого на канале YouTube, который мы создали для Microsoft Dynamics NAV. Чтобы открыть канал, [щелкните здесь](https://go.microsoft.com/fwlink/?linkid=851533).
+
+Вы можете просмотреть наши видео с инструкциями и много другого содержимого на канале YouTube, который мы создали для [!INCLUDE[navnow](includes/navnow_md.md)]. Чтобы открыть канал, [выберите](https://go.microsoft.com/fwlink/?linkid=851533).
 
 ## <a name="see-also"></a>См. также
 [Добро пожаловать в [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] ](index.md)

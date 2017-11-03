@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ca6e6f1fd6bf6c9d9a26a9e42fca8b9c4931f89d
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: aa0578c7311fcd997653c6dc6d31325abd1d367c
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-create-service-orders"></a>Практическое руководство. Создание сервисных заказов
@@ -100,7 +100,7 @@ ms.lasthandoff: 10/16/2017
 
 1. Выберите значок ![Поиск страницы или отчета](media/ui-search/search_small.png "Значок поиска страницы или отчета"), введите **Удалить сервисные заказы, учтенные в счетах**, затем выберите связанную ссылку. Откроется окно запроса пакетного задания **Удалить сервисные заказы, учтенные в счетах**.  
 2. Чтобы выбрать заказы для удаления, можно установить фильтры в полях **Номер**, **Номер клиента** и **Код плательщика**. .  
-3. Выберите **OK**.  
+3. Нажмите кнопку **ОК**.  
 
 
 ## <a name="see-also"></a>См. также  

@@ -12,13 +12,13 @@ ms.search.keywords: payment process, direct payment posting, reconcile payment, 
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 0d7e42db9ef277eb615c6939694a5ef85b0d0283
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 33c0661a2ebf9b8d9b817c026a8c9abf0f0eff91
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
-# <a name="apply-payments-automatically-and-reconcile-bank-accounts"></a>Автоматическое применение платежей и выверка банковских счетов
+# <a name="applying-payments-automatically-and-reconciling-bank-accounts"></a>Автоматическое применение платежей и выверка банковских счетов
 Следует регулярно выверять банковский, дебетовый и кредитовый счета путем применения платежей, зарегистрированных на банковском счете, к связанным неоплаченным счетам и кредит-нотам либо к другим открытым операциям в [!INCLUDE[d365fin](includes/d365fin_long_md.md)].  
 
 Эту задачу можно выполнить в окне **Журнал выверки платежей**, импортировав файл банковской выписки для быстрой регистрации платежей. Платежи применяются к открытым операциям книги поставщиков или клиентов на основании совпадений текста платежа и информации операции. В можете просматривать и изменять автоматические применения перед учетом журнала. Вы можете закрыть любую открытую операцию книги банковских счетов, связанную с примененными операциями книги, при учете журнала. Банковский счет автоматически выверяется после применения всех платежей.  

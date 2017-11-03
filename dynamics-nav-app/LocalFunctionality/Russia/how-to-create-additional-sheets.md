@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 972c4646f06fb14d715e618cd4e14bae52bea372
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 1039228db193aaed2b56bca8d77502f651e4e263
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="how-to-create-additional-sheets"></a>Практическое руководство. Создание дополнительных листов
@@ -23,7 +23,7 @@ ms.lasthandoff: 10/16/2017
   
 ### <a name="to-create-entries-for-an-additional-sheet-for-a-vat-purchase-or-sales-ledger"></a>Создание операций для дополнительного листа книги НДС покупок или продаж  
   
-1.  Выберите строку НДС покупки или продажи в форме **НДС Книга Список** с требуемым учетным периодом.  
+1.  Выберите строку НДС покупки или продажи в окне **Список книг покупок и продаж** с требуемым учетным периодом.  
   
 2.  На вкладке **Действия** выберите **Функции**, а затем выберите **Создать дополнительный лист**.  
   

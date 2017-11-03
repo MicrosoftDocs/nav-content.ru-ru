@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 2e2fe1ddd5c1a159cbc5e12cdee2536e9adbc112
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: e9b16603b6232a5d711806ff7e9522907b0f73b6
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="payables-and-receivables"></a>Расчеты с клиентами и поставщиками
@@ -24,7 +24,7 @@ ms.lasthandoff: 10/16/2017
 ## <a name="getting-started-with-payables-and-receivables"></a>Начало работы с расчетами с поставщиками и клиентами  
  Воспользуйтесь следующей таблицей, чтобы больше узнать о функциях расчетов с клиентами и поставщиками, доступных для России.  
   
-|Тема|ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->|  
+|Тема|Описанием|  
 |-----------|---------------------------------------|  
 |Декларации на товары|Позволяет создавать и печатать таможенные декларации для импорта и экспорта товаров.|  
 |[Практическое руководство. Создание и настройка доверенности](how-to-set-up-and-create-letters-of-attorney.md)|Позволяет создавать и печатать доверенности, с помощью которых можно предоставлять людям и организациям право совершать деловые и юридические операции действия от лица других.|  
