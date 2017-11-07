@@ -379,10 +379,4 @@
     <Node Name="" DisplayName="Сведения о проектировании: трассировка товара" Page="design-details-item-tracking.html"/>
     <Node Name="" DisplayName="Сведения о проектировании: строка учета финансового журнала" Page="design-details-general-journal-post-line.html"/>
   </Node>
-  <Node Name="" DisplayName="Локальная функциональность" Page="index.html">
-    <Node Name="" DisplayName="Канада" Page="LocalFunctionality/Canada/canada-local-functionality.html"/>
-    <Node Name="" DisplayName="Дания" Page="LocalFunctionality/Denmark/denmark-local-functionality.html"/>
-    <Node Name="" DisplayName="Соединенное Королевство" Page="LocalFunctionality/UnitedKingdom/united-kingdom-local-functionality.html"/>
-    <Node Name="" DisplayName="Соединенные Штаты" Page="LocalFunctionality/UnitedStates/united-states-local-functionality.html"/>
-  </Node>
 </Node>
