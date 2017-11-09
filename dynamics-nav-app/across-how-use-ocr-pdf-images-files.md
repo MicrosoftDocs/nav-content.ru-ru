@@ -9,7 +9,7 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
-ms.date: 06/02/2017
+ms.date: 11/09/2017
 ms.author: sgroespe
 ms.translationtype: HT
 ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
