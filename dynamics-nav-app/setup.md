@@ -57,5 +57,3 @@ ms.lasthandoff: 10/16/2017
 [Настройка и администрирование в [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-setup-and-administration.md)  
 [Добро пожаловать в [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 
-##
-
