@@ -3,7 +3,7 @@ title: "Приобрести основные средства"
 description: "Вы можете настроить основное средство, назначить книгу амортизации и записать стоимость приобретения ОС."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: purchase fixed asset
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 17a61be2cd0977a55b098c8ec0b1d1cc164d7898
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2b388364465f3d8f2b903b649cc535da1b02fede
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-acquire-fixed-assets"></a><span data-ttu-id="40835-103">Практическое руководство. Приобретение основных средств</span><span class="sxs-lookup"><span data-stu-id="40835-103">How to: Acquire Fixed Assets</span></span>

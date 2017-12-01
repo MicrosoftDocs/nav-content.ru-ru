@@ -3,7 +3,7 @@ title: "Как отслеживать связи между спросом и п
 description: "Из любого документа по предложению или спросу в так называемой сети заказов можно отслеживать требования по заказу (трассируемое количество), прогноз, общий заказ продажи или параметры планирования (нетрассируемое количество), ставших причиной создания соответствующей строки планирования."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: acf030ab57c9251671900b1262dd8441c241c185
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 60672b1b88bff5a5e4de920f346d7d4942f835e9
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-track-relations-between-demand-and-supply"></a><span data-ttu-id="d5f8e-103">Практическое руководство. Отслеживание связей между спросом и предложением</span><span class="sxs-lookup"><span data-stu-id="d5f8e-103">How to: Track Relations Between Demand and Supply</span></span>

@@ -3,7 +3,7 @@ title: "Сведения о проектировании — определен�
 description: "Узнайте, как задавать приоритеты для удовлетворения требований как спроса, так и предложения."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: design, priority, prioritize, order, sku, demand, supply
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: c01ad1bb74e01ff81f35159865eddf14e9a34910
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: cf38aa12bca1b1f52073f3febd95a0a0b24d4ef6
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-prioritizing-orders"></a><span data-ttu-id="3d823-103">Сведения о проектировании: определение приоритета заказов</span><span class="sxs-lookup"><span data-stu-id="3d823-103">Design Details: Prioritizing Orders</span></span>

@@ -3,7 +3,7 @@ title: "Несколько контрактов"
 description: "В соответствии с заключенными с клиентом соглашениями об уровне обслуживания может возникнуть необходимость работы с сервисным товаром, входящим в несколько сервисных контрактов."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ecb02a00a23f183dfa5fa34e1aba8d5fe899f069
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7e3a5d897f8dded76340c51a001cb7c65e6f0a01
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="multiple-contracts"></a><span data-ttu-id="38aa9-103">Несколько контрактов</span><span class="sxs-lookup"><span data-stu-id="38aa9-103">Multiple Contracts</span></span>

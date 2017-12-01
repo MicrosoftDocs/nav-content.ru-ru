@@ -3,7 +3,7 @@ title: "Практическое руководство. Создание нал
 description: "В следующей процедуре показан порядок создания налоговых регистров."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 6a4c8b676155cdd7636ae89ce64f8e6f0c1df499
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 180f20fbbbaa88ed4a72e398369dc8562c771096
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-tax-registers"></a><span data-ttu-id="5e02a-103">Практическое руководство. Создание налоговых регистров</span><span class="sxs-lookup"><span data-stu-id="5e02a-103">How to: Create Tax Registers</span></span>

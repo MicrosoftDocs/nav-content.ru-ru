@@ -3,7 +3,7 @@ title: "Переоценка основных средств"
 description: "Узнайте, как корректировать стоимость основных средств, записывая новый суммы как уменьшение стоимости или амортизацию, и учитывать дополнительную стоимость приобретения."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 09c3babe38e1ec20f5d695f97df37104a9cc4d35
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 538c96c9dd8d201ffff0e67a1b266672ec764df1
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-revalue-fixed-assets"></a><span data-ttu-id="67650-103">Практическое руководство.Переоценка основных средств</span><span class="sxs-lookup"><span data-stu-id="67650-103">How to: Revalue Fixed Assets</span></span>

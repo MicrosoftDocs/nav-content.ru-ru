@@ -3,7 +3,7 @@ title: "Обзор учета документов и журналов"
 description: "Описывает действия при выполнении и способы учета документов и журналов."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 05/12/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 8b24231b77866fe6bdc1d176be9d819cbf7e66f6
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 5732ee9f85dfc7c733186183d1c321c1f8fad535
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="post-documents-and-journals"></a><span data-ttu-id="5845f-103">Учет документов и журналов</span><span class="sxs-lookup"><span data-stu-id="5845f-103">Post Documents and Journals</span></span>

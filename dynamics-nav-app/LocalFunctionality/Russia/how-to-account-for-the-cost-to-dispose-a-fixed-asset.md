@@ -3,7 +3,7 @@ title: "Практическое руководство. Учет себесто
 description: "Функция обслуживания при реализации позволяет отчитываться за сумму, потраченную на реализацию основного средства (ОС), как за расходы. Можно учесть операции, которые относятся к затратам на реализацию основного средства, так чтобы эти операции были отражены в формах актов списания ОС."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 42333d614639cb6225bd3e2d25b0d19a9de8d49e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 588a4e2114df54d3a45558f03c76453e529e0b0f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-account-for-the-cost--to-dispose-a-fixed-asset"></a><span data-ttu-id="f0307-104">Практическое руководство. Учет себестоимости реализации основного средства</span><span class="sxs-lookup"><span data-stu-id="f0307-104">How to: Account for the Cost  to Dispose a Fixed Asset</span></span>

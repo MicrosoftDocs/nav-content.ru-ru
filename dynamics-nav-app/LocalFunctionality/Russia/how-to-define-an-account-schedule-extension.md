@@ -3,7 +3,7 @@ title: "Как определить расширение финансового 
 description: "Расширения для России позволяют определить расширение для строки финансового отчета. Расширения удобны, если требуется фильтрация данных для счетов главной книги."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 953fd41aafe315b473888727a8cd68eb5e27c9e6
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f2438951fc6aa8bde9051560e813ba48560e67ea
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-define-an-account-schedule-extension"></a><span data-ttu-id="d8833-104">Практическое руководство. Определение расширения финансового отчета</span><span class="sxs-lookup"><span data-stu-id="d8833-104">How to: Define an Account Schedule Extension</span></span>

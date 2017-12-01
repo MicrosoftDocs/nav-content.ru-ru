@@ -2,7 +2,7 @@
 title: "Вопросы и ответы об использовании Dynamics NAV"
 description: "Ответы на типичные вопросы об том, как зарегистрироваться на Dynamics NAV и начать работу."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: FAQ, email, Office 365, subscription, trial, plan
 ms.date: 07/27/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 4ef1f3988e95e05257e3c2db60fd5c1ef0cd0c2b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 220a1126045bd0bb1c73fb5e0310f9a458cbdaa7
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="frequently-asked-questions"></a><span data-ttu-id="e068e-103">Вопросы и ответы</span><span class="sxs-lookup"><span data-stu-id="e068e-103">Frequently Asked Questions</span></span>

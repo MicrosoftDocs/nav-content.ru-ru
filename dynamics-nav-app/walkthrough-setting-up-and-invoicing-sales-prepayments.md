@@ -3,7 +3,7 @@ title: "Пошаговое руководство — настройка и вы
 description: "Предоплата — это платежи, для которых выставление счетов и учет в заказах на предоплату при продажах или покупках осуществляется до окончательного выставления счетов. Например, можно потребовать задаток перед производством товара по заказу или платеж перед отгрузкой товаров клиенту. Благодаря функции предоплаты можно выставлять счета в [!INCLUDE[d365fin](includes/d365fin_md.md)] и собирать необходимые авансы от клиентов либо переводить авансы поставщикам. Таким образом, можно гарантировать учет всех платежей по счету."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3076aca3a3b0ef70da183ec55ee1938926d04702
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6794c05ab61a568f923c1b7c7fc835d12e65b7e3
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="walkthrough-setting-up-and-invoicing-sales-prepayments"></a><span data-ttu-id="9ac5b-106">Пошаговое руководство. Настройка и выставление счетов на продажу</span><span class="sxs-lookup"><span data-stu-id="9ac5b-106">Walkthrough: Setting Up and Invoicing Sales Prepayments</span></span>

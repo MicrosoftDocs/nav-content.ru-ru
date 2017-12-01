@@ -3,7 +3,7 @@ title: "Как планировать размещения в журналах"
 description: "Если на складе требуется обрабатывать и размещения, и приемки, и необходимо запланировать инструкции по размещению для нескольких приемок, то вместо того, чтобы работники выполняли инструкции, созданные программой для каждой учтенной приемки, можно воспользоваться журналом размещений."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a868a1cb2e03d736aa6edb6ab9cb145efce79c11
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 645333d05b3c93526a1852271ded77812266c66c
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-plan-put-aways-in-worksheets"></a><span data-ttu-id="1f7bc-103">Практическое руководство. Планирование размещений в журналах</span><span class="sxs-lookup"><span data-stu-id="1f7bc-103">How to: Plan Put-aways in Worksheets</span></span>

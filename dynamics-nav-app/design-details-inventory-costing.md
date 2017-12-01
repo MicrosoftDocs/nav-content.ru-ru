@@ -3,7 +3,7 @@ title: "Сведения о проектировании — себестоим�
 description: "Документация содержит подробные технические сведения о концепциях и принципах, используемых в функциях учета стоимости товаров в [!INCLUDE[d365fin](includes/d365fin_md.md)]."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: design, inventory, costing
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 4b6db42020e62301bd882b679c2b6004374f0e49
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 8403486a897a3031ad0f488b4eb7e415daa1b8a0
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-inventory-costing"></a><span data-ttu-id="3ddff-103">Сведения о проектировании: себестоимость запасов</span><span class="sxs-lookup"><span data-stu-id="3ddff-103">Design Details: Inventory Costing</span></span>

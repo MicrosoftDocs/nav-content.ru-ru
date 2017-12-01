@@ -3,7 +3,7 @@ title: "Создание бюджетов затрат"
 description: "В этом разделе приводится обзор того, где можно создавать и анализировать бюджеты затрат."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: bb33a87fad0477e9f0916d4effcc89b8fa1c2e9e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 3d1aedca0e9962f3b8ad89e879cad18af28fe9e6
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="creating-cost-budgets"></a><span data-ttu-id="bfeb6-103">Создание бюджетов затрат</span><span class="sxs-lookup"><span data-stu-id="bfeb6-103">Creating Cost Budgets</span></span>

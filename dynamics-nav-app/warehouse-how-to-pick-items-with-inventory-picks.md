@@ -3,7 +3,7 @@ title: "Как выполнять подбор товаров с помощью 
 description: "Если настройки склада требуют обработку подбора, а не обработку отгрузки, то для регистрации и учета информации о подборе и отгрузке для документов-источников следует использовать документы подбора запасов."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 91a7d9bbbe8e65b25d8e378620a6eab538eaa77a
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 3bb2df6d727b52b3fc579cbcc3bd13539b75e6b1
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-pick-items-with-inventory-picks"></a><span data-ttu-id="81218-103">Как подобрать товары с помощью подбора запасов</span><span class="sxs-lookup"><span data-stu-id="81218-103">How to: Pick Items with Inventory Picks</span></span>

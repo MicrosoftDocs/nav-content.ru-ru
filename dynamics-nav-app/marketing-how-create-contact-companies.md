@@ -3,7 +3,7 @@ title: "Создание контактных организаций"
 description: "Описывается, как создать контакт для каждой новой организации или потенциального клиента, с которым вы взаимодействуете."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 02269adb44c5b036140aa9c920c4ffb5a64e13c1
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f9e1c82fe0cc6223d3eb1e468ec965122111ea3f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-contact-companies"></a><span data-ttu-id="c2483-103">Как создать контактные организации</span><span class="sxs-lookup"><span data-stu-id="c2483-103">How to: Create Contact Companies</span></span>

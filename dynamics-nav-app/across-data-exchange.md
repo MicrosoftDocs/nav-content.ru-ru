@@ -2,7 +2,7 @@
 title: "Электронные документы в Dynamics NAV"
 description: "Введение в отправку и получение электронных документов в [!INCLUDE[d365fin](includes/d365fin_md.md)]."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/19/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 5459a76797a948555a6a20009d57de96fe9eec7f
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 8fc153e26ab6b7685ad039cc2bb5369c82d665ac
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="exchanging-data-electronically"></a><span data-ttu-id="c6533-103">Электронный обмен данными</span><span class="sxs-lookup"><span data-stu-id="c6533-103">Exchanging Data Electronically</span></span>

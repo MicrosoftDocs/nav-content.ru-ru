@@ -3,7 +3,7 @@ title: "Товарные документы"
 description: "Улучшения для России включают несколько документов, которые можно использовать для управления складом."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: b44050e75dfba3f1036ef8aec35d9c6f3fae5b16
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4d3b85268f09018bea46aa72ed0d4f60a8a96b32
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="item-documents"></a><span data-ttu-id="4ec6b-103">Товарные документы</span><span class="sxs-lookup"><span data-stu-id="4ec6b-103">Item Documents</span></span>

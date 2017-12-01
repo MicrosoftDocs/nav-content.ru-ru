@@ -3,7 +3,7 @@ title: "Определение способа НЗП и мониторинг х�
 descrition: Describes how you can create a work in process (WIP) method and calculate WIP to estimate the financial value of jobs while they are ongoing.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: project management, KPI, work in process, work in progress
 ms.date: 07/04/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a39f15313a24c726cd7ce7b55db85c5feced9911
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c9f98a8a5119f554a860e6dca96e36bfbcbbcbfd
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-monitor-job-progress-and-performance"></a><span data-ttu-id="842a9-102">Практическое руководство. Отслеживание хода выполнения работ и производительности</span><span class="sxs-lookup"><span data-stu-id="842a9-102">How to: Monitor Job Progress and Performance</span></span>

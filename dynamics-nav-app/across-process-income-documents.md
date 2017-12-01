@@ -3,7 +3,7 @@ title: "Обработка входящих документов"
 description: "Чтобы зарегистрировать внешний документ, например PDF, в Dynamics NAV, сначала необходимо создать или завершить запись входящего документа."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecom
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: c7f3a016628a5726b6d2d21943c2735d0f3bcce1
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 1075f9737355de0b80807bf6bd123eaf2a71013a
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="processing-incoming-documents"></a><span data-ttu-id="8d55e-103">Обработка входящих документов</span><span class="sxs-lookup"><span data-stu-id="8d55e-103">Processing Incoming Documents</span></span>

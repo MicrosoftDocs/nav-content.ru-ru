@@ -3,7 +3,7 @@ title: "Назначение уровня приоритета поставщи�
 description: "Вы можете назначать номера поставщика для их приоритизации и поддержки функции предложений платежей в Dynamics NAV."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: supplier, payment priority
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 79458c1372c9f696a8331f2e7c83179dd42fb905
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f7e02a756c58067876ce8d02b3a0ae3661b2e496
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-prioritize-vendors"></a><span data-ttu-id="a72a1-103">Практическое руководство. Назначение приоритетов поставщикам</span><span class="sxs-lookup"><span data-stu-id="a72a1-103">How to: Prioritize Vendors</span></span>

@@ -3,7 +3,7 @@ title: "Сведения о проектировании — максималь�
 description: "Политика максимального количества — это способ ведения запасов с использованием точки повтора заказа."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: eb2dfa933cd80400e3143c2c0b5bc44691170baf
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 174ca820abd8f9b6942e74d412c8bef6352b64b6
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-maximum-qty"></a><span data-ttu-id="b6a52-103">Сведения о проектировании: максимальное количество</span><span class="sxs-lookup"><span data-stu-id="b6a52-103">Design Details: Maximum Qty.</span></span>

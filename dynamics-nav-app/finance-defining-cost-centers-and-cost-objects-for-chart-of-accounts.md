@@ -3,7 +3,7 @@ title: "Определение центров затрат и объектов �
 description: "Можно автоматически передавать операции доходов и расходов из главной книги в модуль учета затрат или для каждого учета главной книги или с помощью пакетного задания. При выполнении перемещения система выполняет перемещение только тех записей, которые уже связаны с центром затрат или объектом затрат. Чтобы настроить содержательное перемещение, необходимо обеспечить, чтобы места возникновения затрат и объекты затрат были правильно определены."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d034d2ab8f772ecd4a7b8db2ddf99720113948e3
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7fec33269f9dfb5ff1077496f2eb062407fbdfcb
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="defining-cost-centers-and-cost-objects-for-chart-of-accounts"></a><span data-ttu-id="97c05-105">Определение центров затрат и объектов затрат для плана счетов</span><span class="sxs-lookup"><span data-stu-id="97c05-105">Defining Cost Centers and Cost Objects for Chart of Accounts</span></span>

@@ -3,7 +3,7 @@ title: "Как работать с учетными периодами"
 description: "Определив учетные периоды, можно контролировать временные рамки, в пределах которых люди могут учитывать изменения в запасах."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: inventory, periods
 ms.date: 08/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 289b12d39c9f67913d862cb3500cccae0b3823d2
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: cb8bb3b44dfdd6bc43ec6d33a3fe061b669363e5
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-work-with-inventory-periods"></a><span data-ttu-id="1bf73-103">Практическое руководство: работа с учетными периодами</span><span class="sxs-lookup"><span data-stu-id="1bf73-103">How to: Work with Inventory Periods</span></span>

@@ -3,7 +3,7 @@ title: "Как отгружать товары"
 description: "В зависимости от конфигурации склада, можно либо напрямую зарегистрировать отправку в соответствующем исходящем бизнес-документе, таком как заказ на продажу, либо использовать складские документы отгрузки, соответствующие рабочему процессу и интегрированные в различные складские операции."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 121f1e32d1fa265d4e059dc0ee43fad22f732472
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 3cb3b22f91d9816c8391b4563811d7a48fb6aa88
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-ship-items"></a><span data-ttu-id="23cc6-103">Практическое руководство. Отгрузка товаров</span><span class="sxs-lookup"><span data-stu-id="23cc6-103">How to: Ship Items</span></span>

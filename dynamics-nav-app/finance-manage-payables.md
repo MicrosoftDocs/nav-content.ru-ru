@@ -5,7 +5,7 @@ documentationcenter:
 author: bholtorf
 manager: edupont
 editor: 
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.workload: na
 ms.tgt_pltfrm: na
 ms.devlang: na
@@ -14,10 +14,10 @@ ms.search.keywords: vendor payment, creditor, debt, balance due, AP
 ms.date: 06/02/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 698cb92c4209f2675fda3a4b2280ab8afad0c9cc
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 40a62c2d03287b1e31cf71e12b63655fc8e377ad
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="managing-payables"></a><span data-ttu-id="2ac2f-103">Управление кредиторской задолженностью</span><span class="sxs-lookup"><span data-stu-id="2ac2f-103">Managing Payables</span></span>

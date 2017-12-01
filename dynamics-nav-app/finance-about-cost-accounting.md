@@ -3,7 +3,7 @@ title: "Об учете затрат"
 description: "Учета затрат поможет оценить затраты на ведение бизнеса."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f23f428d4636b9ed5beffde403d2295ac9257d57
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d81ca7e30fa27da1b6ce3c02efbb0e6d00b72f87
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="about-cost-accounting"></a><span data-ttu-id="de159-103">Об учете затрат</span><span class="sxs-lookup"><span data-stu-id="de159-103">About Cost Accounting</span></span>

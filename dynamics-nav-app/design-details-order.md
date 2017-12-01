@@ -3,7 +3,7 @@ title: "Сведения о проектировании — заказ"
 description: "В этом разделе приведены сведения о ссылках \"заказ-в-заказ\" в среде изготовления на заказ."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: design, order
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7e8105795f4b2a45510fc50cfed4a8fadad8f1eb
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7eb4e59ca66d781003c2fb135a26c3df088fb28f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-order"></a><span data-ttu-id="014c0-103">Сведения о проектировании: заказ</span><span class="sxs-lookup"><span data-stu-id="014c0-103">Design Details: Order</span></span>

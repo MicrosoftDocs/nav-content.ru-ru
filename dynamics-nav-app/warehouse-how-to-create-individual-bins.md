@@ -3,7 +3,7 @@ title: "Как создавать ячейки"
 description: "Наиболее эффективным способом создания ячеек склада является генерация групп одинаковых ячеек в журнале создания ячеек, но ячейки также можно создавать по отдельности."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fee62a4818bba31fab334e4263c8d76249fd384d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4cd6048ea73e86ae5a05dfd4de1397a0e179a108
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-bins"></a><span data-ttu-id="289bc-103">Практическое руководство. Создание ячеек</span><span class="sxs-lookup"><span data-stu-id="289bc-103">How to: Create Bins</span></span>

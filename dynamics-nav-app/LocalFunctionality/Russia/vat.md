@@ -3,7 +3,7 @@ title: "НДС"
 description: "НДС применяется к транзакциям по товарами и услугам, продаваемым в России или импортируемым в Россию."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: e9e7c9573a67d4db9aa6715ac2cbe43518c1d9a9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f48a894234dd097017fad7558b56fecc2e4bc0dd
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="vat"></a><span data-ttu-id="0c5bf-103">НДС</span><span class="sxs-lookup"><span data-stu-id="0c5bf-103">VAT</span></span>

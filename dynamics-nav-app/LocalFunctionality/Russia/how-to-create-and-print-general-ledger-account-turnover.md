@@ -3,7 +3,7 @@ title: "Как создать и напечатать оборотную вед�
 description: "Улучшения для России позволяют создавать данные оборотной ведомости по финансовому счету в окне **Оборотная ведомость по ГК**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 46f3724821ce17540f5b63c582259ffd6ce3ad14
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a7afe7f60f751d55699eb1135b222763c233841c
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-and-print-general-ledger-account-turnover"></a><span data-ttu-id="db22d-103">Практическое руководство. Создание и печать оборотной ведомости по финансовому счету</span><span class="sxs-lookup"><span data-stu-id="db22d-103">How to: Create and Print General Ledger Account Turnover</span></span>

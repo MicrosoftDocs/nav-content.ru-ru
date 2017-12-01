@@ -3,7 +3,7 @@ title: "Настройка кредитового перевода SEPA"
 description: "Узнайте, как настроить кредитовый перевод SEPA в Dynamics NAV."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: sepa, credit, transfer, payment,
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 5dd85579a39fc9bfb3bb362e9573facc0c0a3977
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6e5db88877f2cc2e1612b5ab9dd7a477fbe7f450
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-sepa-credit-transfer"></a><span data-ttu-id="92f71-103">Практическое руководство. Настройка кредитового перевода SEPA</span><span class="sxs-lookup"><span data-stu-id="92f71-103">How to: Set Up SEPA Credit Transfer</span></span>

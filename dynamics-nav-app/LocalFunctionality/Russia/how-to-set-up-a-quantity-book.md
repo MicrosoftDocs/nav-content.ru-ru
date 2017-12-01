@@ -3,7 +3,7 @@ title: "Практическое руководство. Настройка кн
 description: "Создайте книгу амортизации для хранения записей количеств основных средств, для которых во время ввода в эксплуатацию будет списываться сумма, по которой они приобретены."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 7c14f24d2c5e3b4733b7f2f18bdb52cdc61f26b8
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 1bb925e5dfbf56670f5b397d8777ec00c1dc0259
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-a-quantity-book"></a><span data-ttu-id="97366-103">Практическое руководство. Настройка книги количественного учета</span><span class="sxs-lookup"><span data-stu-id="97366-103">How to: Set Up a Quantity Book</span></span>

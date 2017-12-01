@@ -3,7 +3,7 @@ title: "Акт инвентаризации расчетов с клиентам
 description: "Функция \"Акт инвентаризации расчетов с клиентами и платежей\" позволяет выполнить инвентаризацию долгов и обязательств и напечатать отчеты в различных форматах."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: f0c8bd36fb13d93397fd173c54a962eb6f5395f1
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b6862169c1b1fa64e2df991c1dbd419f8281efcc
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="inventory-act-of-receivables-and-payables-inv-17"></a><span data-ttu-id="9552e-103">Акт инвентаризации расчетов с клиентами и платежей ИНВ-17</span><span class="sxs-lookup"><span data-stu-id="9552e-103">Inventory Act of Receivables And Payables INV-17</span></span>

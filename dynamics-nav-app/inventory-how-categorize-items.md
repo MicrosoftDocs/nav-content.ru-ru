@@ -3,7 +3,7 @@ title: "Упорядочение товаров по категориям"
 description: "Чтобы находить товары, вы можете назначить им атрибуты и упорядочить их по категориям."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: category, search, attribute, facet
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: cc83849ced0fc7dc14375962824290b93e23b197
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a9d040717196c3ccff9ff1fe5ca502130ad638c8
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-categorize-items"></a><span data-ttu-id="4acb5-103">Практическое руководство. Категоризация товаров</span><span class="sxs-lookup"><span data-stu-id="4acb5-103">How to: Categorize Items</span></span>

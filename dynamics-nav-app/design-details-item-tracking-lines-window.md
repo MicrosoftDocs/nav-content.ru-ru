@@ -3,7 +3,7 @@ title: "Сведения о проектировании — окно \"Стро
 description: "Узнайте, как управлять потоком серийных номеров и номеров партий на складе."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: design, inventory, item, tracking, serial number, lot number
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 43885603315a0e0d008dfc522ee92d221d1ba958
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: eda0b908b4a303fa4ac26d8f583b038898cf4000
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-item-tracking-lines-window"></a><span data-ttu-id="ee235-103">Сведения о проектировании: окно "Строки трассировки товаров"</span><span class="sxs-lookup"><span data-stu-id="ee235-103">Design Details: Item Tracking Lines Window</span></span>

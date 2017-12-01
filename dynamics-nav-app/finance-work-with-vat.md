@@ -3,7 +3,7 @@ title: "Как работать с НДС по продажам и покупк�
 description: "В этом разделе описывается, как выполнять такие задачи, как корректировка учтенного НДС в странах или регионах ЕС, в которых каждая транзакция продажи и покупки подлежит расчету НДС. В этом разделе описывается порядок работы."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: VAT, sales, purchases,
 ms.date: 09/08/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 4a639b0da8e7f06f4120c89e75121edd324e0bfd
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4adfbeb3c8f168653589ef8f87f6593cf931842b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-work-with-vat-on-sales-and-purchases"></a><span data-ttu-id="20622-104">Практическое руководство. Работа с НДС по продажам и покупкам</span><span class="sxs-lookup"><span data-stu-id="20622-104">How to: Work with VAT on Sales and Purchases</span></span>

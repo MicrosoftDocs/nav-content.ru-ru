@@ -3,7 +3,7 @@ title: "Создание входящих документов из докуме
 description: "Вы можете создавать записи входящих документах, например для счетов, и управлять задачами OCR, eCommerce и обмена документами."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecom
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fd8eba03f98d4d667a25639c1c958edf6936b0cb
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6667a77725ad276dd7a8d41a0bf9b7415e0a48bc
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-incoming-document-records-directly-from-documents-and-entries"></a><span data-ttu-id="9ef08-103">Как создавать записи входящих документов непосредственно из документов и записей</span><span class="sxs-lookup"><span data-stu-id="9ef08-103">How to: Create Incoming Document Records Directly from Documents and Entries</span></span>

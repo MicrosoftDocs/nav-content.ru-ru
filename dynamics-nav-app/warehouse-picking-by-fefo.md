@@ -3,7 +3,7 @@ title: "Как включить подбор по методу FEFO"
 description: "FEFO (First-Expired-First-Out) — это метод сортировки, который обеспечивает, чтобы наиболее старые товары (с наиболее ранними датами истечения срока) подбирались первыми."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d3977cd235293d685490464e51aec16a95d01e9d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a8748788adc6d83d43b724059b0def24673810f1
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-enable-picking-items-by-fefo"></a><span data-ttu-id="16ba1-103">Практическое руководство. Включение подбора товаров по методу FEFO</span><span class="sxs-lookup"><span data-stu-id="16ba1-103">How to: Enable Picking Items by FEFO</span></span>

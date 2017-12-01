@@ -3,7 +3,7 @@ title: "Сведения о проектировании — параметры 
 description: "В этом разделе описываются различные параметры планирования, которые можно использовать в [!INCLUDE[d365fin](includes/d365fin_md.md)]."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: planning, design
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7da4796793b793ab37d6d2660b9200bb5e684d9b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e8e0bfa3a24ef3c7636cf5573d2b6dd235cff050
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-planning-parameters"></a><span data-ttu-id="3e1a3-103">Сведения о проектировании: параметры планирования</span><span class="sxs-lookup"><span data-stu-id="3e1a3-103">Design Details: Planning Parameters</span></span>

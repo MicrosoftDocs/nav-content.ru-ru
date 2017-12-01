@@ -3,7 +3,7 @@ title: "Регистрация и возмещение расходов сотр
 description: "Учет расходов сотрудников в финансовом журнале на счете сотрудника и последующий учет платежа на банковский счет сотрудника для возмещения расходов, связанных со служебной деятельностью."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: reimbursement
 ms.date: 06/28/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 344d104607da8cefa6096d4ae873ebc652de0dd4
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 764e14a82e2468f3bc6941fc6f2db0ede21577cf
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-record-and-reimburse-employees-expenses"></a><span data-ttu-id="e0209-103">Практическое руководство. Регистрация и возмещение расходов сотрудников</span><span class="sxs-lookup"><span data-stu-id="e0209-103">How to: Record and Reimburse Employees' Expenses</span></span>

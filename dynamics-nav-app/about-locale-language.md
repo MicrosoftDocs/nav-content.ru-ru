@@ -2,7 +2,7 @@
 title: "Поддержка нескольких языков и локализация"
 description: "Узнайте, как язык и языковой стандарт влияют на работу в Dynamics NAV."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: language, locale, localization, culture
 ms.date: 09/01/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 57787e98f1d845ab3edeb945be5e00750d7c9ae8
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d55ce2f0257e957a314057890baca27ea8b40a61
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="language-and-locale"></a><span data-ttu-id="ae5e3-103">Язык и языковой стандарт</span><span class="sxs-lookup"><span data-stu-id="ae5e3-103">Language and Locale</span></span>

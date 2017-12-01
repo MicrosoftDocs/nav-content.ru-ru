@@ -3,7 +3,7 @@ title: "Практическое руководство. Настройка пр
 description: "Предоплата — это авансовые платежи по заказам на продажу, которые получены, для которых создан счет и которые учтены, но до окончательного выставления счетов. Например, вам может потребоваться задаток, чтобы произвести товар и отгрузить его клиенту."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 544b13787d2c3c6295ef21caa1658b43fd7bb2ac
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 44ad7cf0a907f46a2de8e760e40d4fc446fc2b16
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-customer-prepayments"></a><span data-ttu-id="3f607-104">Практическое руководство. Настройка предоплат клиентов</span><span class="sxs-lookup"><span data-stu-id="3f607-104">How to: Set Up Customer Prepayments</span></span>

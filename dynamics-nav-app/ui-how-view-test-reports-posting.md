@@ -3,7 +3,7 @@ title: "Просмотр тестового отчета перед учетом
 description: "Перед учетом документа, например заказа или кредит-ноты, вы можете проверить и просмотреть его, чтобы устранить ошибки, которые могут препятствовать учету."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 05/12/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 1c197576564f4fe88a92d06c43e2b237f6836aa1
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 01d5312f85f1c7d68c48dcb63774fb667531f6df
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-view-test-reports-before-posting"></a><span data-ttu-id="f7cdf-103">Практическое руководство. Просмотр отчетов о тестировании перед учетом</span><span class="sxs-lookup"><span data-stu-id="f7cdf-103">How to: View Test Reports Before Posting</span></span>

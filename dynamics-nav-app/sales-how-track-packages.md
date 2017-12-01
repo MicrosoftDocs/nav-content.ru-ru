@@ -3,7 +3,7 @@ title: "Как осуществить трассировку посылок"
 description: "Используйте службу отслеживания экспедиторов для контроля хода доставки."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: rfq
 ms.date: 08/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7763534d4010fca5f957649378b886d0bd0c89ee
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: da66331e8007d53cf1530f1c562c09b928d9d0d4
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-track-packages"></a><span data-ttu-id="9de15-103">Как осуществить трассировку посылок</span><span class="sxs-lookup"><span data-stu-id="9de15-103">How to: Track Packages</span></span>

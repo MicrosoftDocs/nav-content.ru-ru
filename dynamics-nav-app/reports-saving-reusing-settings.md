@@ -2,7 +2,7 @@
 title: "Применение и изменение сохраненных параметров в отчетах"
 description: "Описывается использование заранее определенных параметров и фильтров для настройки отчета и формирования правильных данных."
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: customization, personalization
 ms.date: 09/08/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: c63b5585f724a60007e836ab06333798bce65129
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 1ccdde7dd7b02fcd23f7db10ad89594c09d57492
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="managing-saved-settings-on-reports"></a><span data-ttu-id="2133d-103">Управление сохраненными настройками в отчетах</span><span class="sxs-lookup"><span data-stu-id="2133d-103">Managing Saved Settings on Reports</span></span>

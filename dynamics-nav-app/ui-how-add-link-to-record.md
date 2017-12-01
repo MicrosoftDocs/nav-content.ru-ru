@@ -3,7 +3,7 @@ title: "Как добавлять в записи ссылки на внешни
 description: "Присоединение гиперссылок к документам или веб-сайтам на конкретную запись, например, на клиента или документ."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 903d8710a8c77348e1366d9a9a29b75395887198
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 438d504d5c8c494ca5fae271297593df19a1a7bc
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="adding-links-to-websites-documents-or-programs-on-records"></a><span data-ttu-id="35a23-103">Добавление в записи ссылок на веб-сайты, документы или программы</span><span class="sxs-lookup"><span data-stu-id="35a23-103">Adding Links to Websites, Documents, or Programs on Records</span></span>

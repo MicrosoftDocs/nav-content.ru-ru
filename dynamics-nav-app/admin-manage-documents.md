@@ -2,7 +2,7 @@
 title: "Управление документами, удаление или сжатие документов"
 description: "Можно хранить исторические данные или удалить их."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/01/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 89e541c7d38d26204c403636e4df11b7468bffa9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 0072326edf457b93e10c02c18a4de73058a9bff9
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="manage-documents"></a><span data-ttu-id="65ec9-103">Управление документами</span><span class="sxs-lookup"><span data-stu-id="65ec9-103">Manage Documents</span></span>

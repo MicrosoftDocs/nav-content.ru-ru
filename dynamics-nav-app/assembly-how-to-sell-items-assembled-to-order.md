@@ -3,7 +3,7 @@ title: "Как продавать товары, собранные на зака
 description: "Если товар настроен для сборки на заказ, его наличие на складе не ожидается, и товар должен быть собран специально для заказа на продажу. При вводе товара в строке заказа продажи автоматически создается сборочный заказ и связывается с заказом на продажу."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/15/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fc140a0fa7d58c38234f67471323241ac94ca489
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 03b777e7f2840f34eb03e8c1f3b96ee9c68f0045
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-sell-items-assembled-to-order"></a><span data-ttu-id="f17bd-104">Практическое руководство. Продажа товара, собранного на заказ</span><span class="sxs-lookup"><span data-stu-id="f17bd-104">How to: Sell Items Assembled to Order</span></span>

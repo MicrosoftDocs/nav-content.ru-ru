@@ -3,7 +3,7 @@ title: "Практическое руководство. Создание отч
 description: "Отчет ТОРГ-1 служит для регистрации приемки товаров. В этом отчете перечисляются приходные накладные с указанием количества, качества, массы и содержимого упаковки в соответствии с условиями договора."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 5ce291a73834a8d1a078c0ffec8cf3ea20635fca
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 879526c230d4556e703e7f690fa30f52e15087e6
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-the-torg-1-report-for-acceptance-of-goods"></a><span data-ttu-id="c33c0-104">Практическое руководство. Создание отчета ТОРГ-1 для приемки товаров</span><span class="sxs-lookup"><span data-stu-id="c33c0-104">How to: Create the TORG-1 Report for Acceptance of Goods</span></span>

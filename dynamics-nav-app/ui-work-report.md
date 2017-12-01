@@ -3,7 +3,7 @@ title: "Планирование отчета для его выполнения
 description: "Узнайте о вводе отчета в очередь заданий и планирование его обработки в конкретные дату и время."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: task, process, report
 ms.date: 07/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d5036cad1bca6f9c6a2aecd26ec120171e646a80
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b88f0036fc198eae701e4ba68612b4af6a5ee23c
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="working-with-reports"></a><span data-ttu-id="7704a-103">Работа с отчетами</span><span class="sxs-lookup"><span data-stu-id="7704a-103">Working with Reports</span></span>

@@ -7,12 +7,12 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.translationtype: HT
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 89397f6b6045bfb36bfdea217f1278fec016da7c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 235b19a9b0771c2b4bd7e758cf5ac3b58b84e869
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-alternative-addresses-for-contacts"></a><span data-ttu-id="985dd-102">Практическое руководство. Настройка альтернативных адресов контактов</span><span class="sxs-lookup"><span data-stu-id="985dd-102">How to: Set Up Alternative Addresses for Contacts</span></span>

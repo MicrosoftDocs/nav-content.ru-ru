@@ -3,7 +3,7 @@ title: "Учет коррекций \"красный сторно\""
 description: "Можно настраивать склад на использование одного столбца для первоначального и корректирующего учета. Эта функция часто называется *красный сторно*."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 339b95bad945ec430721a4e94b853c280170afd9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 93652cbff8d0cdb4f810c3537ac0fe5a7bd90266
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-post-red-storno-corrections"></a><span data-ttu-id="10d54-104">Практическое руководство. Учет коррекций "красный сторно"</span><span class="sxs-lookup"><span data-stu-id="10d54-104">How to: Post Red Storno Corrections</span></span>

@@ -9,12 +9,12 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.translationtype: HT
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: d41b96ab5807402a342991d5c5bc2d672db09e2f
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 5ad2598c782346ee86d2efb02ce9cc6a8706aad2
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-register-dynamics-nav-in-the-azure-management-portal"></a><span data-ttu-id="0f5c9-102">Практическое руководство. Регистрация Dynamics NAV на портале управления Azure</span><span class="sxs-lookup"><span data-stu-id="0f5c9-102">How to: Register Dynamics NAV in the Azure Management Portal</span></span>

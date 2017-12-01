@@ -3,7 +3,7 @@ title: "Сведения о проектировании — наличие на
 description: "Система должна постоянно контролировать доступность товаров на складе, чтобы исходящие заказы могли эффективно обрабатываться и обеспечивать оптимальные поставки."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 875286386168fea79f47dfdf0c78ef202cc21da0
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: ce615f42685abe4dabc9b4edb932ec084bf9b853
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-availability-in-the-warehouse"></a><span data-ttu-id="d9a39-103">Сведения о проектировании: наличие на складе</span><span class="sxs-lookup"><span data-stu-id="d9a39-103">Design Details: Availability in the Warehouse</span></span>

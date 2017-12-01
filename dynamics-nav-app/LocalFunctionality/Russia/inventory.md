@@ -3,7 +3,7 @@ title: "Запасы"
 description: "Функция запасов для России описывается в нескольких разделах."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: af493097266ef7c543a466e46dc132cbede7fc81
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: fc8bb0e4322d50db78b515d226e8fc2bc0d16916
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="inventory"></a><span data-ttu-id="b36ae-103">Запасы</span><span class="sxs-lookup"><span data-stu-id="b36ae-103">Inventory</span></span>

@@ -3,7 +3,7 @@ title: "Отчеты по расчетам с клиентами (Россия)"
 description: "Функция отчетов о расчетах с клиентами позволяет создавать оборотную ведомость финансовых операций клиента для финансовых операций финансовых счетов с типом источника Клиент."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 64ebca98a031e190ce3e1f410464180454e151cd
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 38f32074cdbb38d2c98d7384237e0f31fdfa3cd5
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="russian-receivables-reports"></a><span data-ttu-id="35eed-103">Отчеты по расчетам с клиентами (Россия)</span><span class="sxs-lookup"><span data-stu-id="35eed-103">Russian Receivables Reports</span></span>

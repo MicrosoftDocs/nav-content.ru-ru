@@ -3,7 +3,7 @@ title: "Методы амортизации"
 description: "Получите подробные сведения о различных способах амортизации или понижения стоимости основных средств."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: write down
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7d5fd80eeabb078122283748c45203356bf6f1a8
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 20a0c462488292d709bac76a3927b7579cb0f774
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="depreciation-methods"></a><span data-ttu-id="c95b5-103">Методы амортизации</span><span class="sxs-lookup"><span data-stu-id="c95b5-103">Depreciation Methods</span></span>

@@ -3,7 +3,7 @@ title: "Сведения о проектировании — активные и
 description: "При учете частей количества, указанного на строке документа, только соответствующее количество переносится в операции журнала товаров и числа трассировки товаров. Однако будет необходимо открыть всю информацию о трассировке товаров непосредственно из активной строки документа. Это означает, что требуется не только просмотреть операции, связанные с остатком, но и сведения о единицах, которые были учтены. При просмотре или изменении окна **Строки трассировки товаров** совместное содержимое таблиц **Спецификация трассировки** (T336) и **Операция резервирования** (T337) представляются во временной версии T336. Это обеспечивает доступ к данным за прошлые периоды и активным данным трассировки товаров как к единому целому."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 315b5317c2ac3e2cd6a56bd243e30d4e3445a6ec
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b0636a3c43848a9016b2657503751ef6bb89c705
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-active-versus-historic-item-tracking-entries"></a><span data-ttu-id="b3d5b-107">Сведения о проектировании: активные и исторические операции трассировки товаров</span><span class="sxs-lookup"><span data-stu-id="b3d5b-107">Design Details: Active versus Historic Item Tracking Entries</span></span>

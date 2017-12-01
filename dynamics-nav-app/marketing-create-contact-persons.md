@@ -3,7 +3,7 @@ title: "Создание контактных лиц"
 description: "Содержит обзор задач по созданию карточку контакта для лица, например для потенциального клиента или поставщика, что помогает определить отношения и наладить связь."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 34dc16ae3c6f9f6b11abca2480c7bcae9a0a3cab
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a6dde328bab2dffa98dc7383c40d4196cacb4045
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="creating-contact-persons"></a><span data-ttu-id="0194c-103">Создание контактных лиц</span><span class="sxs-lookup"><span data-stu-id="0194c-103">Creating Contact Persons</span></span>

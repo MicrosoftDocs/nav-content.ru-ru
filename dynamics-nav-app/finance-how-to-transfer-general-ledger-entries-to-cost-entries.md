@@ -3,7 +3,7 @@ title: "Как переносить операции ГК в операции з
 description: "Можно перенести операции главной книги в операции затрат."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b7a78fb1023e8b664fd866eb1a8b5e42ff0de265
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f03cd367d01e9978f3a42191dc2653742877d7f4
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-transfer-general-ledger-entries-to-cost-entries"></a><span data-ttu-id="46e71-103">Практическое руководство: перенос операций ГК в операции затрат</span><span class="sxs-lookup"><span data-stu-id="46e71-103">How to: Transfer General Ledger Entries to Cost Entries</span></span>

@@ -3,7 +3,7 @@ title: "Практическое руководство. Расчет налог
 description: "Налоговые разницы представляют собой расхождения сумм налога, вызванные различиями в правилах признания доходов и расходов в бухгалтерском и налоговом учете."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: d17a78c0086ef7cac6cf37b568f97eb6ae7d889b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b1f69ac0a8a9cc56c211edd395884c768079efbb
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-calculate-tax-differences"></a><span data-ttu-id="084ed-103">Практическое руководство. Расчет налоговых разниц</span><span class="sxs-lookup"><span data-stu-id="084ed-103">How to: Calculate Tax Differences</span></span>

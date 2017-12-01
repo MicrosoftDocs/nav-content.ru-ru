@@ -3,7 +3,7 @@ title: "Настройка амортизации основных средст�
 description: "Вы указываете в книге амортизации, каким образом будет происходить амортизация или уменьшение стоимости ОС."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: write down
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 6fcc5d86da55923a671c001ab423b6da01d7d3da
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 84594bc20f833ebd7a78d1c881b89a0033b55411
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-fixed-asset-depreciation"></a><span data-ttu-id="33d3c-103">Практическое руководство. Настройка амортизации основных средств</span><span class="sxs-lookup"><span data-stu-id="33d3c-103">How to: Set Up Fixed Asset Depreciation</span></span>

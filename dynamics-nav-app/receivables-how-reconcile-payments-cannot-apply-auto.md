@@ -2,7 +2,7 @@
 title: "Использование перевода разницы на счет для выверки платежей"
 description: "Описывается, как обрабатывать платежи,которые невозможно применить к документу, например, если возникает разница сумм из-за валютных курсов."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: payment process, cash receipts
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 14728fea5d8661004c23f65920ca835e1d29ac55
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9e7fc550f503244b7a04079664c7fd6eda87aded
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-reconcile-payments-that-cannot-be-applied-automatically"></a><span data-ttu-id="cea0d-103">Практическое руководство. Выверка платежей, которые не могут быть применены автоматически.</span><span class="sxs-lookup"><span data-stu-id="cea0d-103">How to: Reconcile Payments That Cannot be Applied Automatically</span></span>

@@ -3,7 +3,7 @@ title: "Сведения о проектировании — применени�
 description: "В этом разделе описывается, где регистрируются количество и стоимость запасов при учете складской транзакции."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: design, items, ledger entries, posting, inventory
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f9ae75c5db462b7d37dfccad300eebadd00c7a50
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 03af6daed0fa2af2728685b12bc1b809837403db
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-item-application"></a><span data-ttu-id="a2f08-103">Сведения о проектировании: применение товара</span><span class="sxs-lookup"><span data-stu-id="a2f08-103">Design Details: Item Application</span></span>

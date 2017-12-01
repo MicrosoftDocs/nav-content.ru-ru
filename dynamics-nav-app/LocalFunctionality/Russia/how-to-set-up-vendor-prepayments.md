@@ -3,7 +3,7 @@ title: "Практическое руководство. Настройка пр
 description: "Предоплаты — это авансовые платежи для заказов на покупку, которые оплачиваются до формирования окончательного счета. Например, может потребоваться оплатить поставщику 20 процентов суммы счета за производимый товар. Предоплаты позволяют отслеживать и регистрировать авансовые платежи по счетам покупки."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: e01fb8873541c63eeac09eaffc6953b2032f711e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e02ec9e93267f78123355a0fc93ede0a88e35917
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-vendor-prepayments"></a><span data-ttu-id="6af60-105">Практическое руководство. Настройка предоплат поставщикам</span><span class="sxs-lookup"><span data-stu-id="6af60-105">How to: Set Up Vendor Prepayments</span></span>

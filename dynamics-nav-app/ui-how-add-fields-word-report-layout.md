@@ -3,7 +3,7 @@ title: "Как добавлять поля в макет отчета Word"
 description: "Описывается процедура добавления полей набора данных отчета в существующий макет отчета Word для отчета."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 1085c5390cf6f20cc2bd5c2a95057e6499dbac8c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 46ad570e2f7f208c374e50e666da0043f02a3438
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-add-fields-to-a-word-report-layout"></a><span data-ttu-id="eba6b-103">Практическое руководство. Добавление полей в макет отчета Word</span><span class="sxs-lookup"><span data-stu-id="eba6b-103">How to: Add Fields to a Word Report Layout</span></span>

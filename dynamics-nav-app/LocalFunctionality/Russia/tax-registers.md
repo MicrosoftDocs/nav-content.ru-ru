@@ -3,7 +3,7 @@ title: "Налоговые регистры"
 description: "В [!INCLUDE[navnow](../../includes/navnow_md.md)] можно настроить налоговые регистры для отслеживания и управления налогооблагаемыми прибылями и убытками в соответствии с российскими принципами налогового учета."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: a9d334ce4d97ecebd26c847b905afb114601c815
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b1780ff74d1a7ca801427ddf9634322279f139f7
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="tax-registers"></a><span data-ttu-id="8cc6c-103">Налоговые регистры</span><span class="sxs-lookup"><span data-stu-id="8cc6c-103">Tax Registers</span></span>

@@ -3,7 +3,7 @@ title: "Результаты передачи"
 description: "В этом разделе описывается, что происходит после перемещения операций главной книги в операции затрат."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: general ledger, transfer, cost entries
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 05da79520b5568a8b8e63f10efce9c8b3c5395b8
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 476830c732e8c48a131a1429dc05f41b25f33f46
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="results-of-transferring-general-ledger-entries-to-cost-entries"></a><span data-ttu-id="82fac-103">Результаты переноса операций главной книги в операции затрат</span><span class="sxs-lookup"><span data-stu-id="82fac-103">Results of Transferring General Ledger Entries to Cost Entries</span></span>

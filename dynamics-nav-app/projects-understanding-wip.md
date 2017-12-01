@@ -3,7 +3,7 @@ title: "Методы расчета НЗП для расчета и записи
 description: "Описываются различные методы НЗП, которые можно использовать для учета, отслеживания и расчета финансовой информации для текущих незавершенных работ."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: work in process, work in progress, calculate project WIP
 ms.date: 06/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 4a472d7a45cacfe4cd2534747f447a1e4ca7a303
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e9595d17f00d257f96bc1c31f48e97b3c4a2a3d2
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="understanding-wip-methods"></a><span data-ttu-id="e3cbf-103">Общее представление о методах учета НЗП</span><span class="sxs-lookup"><span data-stu-id="e3cbf-103">Understanding WIP Methods</span></span>

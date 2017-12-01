@@ -3,7 +3,7 @@ title: "Сведения о проектировании — периоды уч
 description: "Транзакции или коррекции себестоимости, записанные задним числом, часто влияют на сальдо и количество запасов в учетные периоды, которые могут считаться закрытыми. Это может иметь отрицательный эффект на точность отчетности, особенно в глобальных корпорациях. Функцию периодов инвентаризации можно использовать, чтобы избежать таких проблем, путем открытия или закрытия периодов инвентаризации, чтобы ограничить учет заданным периодом времени."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 1dd508ee887b28b1696746444145eff6f2bd7ebe
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b318595552cd48bc5b3590a6ff7858412631ba71
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-inventory-periods"></a><span data-ttu-id="c403d-105">Сведения о проектировании: периоды учета запасов</span><span class="sxs-lookup"><span data-stu-id="c403d-105">Design Details: Inventory Periods</span></span>

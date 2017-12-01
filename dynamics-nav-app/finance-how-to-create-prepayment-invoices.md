@@ -3,7 +3,7 @@ title: "Как создавать счета на предоплату"
 description: "Узнайте, как обрабатывать ситуации, в которых вы или ваш поставщик требует предоплату."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a5480e9a4ad332a5faf668cc53ea7a750cfa0e17
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: ad029ce0c839feb082f31cc4e41f5fc6e4ce80f1
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-prepayment-invoices"></a><span data-ttu-id="e12d8-103">Практическое руководство. Создание счетов на предоплату</span><span class="sxs-lookup"><span data-stu-id="e12d8-103">How to: Create Prepayment Invoices</span></span>

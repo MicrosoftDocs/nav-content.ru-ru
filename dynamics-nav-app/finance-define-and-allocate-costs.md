@@ -3,7 +3,7 @@ title: "Определение и распределение затрат"
 description: "Распределения затрат перемещают затраты и доходы между типами затрат, местами возникновения затрат и объектами затрат. Можно определить любое необходимое число распределений."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f7c34e8f4c57e2effc03b8dcd2a722d7bdbb4692
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b42f7e0c832bccabb29f62e4589ba3e178778e5f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="defining-and-allocating-costs"></a><span data-ttu-id="39854-104">Определение и распределение затрат</span><span class="sxs-lookup"><span data-stu-id="39854-104">Defining and Allocating Costs</span></span>

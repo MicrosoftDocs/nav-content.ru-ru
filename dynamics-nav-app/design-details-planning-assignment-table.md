@@ -3,7 +3,7 @@ title: "Сведения о проектировании — таблица \"Н
 description: "В этом разделе приведены сведения о том, что происходит при изменении способа планирования товара."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 4de661000de46293eaeec22ce6a6243f0efaa630
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f55f26556857a51b20ea8ae70070aa70147182fe
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-planning-assignment-table"></a><span data-ttu-id="5931a-103">Сведения о проектировании: таблица "Назначение произ. плана"</span><span class="sxs-lookup"><span data-stu-id="5931a-103">Design Details: Planning Assignment Table</span></span>

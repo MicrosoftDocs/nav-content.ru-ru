@@ -2,7 +2,7 @@
 title: "Напоминание клиентам о просроченных платежа и сбор штрафов с них"
 description: "Описывается порядок отправки напоминаний клиентам о предстоящих платежах, а также добавление штрафов к платежам из-за задержки с оплатой."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: payment due, debt, overdue, fee, charge, reminder
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e7543ab169a1a6ab16c9fdf0afdec88b7749d717
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 26a72c24a1bbe94470c0c45d2e55710bb1bc5929
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-collect-outstanding-balances"></a><span data-ttu-id="fb0f1-103">Практическое руководство. Сбор непогашенных остатков задолженности</span><span class="sxs-lookup"><span data-stu-id="fb0f1-103">How to: Collect Outstanding Balances</span></span>

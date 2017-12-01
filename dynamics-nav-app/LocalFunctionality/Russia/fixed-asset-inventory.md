@@ -3,7 +3,7 @@ title: "Инвентаризация основных средств"
 description: "Функция инвентаризации основных средств позволяет обрабатывать аудит учета основных средств в соответствии с требованиями законодательства, создавать электронные инвентарные списки основных средств, которые подлежат инвентаризации, с расчетными количествами и суммами, и многое другое."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 4bc5df267c868043973e9e5a5c1e42ce2e3336bc
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 0b3c97ee0ec10afe43dd492edbafbc217d331b7d
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="fixed-asset-inventory"></a><span data-ttu-id="29dde-103">Инвентаризация основных средств</span><span class="sxs-lookup"><span data-stu-id="29dde-103">Fixed Asset Inventory</span></span>

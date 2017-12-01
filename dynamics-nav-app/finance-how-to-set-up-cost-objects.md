@@ -3,7 +3,7 @@ title: "Как настраивать объекты затрат"
 description: "Узнайте, как настраивать объекты затрат, которые аналогичны измерениям для главной книги."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 07c1d837f858641456fde84431e1a9695a992efe
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d525729ee42fe3803c52e2c54925496aa23f9712
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-cost-objects"></a><span data-ttu-id="e3a41-103">Практическое руководство. Настройка объектов затрат</span><span class="sxs-lookup"><span data-stu-id="e3a41-103">How to: Set Up Cost Objects</span></span>

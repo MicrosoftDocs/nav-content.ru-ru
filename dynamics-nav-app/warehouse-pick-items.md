@@ -3,7 +3,7 @@ title: "Подбор товаров"
 description: "Складская операция подбора товаров до их отгрузки или потребления выполняется различными способами в зависимости от настроек функций управления складом. Сложность [настройки](../configure-warehouse-processes.md) может колебаться от полного отсутствия функций склада до базовых конфигураций склада для поочередной обработки заказов в ходе одной или нескольких операций; кроме того, может использоваться расширенная конфигурация, когда все складские операции должны выполняться в рамках расширенного рабочего процесса."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a00a6b2740bb55352dfbe8e6ac4fd3d72870608e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e0af0180045cd166c065c264bbdf66e5a9d33d0b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="pick-items"></a><span data-ttu-id="d72ac-104">Подбор товаров</span><span class="sxs-lookup"><span data-stu-id="d72ac-104">Pick Items</span></span>

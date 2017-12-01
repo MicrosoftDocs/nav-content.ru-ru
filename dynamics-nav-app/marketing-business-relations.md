@@ -3,7 +3,7 @@ title: "Определение кодов деловых отношений дл
 description: "Деловые отношения в Dynamics NAV помогают в маркетинге и показывают ваши деловые отношения с потенциальными и текущими клиентами и партнерами, например с банком или с поставщиком услуг."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: marketing, prospect, contact, client, customer
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 36e77c794e7aa92d5d323d93a7703359018efd39
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6d0f157502eb9d82875c8585ab43d48cfd9e8ffb
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setting-up-business-relations-on-contact-companies"></a><span data-ttu-id="aac42-103">Настройка деловых отношений в организациях контактов</span><span class="sxs-lookup"><span data-stu-id="aac42-103">Setting Up Business Relations on Contact Companies</span></span>

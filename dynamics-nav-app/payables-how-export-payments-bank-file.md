@@ -3,7 +3,7 @@ title: "Экспорт платежей в файл электронного п�
 description: "Чтобы осуществить платеж поставщику, необходимо включить службу конвертации банковских данных, экспортировать файл банка и загрузить этот файл в электронный банк для перевода средств."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: bank file export, re-export, bank transfer, AMC, bank data c
 ms.date: 06/28/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: bf7a2efe0f21100676e2cfe176693c43662ea13d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 3d8534c4d9537ac6f490108d5fb53a78d8ca7c97
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-export-payments-to-a-bank-file"></a><span data-ttu-id="105b5-103">Практическое руководство. Экспорт платежей в банковский файл</span><span class="sxs-lookup"><span data-stu-id="105b5-103">How to: Export Payments to a Bank File</span></span>

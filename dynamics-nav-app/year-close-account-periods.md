@@ -3,7 +3,7 @@ title: "Закрытие учетных периодов для финансов
 description: "Описывается порядок закрытия учетных периодов, составляющих финансовый год."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: year closing, close accounting period, close fiscal year, ba
 ms.date: 06/02/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d47196460cf5a52beaa3e94e9a39d3ad8e6b0655
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a874ae2ca4804bdb5f13656c278f37695a0ea887
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-close-accounting-periods"></a><span data-ttu-id="c573a-103">Как завершать учетные периоды</span><span class="sxs-lookup"><span data-stu-id="c573a-103">How to: Close Accounting Periods</span></span>

@@ -3,7 +3,7 @@ title: "Как импортировать и экспортировать фин
 description: "Расширения для России позволяют импортировать и экспортировать финансовые отчеты в другие организации в базы данных."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 29719b31aab3d9998b422771a15fc14675b9ae0f
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 3307779ecffd2c1c3a9d554b5ce50e81fb93f463
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-import-and-export-account-schedules"></a><span data-ttu-id="75908-103">Практическое руководство. Импорт и экспорт финансовых отчетов</span><span class="sxs-lookup"><span data-stu-id="75908-103">How to: Import and Export Account Schedules</span></span>

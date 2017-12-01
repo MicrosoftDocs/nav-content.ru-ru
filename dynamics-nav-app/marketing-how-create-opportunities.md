@@ -3,7 +3,7 @@ title: "Создание возможностей продаж"
 description: "Описывается создание возможностей из менеджеров по продажам или контактов в Dynamics NAV."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d0a3517e794964d139a04b25e5ea7c9acf1bd4f8
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c97dc051fe754c9767df87787c90e0db5019def7
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-sales-opportunities"></a><span data-ttu-id="8b71e-103">Практическое руководство. Создание возможностей продаж</span><span class="sxs-lookup"><span data-stu-id="8b71e-103">How to: Create Sales Opportunities</span></span>

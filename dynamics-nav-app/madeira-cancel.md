@@ -3,7 +3,7 @@ title: "Отмена Dynamics NAV"
 description: "Описывается, как убрать или удалить подписку Dynamics NAV."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: remove, delete
 ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 1ceb89dba18b051ba20eae7a59a64925611f893f
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 8c8d996ac960b22f491caa63a24d5229af0a7b64
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="unsubscribe-remove-or-reset-included365finincludesd365finmdmd"></a><span data-ttu-id="20611-103">Отмена подписки, удаление или сброс [!INCLUDE[d365fin](includes/d365fin_md.md)]</span><span class="sxs-lookup"><span data-stu-id="20611-103">Unsubscribe, Remove, or Reset [!INCLUDE[d365fin](includes/d365fin_md.md)]</span></span>

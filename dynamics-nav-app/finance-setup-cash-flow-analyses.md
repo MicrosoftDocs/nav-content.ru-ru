@@ -3,7 +3,7 @@ title: "Настройка анализа движения денежных ср
 description: "Настройте диаграммы в ролевом центре счетов, чтобы анализировать движение денежных средств в своей организации, включая расходы и доходы, ликвидность и кассовые поступления за вычетом наличных платежей."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: money flow, expense and income, liquidity, cash receipts min
 ms.date: 06/02/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 2ffbda21896cce9af85390d077463c15d23e23bb
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6d95bc4a7fd926ffd58cf44a26b7dd26ac1af2a6
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setting-up-cash-flow-analysis"></a><span data-ttu-id="4c6c3-103">Настройка анализа движения денежных средств</span><span class="sxs-lookup"><span data-stu-id="4c6c3-103">Setting Up Cash Flow Analysis</span></span>

@@ -3,7 +3,7 @@ title: "Пошаговое руководство. Получение и скл�
 description: "В [!INCLUDE[d365fin](includes/d365fin_md.md)] входящие процессы по получению и размещению могут быть выполнены четырьмя способами при помощи различных функций в зависимости от уровня сложности склада."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 0a540f5813ed67ee62e43390d6d11b7c3a137f13
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 911b93b922b2e8ec8590e69d68503d8a54ee41f9
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="walkthrough-receiving-and-putting-away-in-basic-warehouse-configurations"></a><span data-ttu-id="f70f0-103">Пошаговое руководство. Получение и складирование в основных складских конфигурациях</span><span class="sxs-lookup"><span data-stu-id="f70f0-103">Walkthrough: Receiving and Putting Away in Basic Warehouse Configurations</span></span>

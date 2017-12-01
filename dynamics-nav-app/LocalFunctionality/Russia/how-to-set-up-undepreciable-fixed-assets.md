@@ -3,7 +3,7 @@ title: "Практическое руководство. Настройка ма
 description: "Создайте или выберите карточку для основного средства, стоимость которого требуется списать. Ниже показано, как открыть карточку основного средства."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 5a16058b1f266b902a8ff0dfde6aeaaaaf326dec
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2115de532f896b8ae677110ecd743293e4c139de
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-undepreciable-fixed-assets"></a><span data-ttu-id="08d8d-104">Практическое руководство. Настройка малоценных основных средств</span><span class="sxs-lookup"><span data-stu-id="08d8d-104">How to: Set Up Undepreciable Fixed Assets</span></span>

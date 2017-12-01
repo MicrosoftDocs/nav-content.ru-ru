@@ -4,7 +4,7 @@ description: "Описываются общие функции, которые �
 services: 
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.workload: na
 ms.date: 05/29/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 70fb85532bbdf431f8ab58580f4265d5ecd18dbf
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: eeac344be1e4e82733f310cdea26539f3dfb64ce
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="working-with-included365finincludesd365finlongmdmd"></a><span data-ttu-id="fc6ee-103">Работа с [!INCLUDE[d365fin](includes/d365fin_long_md.md)]</span><span class="sxs-lookup"><span data-stu-id="fc6ee-103">Working with [!INCLUDE[d365fin](includes/d365fin_long_md.md)]</span></span>

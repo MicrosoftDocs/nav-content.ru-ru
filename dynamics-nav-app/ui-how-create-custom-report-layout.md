@@ -3,7 +3,7 @@ title: "Создание и изменение пользовательских 
 description: "Узнайте, как создать собственные пользовательские макеты, с помощью которых можно персонализировать внешний вид отчета при его просмотре, печати или сохранении."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.date: 03/29/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: ee614c44a17873591916bc97bd9b2a3f33fce21b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a90fdad122508f93746ef44c2e0eb700b2dcdf6c
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-and-modify-a-custom-report-or-document-layout"></a><span data-ttu-id="d6541-103">Практическое руководство. Создание и изменение пользовательского макета отчета или документа</span><span class="sxs-lookup"><span data-stu-id="d6541-103">How to: Create and Modify a Custom Report or Document Layout</span></span>

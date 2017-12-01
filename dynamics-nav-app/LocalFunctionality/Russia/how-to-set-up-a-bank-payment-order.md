@@ -3,7 +3,7 @@ title: "Практическое руководство. Настройка пл
 description: "Платежные поручения используются для банковских платежей в государственный бюджет. Чтобы использовать платежное поручение, необходимо создать шаблон финансового журнала, как описано в следующей процедуре."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 2e16332b999e0eb29a984fbff28011d592bc149d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: db596a0e5f754bfad677ee2034a8b7f4c875c987
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-a-bank-payment-order"></a><span data-ttu-id="4aa31-104">Практическое руководство. Настройка платежного поручения</span><span class="sxs-lookup"><span data-stu-id="4aa31-104">How to: Set Up a Bank Payment Order</span></span>

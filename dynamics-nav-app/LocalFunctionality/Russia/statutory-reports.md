@@ -3,7 +3,7 @@ title: "Регламентные отчеты"
 description: "Расширения для России позволяют настроить регламентные отчеты, чтобы можно было импортировать и экспортировать данные для электронной налоговой отчетности и других требуемых документов."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 9c4d18ab2b216aa76269c09882a9558cc2837544
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c49905236674beb46f9bc18f0e1f526e8ede3393
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="statutory-reports"></a><span data-ttu-id="92498-103">Регламентные отчеты</span><span class="sxs-lookup"><span data-stu-id="92498-103">Statutory Reports</span></span>

@@ -3,7 +3,7 @@ title: "Сведения о проектировании — операции н
 description: "Документация содержит подробные технические сведения о концепциях и принципах, используемых для перегруппировки функции хранения и учета операций измерения."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: design, dimensions, codeunit
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 8c285ae7af2fd6590f67e721c4e824f168528776
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6b34fde01e35cdd3178a28a787397f52a43eefab
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-dimension-set-entries"></a><span data-ttu-id="b6860-103">Сведения о проектировании: операции набора измерений</span><span class="sxs-lookup"><span data-stu-id="b6860-103">Design Details: Dimension Set Entries</span></span>

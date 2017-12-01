@@ -3,7 +3,7 @@ title: "Практическое руководство. Определение 
 description: "Налоговые регистры служат для отслеживания и управления налогооблагаемыми прибылями и убытками в соответствии с российскими принципами налогового учета. В окне **Карточка налогового регистра** можно определить порядок расчета налогооблагаемых прибылей и убытков, а также записи результатов, в налоговых регистрах."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 92c3a796a7f173e063484b39226ec98e2a2ffa5f
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: dc6715e691c9a7bc74de833d631c1b894ef3e359
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-define-tax-registers"></a><span data-ttu-id="62f29-104">Практическое руководство. Определение налоговых регистров</span><span class="sxs-lookup"><span data-stu-id="62f29-104">How to: Define Tax Registers</span></span>

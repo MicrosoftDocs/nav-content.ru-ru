@@ -3,7 +3,7 @@ title: "Акты обязательств по товару"
 description: "Функция актов обязательств по товару позволяет печатать отчеты обязательств, используемые для материальных и производственных ресурсов фирмы."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 0544b9a7cfb2898f899ff8d8a0e899548a96bd98
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c5d6750d1317ba897bd4d729b9cfb31e1756c8e4
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="item-obligatory-acts"></a><span data-ttu-id="04103-103">Акты обязательств по товару</span><span class="sxs-lookup"><span data-stu-id="04103-103">Item Obligatory Acts</span></span>

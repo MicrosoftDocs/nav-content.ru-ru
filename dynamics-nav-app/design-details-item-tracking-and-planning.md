@@ -3,7 +3,7 @@ title: "Сведения о проектировании — применени�
 description: "В этом разделе описывается, как производится применение товара при учете складской транзакции."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: design, item, item ledger, costing
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: aed440d81d1ada23e40fcd1b320945fdeefb16db
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 8a18b5261befd356f904991cf527bb3787a0d05f
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-item-application"></a><span data-ttu-id="c29ee-103">Сведения о проектировании: применение товара</span><span class="sxs-lookup"><span data-stu-id="c29ee-103">Design Details: Item Application</span></span>

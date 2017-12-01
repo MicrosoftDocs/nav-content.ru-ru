@@ -3,7 +3,7 @@ title: "Пошаговые руководства по бизнес-процес
 description: "В этом сборнике пошаговых руководств представлены поэтапные комплексные бизнес-процессы, которые можно выполнять с помощью демонстрационной организации CRONUS International Ltd. Пошаговые руководства состоят из нескольких процедур, некоторые из которых обычно выполняются одним пользователем, а другие включают в себя несколько других ролей пользователей. Чтобы сымитировать рабочую среду, некоторые пошаговые руководства содержат шаги настройки, необходимые для выполнения упражнений в описанном порядке. Эти этапы могут обеспечить понимание типов информации, которую пользователи должны предоставить ИТ-специалистам в своей организации."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9f919af2c738c0fef2d9333bf04126cc614ebd48
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 29c4f4647c2ddd6aad079f006cdbe4bf480c2e9c
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="business-process-walkthroughs"></a><span data-ttu-id="f2eda-106">Пошаговые руководства по бизнес-процессам</span><span class="sxs-lookup"><span data-stu-id="f2eda-106">Business Process Walkthroughs</span></span>

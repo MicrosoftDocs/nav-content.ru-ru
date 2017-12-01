@@ -3,7 +3,7 @@ title: "Поля карточки клиента и карточки поста�
 description: "Окна **Карточка клиента** и **Карточка поставщика** включают несколько дополнительных полей. Поле **Код банка по умолчанию** было добавлено на экспресс-вкладку **Платежи** на обеих карточках."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: a7484269bf01a823d479110a278db986b47a9eb6
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: dfb4accaf5964cd25c0bc39c69620b9f9747197d
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="customer-card-and-vendor-card-fields"></a><span data-ttu-id="a7748-104">Поля карточки клиента и карточки поставщика</span><span class="sxs-lookup"><span data-stu-id="a7748-104">Customer Card and Vendor Card Fields</span></span>

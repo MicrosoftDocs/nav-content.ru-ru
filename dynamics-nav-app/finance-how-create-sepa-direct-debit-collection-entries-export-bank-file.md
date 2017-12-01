@@ -2,7 +2,7 @@
 title: "Экспорт операций погашения прямого дебета SEPA"
 description: "Создайте операции сбора платежей с помощью прямого, которые содержат информацию о банковском счете клиента, соответствующих счетах продажи и поручении прямого дебетования."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 68ae93fe5a71758b4f5b7eeaedd52f11721faaf9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 5595bc28cc41f82b5e59380de855f184e86f2272
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-sepa-direct-debit-collection-entries-and-export-to-a-bank-file"></a><span data-ttu-id="5f9ab-103">Практическое руководство. Создание операций погашения прямого дебета SEPA и их экспорт в файл банка</span><span class="sxs-lookup"><span data-stu-id="5f9ab-103">How to: Create SEPA Direct Debit Collection Entries and Export to a Bank File</span></span>

@@ -3,7 +3,7 @@ title: "Настройка финансовых процессов"
 description: "Узнайте о задачах по настройке финансов для своего бизнеса в соответствии требованиями учет и аудита."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: accounting, auditing, bookkeeping
 ms.date: 08/10/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: f3d7c01b079b6af60505fc232faf0d9c5ac393cd
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 143dd90252246a5fda2663102d8dc0ee08ff3231
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setting-up-finance"></a><span data-ttu-id="b22c6-103">Настройка финансов</span><span class="sxs-lookup"><span data-stu-id="b22c6-103">Setting Up Finance</span></span>

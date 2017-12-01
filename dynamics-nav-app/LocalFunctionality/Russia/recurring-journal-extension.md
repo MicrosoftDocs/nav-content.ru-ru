@@ -3,7 +3,7 @@ title: "Расширение типового журнала"
 description: "Функция расширения типового журнала позволяет ввести строку типового журнала."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: fd239694a53cb733667966ac72153e50fe2464c9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: cbc707b5860b6c928ca70f4041f8c1f03b43bdb8
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="recurring-journal-extension"></a><span data-ttu-id="66245-103">Расширение типового журнала</span><span class="sxs-lookup"><span data-stu-id="66245-103">Recurring Journal Extension</span></span>

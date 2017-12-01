@@ -3,7 +3,7 @@ title: "Практическое руководство. Создание код
 description: "В счетах должен указываться код типа операции НДС. Коды типов операций НДС основаны на списке, определенном законодательством. Некоторым типам документов, например корректирующим счетам, соответствует несколько кодов из списка."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: b69d1494a0177e7da3e33ca533db32dd200ed794
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 969d45417f1c119c354a62464a4cd11990271b69
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-vat-entry-codes"></a><span data-ttu-id="a5615-105">Практическое руководство. Создание кодов операций НДС</span><span class="sxs-lookup"><span data-stu-id="a5615-105">How to: Create VAT Entry Codes</span></span>

@@ -3,7 +3,7 @@ title: "Создание заказа продажи и продажа прод�
 description: "Описывается порядок создания заказа на продажу для записи вашего соглашения с клиентом на продажу продукции или торговлю ею на определенных условиях."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: trade
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 1371f7a1d1e5b5c9bd0add845d37e194db86218d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f07d814306227600ab9f6eacc620d58d6b13974c
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-sell-products"></a><span data-ttu-id="9a0e1-103">Практическое руководство. Продажа продукции</span><span class="sxs-lookup"><span data-stu-id="9a0e1-103">How to: Sell Products</span></span>

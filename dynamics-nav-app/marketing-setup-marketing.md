@@ -3,7 +3,7 @@ title: "Настройка маркетинга и информации для �
 description: "Вы можете настроить управление маркетингом и контактами в Dynamics NAV для оптимизации отношений с потенциальными и текущими клиентами и повышения качества кампаний и рекламных акций."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect, client, customer, campaign, promo
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9ff95940c7418bf7cc1265eb128e0c9ccf4fb6c4
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 206fb640f74fbfbcd9948be3d383ed0e50f08d62
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setting-up-relationship-management"></a><span data-ttu-id="75244-103">Настройка управления отношениями</span><span class="sxs-lookup"><span data-stu-id="75244-103">Setting Up Relationship Management</span></span>

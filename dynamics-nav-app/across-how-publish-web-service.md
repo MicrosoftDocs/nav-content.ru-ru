@@ -2,7 +2,7 @@
 title: "Предоставление объектов как веб-службы"
 description: "При публикации объектов [!INCLUDE[d365fin](includes/d365fin_md.md)] в виде веб-служб они сразу же становятся доступными по сети."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/01/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7c2bb65caeed819088382f811eb179eaeda35a7c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 177eb9ca4219a33ce8e4bbdbcd1c53a8b0a4b998
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-publish-a-web-service"></a><span data-ttu-id="177b0-103">Практическое руководство. Публикация веб-службы</span><span class="sxs-lookup"><span data-stu-id="177b0-103">How to: Publish a Web Service</span></span>

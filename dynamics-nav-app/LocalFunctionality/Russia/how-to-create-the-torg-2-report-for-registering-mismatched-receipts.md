@@ -3,7 +3,7 @@ title: "Практическое руководство. Создание отч
 description: "Отчет ТОРГ-2 служит для документирования расхождений, если товары были получены, но не импортированы."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 3d5627607b6718958ce201e560f87d0fee0fe2d0
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 465cfde7cd39ba1f6cc2d236a11f827d832eb426
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-the-torg-2-report-for-registering-mismatched-receipts"></a><span data-ttu-id="817a7-103">Практическое руководство. Создание отчета ТОРГ-2 для регистрации несопоставленных накладных</span><span class="sxs-lookup"><span data-stu-id="817a7-103">How to: Create the TORG-2 Report for Registering Mismatched Receipts</span></span>

@@ -3,7 +3,7 @@ title: "Настройка организационных уровней для 
 description: "В можете определить организационный уровень и назначить его контакту, чтобы указать положение, которое они занимают в организации, например относятся к высшему руководству."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, client, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fe8554f0335ef332fc940d020c3f8441d8e1359d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2fd09b52cca310cfe50a91def59dc373c22603ee
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-organizational-levels-for-contact-persons"></a><span data-ttu-id="27fff-103">Практическое руководство. Настройка организационных уровней для контактных лиц</span><span class="sxs-lookup"><span data-stu-id="27fff-103">How to: Set Up Organizational Levels for Contact Persons</span></span>

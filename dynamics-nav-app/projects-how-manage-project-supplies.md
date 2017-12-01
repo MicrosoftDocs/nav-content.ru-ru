@@ -3,7 +3,7 @@ title: "Покупка товаров или услуг для работы и �
 description: "Описывается, как управлять запасами и закупками материалов и услуг для работ."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: project management, material, purchase
 ms.date: 06/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3405af0c06df0fb04c528cf114d4ef6326f7c0a9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c12690698eb21523a395e05b5fe91a9846dec0f0
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-manage-job-supplies"></a><span data-ttu-id="8a7d8-103">Практическое руководство. Управление запасами для работы</span><span class="sxs-lookup"><span data-stu-id="8a7d8-103">How to: Manage Job Supplies</span></span>

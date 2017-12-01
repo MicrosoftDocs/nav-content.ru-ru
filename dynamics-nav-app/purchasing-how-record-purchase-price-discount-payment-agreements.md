@@ -3,7 +3,7 @@ title: "Настройка специальных и альтернативны�
 description: "Вы можете задать соглашения об альтернативных ценах и скидках и применять их к документам покупки для поставщиков."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: special price, alternate price, pricing
 ms.date: 07/03/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: cc4240ea4201bd68b3c2c9c27ab91dc49583e6a6
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: ea66ef594dfc9637cc6e187d71b2d3d31b299306
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-record-special-purchase-prices-and-discounts"></a><span data-ttu-id="f25f5-103">Практическое руководство. Регистрация специальных цен покупки и скидок</span><span class="sxs-lookup"><span data-stu-id="f25f5-103">How to: Record Special Purchase Prices and Discounts</span></span>

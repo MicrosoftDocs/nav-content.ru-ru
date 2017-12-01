@@ -3,7 +3,7 @@ title: "Практическое руководство. Настройка се
 description: "Можно создать новую секцию налогового регистра или выбрать секцию налогового регистра, которая будет использоваться в организации в текущем налоговом периоде. Можно выбрать секцию налогового регистра, действовавшую в одном из предыдущих налоговых периодов и просмотреть налоговую информацию за любой из периодов. Имеется возможность копирования налоговых регистров из одной секции налоговых регистров в другую. Это позволяет настраивать налоговые регистры и отлаживать алгоритм сбора информации в налоговые регистры."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 37333027135aa45a6cf26d2b0de90e84bed96778
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 131ecd888320dca02134da0f1ebab3c68198e993
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-tax-register-sections"></a><span data-ttu-id="9b3ea-106">Практическое руководство. Настройка секций налогового регистра</span><span class="sxs-lookup"><span data-stu-id="9b3ea-106">How to: Set Up Tax Register Sections</span></span>

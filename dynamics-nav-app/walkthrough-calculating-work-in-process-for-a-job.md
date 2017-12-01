@@ -3,7 +3,7 @@ title: "Пошаговое руководство — вычисление не�
 description: "С помощью работ можно планировать использование ресурсов организации и отслеживать различные затраты, связанные с использованием ресурсов в конкретном проекте. В приложении \"Работы\" учитывается использование человеко-часов, станко-часов, товаров в запасах и других типов потребления, которые необходимо отслеживать по мере выполнения работы."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ea0953192454302a83a9187cd6569905723fd150
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4345fe957a243f60f1ba70af8817471827c6b37d
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="walkthrough-calculating-work-in-process-for-a-job"></a><span data-ttu-id="67ffd-104">Пошаговое руководство. Вычисление незавершенного производства для задания</span><span class="sxs-lookup"><span data-stu-id="67ffd-104">Walkthrough: Calculating Work in Process for a Job</span></span>

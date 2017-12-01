@@ -3,7 +3,7 @@ title: "Включение платежей клиентов через служ
 description: "Облегчите клиентам оплату счетов, включив службы платежей."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: online payment
 ms.date: 07/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: f56df1759d375548b7415234c9b303a49e50687d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: ed26ab9e5f1f3c374a6dd15fbed5917720c3010b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-enable-customer-payments-through-payment-services"></a><span data-ttu-id="aae4c-103">Практическое руководство. Включение платежей клиентов через службу платежей</span><span class="sxs-lookup"><span data-stu-id="aae4c-103">How to: Enable Customer Payments Through Payment Services</span></span>

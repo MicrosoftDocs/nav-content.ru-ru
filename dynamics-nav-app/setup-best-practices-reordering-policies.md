@@ -3,7 +3,7 @@ title: "Рекомендации по настройке — политики п
 description: "Поле **Политика дозаказа** в карточках товара содержит четыре разных метода планирования, которые определяют способ взаимодействия отдельных параметров планирования."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b96fc662f741bd705e673f7d17b2467b4e6dc846
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 818c795c248a0a6b2d6450891cce6dcc3165e6a4
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setup-best-practices-reordering-policies"></a><span data-ttu-id="2c5e7-103">Рекомендации по настройке. Политики повторного заказа</span><span class="sxs-lookup"><span data-stu-id="2c5e7-103">Setup Best Practices: Reordering Policies</span></span>

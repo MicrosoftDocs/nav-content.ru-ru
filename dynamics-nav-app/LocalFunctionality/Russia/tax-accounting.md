@@ -3,7 +3,7 @@ title: "Налоговый Учет"
 description: "В [!INCLUDE[navnow](../../includes/navnow_md.md)] можно настроить и вести налоговые регистры для отслеживания подлежащих налогообложению прибылей и убытков."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: deae926bae1304fc9520fdc7f92da3ce109590c4
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c28b21296f83076d8c057d839e8dab4df8bee62b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="tax-accounting"></a><span data-ttu-id="e38dd-103">Налоговый Учет</span><span class="sxs-lookup"><span data-stu-id="e38dd-103">Tax Accounting</span></span>

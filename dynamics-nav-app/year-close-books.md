@@ -3,7 +3,7 @@ title: "Обзор задач по закрытию книг"
 description: "Узнайте о процессе закрытия книг за финансовый год или период, а также о том, что происходит после закрытия в конце года."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: year closing, close accounting period, close fiscal year, ba
 ms.date: 03/29/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d709f8bfb5da3a0ebf5b44f3246fa3ccaa69c77f
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6d3eebaea1686704cdd62ce071b0417e54931817
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="closing-the-books"></a><span data-ttu-id="59e73-103">Закрытие книг</span><span class="sxs-lookup"><span data-stu-id="59e73-103">Closing the Books</span></span>

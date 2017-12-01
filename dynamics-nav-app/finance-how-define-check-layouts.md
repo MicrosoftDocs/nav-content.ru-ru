@@ -3,7 +3,7 @@ title: "Определение макета чека"
 description: "Вы можете разрабатывать и печатать чеки в различных форматах, чтобы они соответствовали определенным стандартам."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: print check, customize
 ms.date: 06/15/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d99326be66bf16a4a756d9f78e11f9af37e11fbd
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a221dd67d4a5bc7cfcd04b73db6326911f7e6898
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-define-check-layouts"></a><span data-ttu-id="a6ca4-103">Практическое руководство. Определение макетов платежных документов</span><span class="sxs-lookup"><span data-stu-id="a6ca4-103">How to: Define Check Layouts</span></span>

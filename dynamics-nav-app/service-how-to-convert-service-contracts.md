@@ -2,7 +2,7 @@
 title: "Как преобразовывать сервисные контракты"
 description: "Так как средство изменения ставки НДС не может преобразовать сервисные контракты, эти контракты необходимо преобразовывать вручную. В этом разделе описывается несколько альтернативных методов, которые можно использовать для преобразования сервисного контракта."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 2ae15fef88b10072a5c1dffa8e2673fe9413dd27
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: fc17686ed96f43d63b75878bfb66bcb743065846
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-convert-service-contracts-that-include-vat-amounts"></a><span data-ttu-id="d8454-104">Практическое руководство. Преобразование сервисных контрактов, которые включают суммы НДС</span><span class="sxs-lookup"><span data-stu-id="d8454-104">How to: Convert Service Contracts that Include VAT Amounts</span></span>

@@ -3,7 +3,7 @@ title: "Как корректировать предоплаты"
 description: "Можно скорректировать заказ после учета счета на предоплату по данному заказу. Можно добавить новые строки в заказ после выставления счета на предоплату, после чего можно учесть другой счет на предоплату, но невозможно удалить строку из заказа после того, как по этой строке был выставлен счет на предоплату."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/04/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: c39223940880514f9a59eae96e88182e19db2b5e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 3bd8e6cfd4b0309d74340840e416979021a55393
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-correct-prepayments"></a><span data-ttu-id="6fda0-104">Практическое руководство. Корректировка предоплат</span><span class="sxs-lookup"><span data-stu-id="6fda0-104">How to: Correct Prepayments</span></span>

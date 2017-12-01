@@ -3,7 +3,7 @@ title: WorldPay Payments Standard
 description: "Содержатся сведения о расширении WorldPay Payments Standard."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 02/22/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e2c1056e159799ee1c33084bb60911c988efd5d0
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7ca59e474ca89b4d5dedd44905ad12b242e1da61
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="the-worldpay-payments-standard-extension-to-included365finincludesd365finlongmdmd"></a><span data-ttu-id="9a180-103">Расширение WorldPay Payments Standard для [!INCLUDE[d365fin](includes/d365fin_long_md.md)]</span><span class="sxs-lookup"><span data-stu-id="9a180-103">The WorldPay Payments Standard Extension to [!INCLUDE[d365fin](includes/d365fin_long_md.md)]</span></span>

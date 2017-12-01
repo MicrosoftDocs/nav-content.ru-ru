@@ -3,7 +3,7 @@ title: "Настройка карточки склада и определени
 description: "Вы создаете карточку склада для каждого места, где хранятся товары, например для склада или дистрибьюторского центра, а также настраиваете маршруты для перемещения товаров между складами."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: warehouse, distribution center
 ms.date: 06/02/2017
 ms.author: SorenGP
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ca48f5df7977328aec3cc6ba352eadb361144bcb
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2a0d35e11b6a0ee480cf0034c885157fe1de3916
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-locations"></a><span data-ttu-id="9c38b-103">Практическое руководство. Настройка складов</span><span class="sxs-lookup"><span data-stu-id="9c38b-103">How to: Set Up Locations</span></span>

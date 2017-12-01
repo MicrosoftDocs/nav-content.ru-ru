@@ -3,7 +3,7 @@ title: "Настройка учета затрат"
 description: "Перед началом работы с учетом затрат следует выполнить задачи настройки."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 911d14720f43ac8a6f18250ccd43e1e079bd9dfe
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 769b3df1e7b41f1acdd5d98cad8b267598d40369
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setting-up-cost-accounting"></a><span data-ttu-id="73df3-103">Настройка учета затрат</span><span class="sxs-lookup"><span data-stu-id="73df3-103">Setting Up Cost Accounting</span></span>

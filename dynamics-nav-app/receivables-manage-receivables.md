@@ -3,7 +3,7 @@ title: "Обзор задач управления расчетами с кли�
 description: "Описываются задачи по управлению дебиторской задолженностью и применению платежей к операциям книг клиентов и поставщиков."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: customer payment, debtor, balance due, AR
 ms.date: 08/10/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: b9a486d099a6a52bec6ac6b23c21a3c341c20b14
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 45e88d378075b930163e2ec1d4ca41b8b2df3905
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="managing-receivables"></a><span data-ttu-id="c4a01-103">Управление дебиторской задолженностью</span><span class="sxs-lookup"><span data-stu-id="c4a01-103">Managing Receivables</span></span>

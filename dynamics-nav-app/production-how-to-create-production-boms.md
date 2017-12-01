@@ -3,7 +3,7 @@ title: "Как создать новые спецификации"
 description: "Производственная спецификация содержит основные данные, которые описывают компоненты и узлы, используемые в производстве родительского товара. После создания производственного заказа для этого родительского товара его производственная спецификация определит расчет потребностей в материалах, как представлено в окне **Компоненты производственного заказа**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/05/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 122bc1fa0b259e4d80ad134b94abcdc4d2d96640
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 790a0fa6fb3fc023b6fc0580dd6ed124ccec092c
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-production-boms"></a><span data-ttu-id="eece1-104">Практическое руководство. Создание производственных спецификаций</span><span class="sxs-lookup"><span data-stu-id="eece1-104">How to: Create Production BOMs</span></span>

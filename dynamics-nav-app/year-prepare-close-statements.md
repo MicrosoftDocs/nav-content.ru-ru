@@ -7,12 +7,12 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.translationtype: HT
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 2943acdfca4580245d1210ce0d17526e357ca478
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 87df3ab10d2ca01bf2f4a12ddaf8b5323e43b549
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="prepare-closing-statements"></a><span data-ttu-id="0be51-102">Подготовьте ликвидационные отчеты</span><span class="sxs-lookup"><span data-stu-id="0be51-102">Prepare Closing Statements</span></span>

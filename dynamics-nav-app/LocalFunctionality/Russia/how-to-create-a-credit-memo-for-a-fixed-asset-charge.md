@@ -3,7 +3,7 @@ title: "Практическое руководство. Создание кре
 description: "Если необходимо исправить ошибку издержек основных средств в счете, можно учесть кредит-ноту для издержек основных средств."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: f6591a9d7d9938df6ca83313f557611420cc4310
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 0092ffeafe9851c8888f2ce84f4b600ca9101b63
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-a-credit-memo-for-a-fixed-asset-charge"></a><span data-ttu-id="8f40d-103">Практическое руководство. Создание кредит-ноты для издержек ОС</span><span class="sxs-lookup"><span data-stu-id="8f40d-103">How to: Create a Credit Memo for a Fixed Asset Charge</span></span>

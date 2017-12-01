@@ -3,7 +3,7 @@ title: "Определение отношения между типами зат
 description: "Узнайте, как определять отношение между типом себестоимости и счетом ГК."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: cost types, general ledger
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 6bedd251aad7f15f40a255e5b44c6080bbb73bdb
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: fcaeab6a164abf20011beec35ec004057098b360
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="defining-the-relationship-between-cost-types-and-general-ledger-accounts"></a><span data-ttu-id="c3e5b-103">Определение отношения между типами затрат и счетами главной книги.</span><span class="sxs-lookup"><span data-stu-id="c3e5b-103">Defining the Relationship Between Cost Types and General Ledger Accounts</span></span>

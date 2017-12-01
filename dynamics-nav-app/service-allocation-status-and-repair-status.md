@@ -3,7 +3,7 @@ title: "Статус распределения и ремонта"
 description: "Узнайте об отношениях между статусом ремонта сервисных товаров и статусом распределения операций распределения для них."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: resources, allocation, status, repairs
 ms.date: 08/28/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b57b237ea527ad7a163c0bd65cb08e8b285ef644
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 0393efaa35adf84aeb87a70e7a754fe445f9c186
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="allocation-status-and-repair-status-of-service-items"></a><span data-ttu-id="eec6f-103">Статус распределения и статус ремонта сервисных товаров</span><span class="sxs-lookup"><span data-stu-id="eec6f-103">Allocation Status and Repair Status of Service Items</span></span>

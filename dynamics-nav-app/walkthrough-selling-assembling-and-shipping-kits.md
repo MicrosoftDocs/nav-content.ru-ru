@@ -3,7 +3,7 @@ title: "Пошаговое руководство — продажа, сборк
 description: "Для обеспечения поддержки стратегии своевременного снабжения запасами и возможности настраивать продукцию согласно запросам клиента сборочные заказы могут быть автоматически созданы и связаны при создании строки заказа продажи. Связь между требованием продаж и поставкой сборки позволяет обработчикам заказов на продажу настраивать сборочный элемент и планировать даты доставки в соответствии с наличием компонентов. Кроме этого, потребление при сборке и выход автоматически учтены в с расходной накладной связанного заказа на продажу."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7cc4a50a981041d066e029da7e6a2666241e38eb
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: de99f1b69ba11bd4faca59a20bcd7b52c2f7ac8b
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="walkthrough-selling-assembling-and-shipping-kits"></a><span data-ttu-id="6e513-105">Пошаговое руководство: продажа, сборка и отгрузка наборов</span><span class="sxs-lookup"><span data-stu-id="6e513-105">Walkthrough: Selling, Assembling, and Shipping Kits</span></span>

@@ -3,7 +3,7 @@ title: "Настройка групп рассылки для контактов
 description: "Вы можете использовать группы рассылки для идентификации групп контактов, которые должны получать одни и те же сведения, например в рамках маркетинговой кампании."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: marketing, campaign, promo, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: c7e79ff2b40ecbaa3cbeac926418702b70272d62
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 46ff274c15b709b0bef0feed449a45afda8ef26d
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-mailing-groups-for-contacts"></a><span data-ttu-id="f137f-103">Практическое руководство. Настройка групп рассылки для контактов</span><span class="sxs-lookup"><span data-stu-id="f137f-103">How to: Set Up Mailing Groups for Contacts</span></span>

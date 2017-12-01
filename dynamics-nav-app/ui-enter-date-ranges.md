@@ -3,7 +3,7 @@ title: "Установка диапазонов дат в Dynamics NAV"
 description: "Узнайте о том, как получить отчет с данными за определенные интервалы времени, используя для этого диапазоны дат в Dynamics NAV."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: dates, reporting, filter
 ms.date: 05/29/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 2619095e8b9e48068aa9d8790a9699b4c7ff05ec
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2773a1ce91ecd8e1216ffd9fdd5c3ceeb490e9e3
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="entering-date-ranges-in-dynamics-nav"></a><span data-ttu-id="85b5e-103">Ввод диапазонов дат в Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="85b5e-103">Entering Date Ranges in Dynamics NAV</span></span>

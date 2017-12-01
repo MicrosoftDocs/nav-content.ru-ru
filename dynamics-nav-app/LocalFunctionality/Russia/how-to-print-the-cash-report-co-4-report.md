@@ -3,7 +3,7 @@ title: "Практическое руководство. Печать отчет
 description: "Отчет **Кассовая книга КО-4** содержит унифицированную стандартную форму для кассиров с отчетом об одном дне работы счета кассы. Он обязателен и может печататься только для каждого дня."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 749a03aa833cbbe67c2a913243ee590d4bd4a7ef
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7d74f92046538de7df5dc56f8c6838936ad33641
 ms.contentlocale: ru-ru
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-print-the-cash-report-co-4-report"></a><span data-ttu-id="f4ae1-104">Практическое руководство. Печать отчета "Кассовая книга КО-4"</span><span class="sxs-lookup"><span data-stu-id="f4ae1-104">How to: Print the Cash Report CO-4 Report</span></span>
