@@ -3,7 +3,7 @@ title: "Обзор задач по настройке процессов про�
 description: "Описываются задачи по настройке правил и значений для определения политик и процессов продаж."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Корректирующие документы"
 description: "Если вы продаете или покупаете товары, а затем договариваетесь изменить цену или количество товара, вы должны выпустить корректирующий документ, в котором будут указаны новая цена или количество."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

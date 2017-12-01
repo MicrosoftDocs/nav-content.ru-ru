@@ -3,7 +3,7 @@ title: "Закрытие счетов отчета о прибылях и убы
 description: "При закрытии года вы должны выполнить пакетное задание \"Закрытие отчета о прибылях и убытках\", чтобы закрыть отчетные периоды, составляющие финансовый год."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Сведения о проектировании. Трассировка
 description: "В этом разделе рассматриваются отслеживание и резервирование товара, а также описываются концепции, лежащие в основе этих операций."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

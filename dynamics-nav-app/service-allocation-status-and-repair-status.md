@@ -3,7 +3,7 @@ title: "Статус распределения и ремонта"
 description: "Узнайте об отношениях между статусом ремонта сервисных товаров и статусом распределения операций распределения для них."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

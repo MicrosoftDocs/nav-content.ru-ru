@@ -3,7 +3,7 @@ title: "Использование общих функций в различны
 description: "Узнайте о функциях, которые доступны в различных деловых областях Dynamics NAV."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

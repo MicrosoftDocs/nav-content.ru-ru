@@ -3,7 +3,7 @@ title: "Настройка электронной почты"
 description: "Описывается, как использовать сервер SMTP организации для отправки и получения сообщений электронной почты в Dynamics NAV либо как использовать настройки сервера электронной почты, созданные в подписке Office 365."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

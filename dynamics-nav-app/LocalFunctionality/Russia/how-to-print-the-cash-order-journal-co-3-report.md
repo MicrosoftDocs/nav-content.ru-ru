@@ -3,7 +3,7 @@ title: "Практическое руководство. Печать отчет
 description: "Отчет **Журнал кассовых ордеров КО-3** печатает унифицированную стандартную форму (обычно ежемесячно)."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

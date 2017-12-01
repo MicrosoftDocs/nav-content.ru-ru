@@ -3,7 +3,7 @@ title: "Рекомендации по настройке — метод учет
 description: "**Метод учета себестоимости** в карточке товара определяет поток операций себестоимости товара, выполняется ли капитализация фактической или бюджетной стоимости, которая используется при расчете себестоимости."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

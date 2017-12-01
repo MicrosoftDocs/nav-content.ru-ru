@@ -3,7 +3,7 @@ title: "Создание карточки клиента для регистра
 description: "Описывается процедура создания карточки клиента для регистрации информации о каждом новом клиенте, которому вы что-либо продаете."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

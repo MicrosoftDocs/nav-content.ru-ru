@@ -3,7 +3,7 @@ title: "Обзор отчетов по предварительному закр
 description: "Содержит обзор отчетов, которые можно использовать для проверки правильности учета перед закрытием книг в конце года или периода."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

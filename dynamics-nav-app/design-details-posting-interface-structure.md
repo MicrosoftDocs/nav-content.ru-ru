@@ -3,7 +3,7 @@ title: "Сведения о проектировании — структура 
 description: "В этом разделе приведен обзор глобальных процедур в структуре интерфейса учета."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

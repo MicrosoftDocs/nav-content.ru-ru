@@ -2,7 +2,7 @@
 title: "Прямое дебетование SEPA в Dynamics NAV"
 description: "Можно собирать оплаты непосредственно из окна банковского счета клиента в соответствии с форматом SEPA."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

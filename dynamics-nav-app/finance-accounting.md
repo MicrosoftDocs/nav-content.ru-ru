@@ -2,7 +2,7 @@
 title: "Работа бухгалтера в Dynamics NAV"
 description: "Узнайте о портале бухгалтера для Dynamics NAV и ролевом центре бухгалтера, которые поддерживают работу внутренних и внешних бухгалтеров в организации клиента."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

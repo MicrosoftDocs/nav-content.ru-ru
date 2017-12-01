@@ -3,7 +3,7 @@ title: "Добавление строк для определения расши
 description: "Вы можете добавить строки, чтобы расширить стандартный текст описания товара."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

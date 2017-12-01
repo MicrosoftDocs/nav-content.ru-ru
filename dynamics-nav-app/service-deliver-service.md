@@ -3,7 +3,7 @@ title: "Обзор задач для предоставления услуг"
 description: "Описываются задачи, которые нужно настроить, чтобы предоставлять качественное обслуживание и выполнять условия соглашений с клиентами."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Методы амортизации"
 description: "В [!INCLUDE[navnow](../../includes/navnow_md.md)] есть три метода амортизации, доступных только в России."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

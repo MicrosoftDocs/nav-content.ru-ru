@@ -2,7 +2,7 @@
 title: "Создание источника данных Power BI с помощью вашего Dynamics NAV"
 description: "Можно сделать данные Dynamics NAV доступными в качестве источника данных в Power BI и создать мощные отчеты о состоянии вашего бизнеса."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

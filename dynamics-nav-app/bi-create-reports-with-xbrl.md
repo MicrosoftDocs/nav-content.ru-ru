@@ -3,7 +3,7 @@ title: "Как создавать отчеты с XBRL"
 description: "XBRL расшифровывается как eXtensible Business Reporting Language — расширяемый язык бизнес-отчетности. Это основанный на XML язык для разметки финансовых данных, помогающий эффективно и точно их обрабатывать, а также совместно их использовать."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Доходы и расходы будущих периодов"
 description: "Для признания доходов и расходов в периодах, отличных от периода, в котором транзакция была учтена, можно использовать функцию автоматического отнесения доходов и расходов по указанному графику."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

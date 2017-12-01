@@ -3,7 +3,7 @@ title: "Обзор задач управления кредиторской за
 description: "Описываются задачи управления кредиторской задолженностью, например, оплата кредиторам или применение исходящих платежей к операциями книг для закрытия счетов или кредит-нот."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

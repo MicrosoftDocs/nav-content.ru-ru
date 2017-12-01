@@ -3,7 +3,7 @@ title: "Настройка информации для контактов"
 description: "Описываются задачи для указания информации и кодов, например об отраслевых группах и деловых отношениях, перед настройкой контактов."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

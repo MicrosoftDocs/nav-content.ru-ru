@@ -2,7 +2,7 @@
 title: "Как изменить годовую сумму в сервисном контракте или в предложении по контракту"
 description: "Можно изменить сумму, на которую ежегодно будут выставляться счета по сервисным контрактам или предложениям по сервисным контрактам."
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Практическое руководство. Просмотр учт
 description: "Для каждого кода издержек ОС можно просмотреть все учтенные операции основных средств. Ниже показано, как просмотреть учтенные операции."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

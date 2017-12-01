@@ -3,7 +3,7 @@ title: "Создание и изменение пользовательских 
 description: "Узнайте, как создать собственные пользовательские макеты, с помощью которых можно персонализировать внешний вид отчета при его просмотре, печати или сохранении."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

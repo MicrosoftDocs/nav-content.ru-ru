@@ -3,7 +3,7 @@ title: "Сведения о проектировании — заказ"
 description: "В этом разделе приведены сведения о ссылках \"заказ-в-заказ\" в среде изготовления на заказ."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

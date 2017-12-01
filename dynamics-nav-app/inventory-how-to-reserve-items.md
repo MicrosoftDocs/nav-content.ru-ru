@@ -3,7 +3,7 @@ title: "Как резервировать товары"
 description: "Можно резервировать товары для заказов на продажу, заказов на покупку и производственных заказов. Можно зарезервировать товары на складе или входящие товары в открытых строках документа."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

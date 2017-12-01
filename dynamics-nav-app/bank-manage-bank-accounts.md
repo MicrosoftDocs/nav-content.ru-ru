@@ -3,7 +3,7 @@ title: "Управление банковскими счетами."
 description: "Вы должны регулярно выверять операции банковских книг в Dynamics NAV с соответствующими банковскими транзакциями на банковских счетах."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

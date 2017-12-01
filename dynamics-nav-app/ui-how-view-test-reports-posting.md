@@ -3,7 +3,7 @@ title: "Просмотр тестового отчета перед учетом
 description: "Перед учетом документа, например заказа или кредит-ноты, вы можете проверить и просмотреть его, чтобы устранить ошибки, которые могут препятствовать учету."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

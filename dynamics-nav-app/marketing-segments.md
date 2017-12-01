@@ -3,7 +3,7 @@ title: "Управление сегментами и выбор контакто
 description: "Описываются задачи по созданию сегмента для выбора группы контактов по определенному критерию, например по определенной отрасли, с которой вы хотите взаимодействовать."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

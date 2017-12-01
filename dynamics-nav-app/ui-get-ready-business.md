@@ -3,7 +3,7 @@ title: "Добро пожаловать"
 description: "Описывает руководства по сопровождаемой настройке, видео, разделы и страницы справки и окна, помогающие подготовиться к ведению бизнеса в Dynamics NAV."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

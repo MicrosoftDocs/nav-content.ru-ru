@@ -3,7 +3,7 @@ title: "Как собирать товары"
 description: "Если поле **Метод пополнения** в карточке товара содержит значение **Сборка**, то метод сбора поставки товара по умолчанию — по определенным компонентам, а также может быть по конкретному ресурсу."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

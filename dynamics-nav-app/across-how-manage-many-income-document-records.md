@@ -3,7 +3,7 @@ title: "Определение входящих документов, котор
 description: "Корректируйте представление по умолчанию для входящих документов, например для электронных счетов, чтобы иметь лучшее представление обработанных и необработанных записей."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

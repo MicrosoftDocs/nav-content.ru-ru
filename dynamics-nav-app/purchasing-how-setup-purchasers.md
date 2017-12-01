@@ -3,7 +3,7 @@ title: "Настройка менеджеров по закупкам и их н
 description: "Если несколько менеджеров по закупкам или агентов по закупкам работают в организации, можно систематизировать их в целях проведения статистического анализа."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

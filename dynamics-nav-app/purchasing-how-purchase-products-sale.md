@@ -3,7 +3,7 @@ title: "Создание счета покупки из счета продаж�
 description: "Из счета продажи для покупки продуктов вы можете создать счет покупки для поставщика."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

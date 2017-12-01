@@ -3,7 +3,7 @@ title: "Практическое руководство. Настройка ра
 description: "Чтобы амортизировать расходы будущих периодов, следует настроить расходы будущих периодов в книге амортизации."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

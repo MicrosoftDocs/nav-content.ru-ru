@@ -3,7 +3,7 @@ title: "Управление клиентами с помощью Dynamics 365 f
 description: "Dynamics 365 for Sales можно использовать из Dynamics NAV для сопоставления данных и интеграции и синхронизации на всех этапах процесса от интереса до получения денег."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

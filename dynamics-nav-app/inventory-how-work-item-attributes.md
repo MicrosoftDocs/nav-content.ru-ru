@@ -3,7 +3,7 @@ title: "Настройка атрибутов товаров и назначен
 description: "Описывается порядок настройки значений атрибутов товаров, которые, например, можно использовать как поисковые слова, а также присваивать товарам и товарным категориям."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Управление мелкими доходами/расходами"
 description: "Функция управления мелкими доходами/расходами позволяет создавать несколько карточек счетов кассы, создавать документы приходных и расходных кассовых ордеров и тому подобное."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

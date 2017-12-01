@@ -2,7 +2,7 @@
 title: "Применение и изменение сохраненных параметров в отчетах"
 description: "Описывается использование заранее определенных параметров и фильтров для настройки отчета и формирования правильных данных."
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

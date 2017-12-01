@@ -2,7 +2,7 @@
 title: "Назначение прав доступа пользователям и создание и изменение наборов разрешений"
 description: "Описывает порядок добавления пользователей Office 365 в Dynamics NAV и назначения им разрешений, прав доступа и параметров безопасности."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

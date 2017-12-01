@@ -3,7 +3,7 @@ title: "Практическое руководство. Настройка ре
 description: "Налоговые органы Российской Федерации требуют от организаций подачи регламентных отчетов в электронных форматах, например в формате XML или Microsoft Excel. В [!INCLUDE[navnow](../../includes/navnow_md.md)] необходимо настроить шаблоны, форматы, XML-схемы и другие параметры, чтобы вы могли формировать нужные файлы."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

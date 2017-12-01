@@ -3,7 +3,7 @@ title: "Управление возможностями продаж и инте
 description: "Описывается управление входящими интересами и возможностями продаж в Dynamics NAV, а также связыванием возможностей с менеджерами по продажам для отслеживания потенциальных продаж."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Сведения о об учете документов покупки"
 description: "Узнайте о различных функциях учета документов покупки."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

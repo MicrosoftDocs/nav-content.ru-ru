@@ -3,7 +3,7 @@ title: "Бизнес-аналитика"
 description: "Фиксируйте и анализируйте бизнес-данные, например цифры продаж, покупок, текущих расходов, оплаты труда сотрудников и бюджеты, которые могут представлять собой ценную информацию для бизнес-аналитики и принятия решений."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

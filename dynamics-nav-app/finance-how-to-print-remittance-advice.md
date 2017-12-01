@@ -3,7 +3,7 @@ title: "Практическое руководство. Печать подск
 description: "Ваши поставщики также могут выполнять выверку путем печати подсказки по переводу перед учетом журнала платежей, а также после учета платежа."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

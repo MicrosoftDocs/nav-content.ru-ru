@@ -3,7 +3,7 @@ title: "Расширение финансового журнала"
 description: "Функция расширения финансового журнала позволяет заполнять строки журнала на карточке и просматривать учтенные строки журнала."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

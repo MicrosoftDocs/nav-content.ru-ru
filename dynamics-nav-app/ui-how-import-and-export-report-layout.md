@@ -3,7 +3,7 @@ title: "Импорт и экспорт макета отчета и докуме
 description: "Можно импортировать и экспортировать существующий пользовательский макет отчета в виде файла в расположении на компьютере или в сети."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Обработка входящих и исходящих межфирм
 description: "Межфирменные транзакции, получаемые от межфирменных партнеров, отображаются в списке во входящем межфирменном ящике, где их можно обрабатывать вручную или автоматически."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Реклассификация основных средств"
 description: "Вы выполняете реклассификацию основных средств для их перемещения в другие отделы, разделения или объединения с другими основными средствами."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

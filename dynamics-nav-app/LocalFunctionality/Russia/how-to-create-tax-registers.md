@@ -3,7 +3,7 @@ title: "Практическое руководство. Создание нал
 description: "В следующей процедуре показан порядок создания налоговых регистров."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

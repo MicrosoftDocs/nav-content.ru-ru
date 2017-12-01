@@ -2,7 +2,7 @@
 title: "Как вводить данные в поля"
 description: "Имеется много общих функций, помогающих быстро и просто вводить данные. Все общие функции ввода данных описаны в этом разделе."
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

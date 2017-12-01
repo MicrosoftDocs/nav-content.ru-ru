@@ -3,7 +3,7 @@ title: "Сведения о проектировании — обработка 
 description: "Обзор задач для определения политики повтора заказа при планировании поставок."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

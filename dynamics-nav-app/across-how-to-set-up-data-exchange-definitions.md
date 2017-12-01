@@ -2,7 +2,7 @@
 title: "Определение порядка электронного обмена данными"
 description: "Можно использовать внешнего поставщика служб OCR для преобразования PDF-файлов или файлов изображений в электронные документы."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

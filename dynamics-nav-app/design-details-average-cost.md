@@ -2,7 +2,7 @@
 title: "Сведения о проектировании — средняя себестоимость"
 description: "Средняя стоимость товара вычисляется с периодическим средневзвешенным с учетом среднего периода учета стоимости, задаваемого в Dynamics NAV."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

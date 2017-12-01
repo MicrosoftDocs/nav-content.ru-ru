@@ -2,7 +2,7 @@
 title: "Подача отчетов об НДС в налоговые органы"
 description: "Узнайте, как подготовить отчеты по НДС с продаж за указанный период или с продаж и покупок, и подать этот отчет в налоговый орган."
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

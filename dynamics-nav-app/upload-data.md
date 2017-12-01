@@ -2,7 +2,7 @@
 title: "Импорт прошлых бизнес-данных в Dynamics NAV"
 description: "Вы можете перенести данные по клиентам, поставщикам и запасам, например из Excel, QuickBooks или Dynamics GP, в Dynamics NAV."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

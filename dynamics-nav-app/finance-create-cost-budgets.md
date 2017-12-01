@@ -3,7 +3,7 @@ title: "Создание бюджетов затрат"
 description: "В этом разделе приводится обзор того, где можно создавать и анализировать бюджеты затрат."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

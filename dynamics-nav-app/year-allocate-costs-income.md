@@ -3,7 +3,7 @@ title: "Обзор задач по распределению затрат и д
 description: "Описание задач по распределению операции финансового журнала по нескольким разным счетам при учете журнала."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

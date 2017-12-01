@@ -3,7 +3,7 @@ title: "Как работать с центрами ответственност
 description: "Центры ответственности позволяют обслуживать центры администрирования. Центр ответственности может быть центром затрат, центром прибыли, центром инвестиций или другим определенным организацией центром."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

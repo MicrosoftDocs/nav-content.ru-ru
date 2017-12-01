@@ -3,7 +3,7 @@ title: "Использование финансовых журналов для 
 description: "Узнайте об использовании финансовых журналов для учета финансовых транзакций на счетах главной книги и других счетах, таких как банковские счета и счета поставщиков."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

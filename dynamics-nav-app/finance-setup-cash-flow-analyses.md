@@ -3,7 +3,7 @@ title: "Настройка анализа движения денежных ср
 description: "Настройте диаграммы в ролевом центре счетов, чтобы анализировать движение денежных средств в своей организации, включая расходы и доходы, ликвидность и кассовые поступления за вычетом наличных платежей."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

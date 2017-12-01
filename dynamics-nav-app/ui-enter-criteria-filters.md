@@ -3,7 +3,7 @@ title: "Поиск данных и ввод критериев фильтра"
 description: "Описывается порядок работы с фильтрами, например с быстрым фильтром, для уточнения результатов поиска данных."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

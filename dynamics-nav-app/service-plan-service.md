@@ -3,7 +3,7 @@ title: "Планирование сервисных процессов"
 description: "Описываются задачи по настройке правил и значений для определения политик и процессов сервиса."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

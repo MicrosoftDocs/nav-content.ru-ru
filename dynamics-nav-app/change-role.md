@@ -3,7 +3,7 @@ title: "Изменение ролевого центра"
 description: "Вы можете выбрать другой профиль в Dynamics NAV, чтобы изменить содержимое начальной страницы."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

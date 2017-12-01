@@ -3,7 +3,7 @@ title: "Сведения о проектировании — отправка п
 description: "Для сортировки многочисленных источников спроса и предложения система планирования организует их в два временных ряда, которые называются профилями склада."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

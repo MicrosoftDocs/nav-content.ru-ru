@@ -3,7 +3,7 @@ title: "Как создавать содержимое ячейки"
 description: "После настройки ячеек можно настроить содержимое ячеек. Другими словами, можно задавать товары, которые предполагается хранить в каждой конкретной ячейке, и правила заполнения ячейки конкретным товаром."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

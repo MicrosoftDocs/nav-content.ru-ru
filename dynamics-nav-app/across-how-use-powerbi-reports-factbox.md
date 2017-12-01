@@ -3,7 +3,7 @@ title: "Отображение пользовательских отчетов P
 description: "Можно использовать отчеты Power B для сбора дополнительных сведений о данных в списках в Dynamics NAV."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Как создавать книги НДС"
 description: "Можно создать и хранить любое число книг НДС, например для различных групп клиентов, для дополнительных книг продаж для разницы суммы и предоплаты, а также книги совместных продаж для компании в целом."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

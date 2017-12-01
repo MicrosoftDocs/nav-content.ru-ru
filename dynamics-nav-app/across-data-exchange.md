@@ -2,7 +2,7 @@
 title: "Электронные документы в Dynamics NAV"
 description: "Введение в отправку и получение электронных документов в [!INCLUDE[d365fin](includes/d365fin_md.md)]."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Настройка предлагаемых значений полей"
 description: "Чтобы избежать ручных подсчетов и быстро и точно выполнять задачи, вы можете настроить автоматический ввод данных, чтобы программа Dynamics NAV заполняла выбранные поля."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

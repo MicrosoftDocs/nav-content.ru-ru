@@ -3,7 +3,7 @@ title: "Как настраивать договора с клиентами и 
 description: "Функция договоров с клиентами и поставщиками предоставляет список договоров для клиентов и поставщиков, карточку договора, в которой хранятся все необходимые сведения о договорах, и т. п."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

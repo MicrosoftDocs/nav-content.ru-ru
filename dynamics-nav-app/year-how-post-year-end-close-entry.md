@@ -3,7 +3,7 @@ title: "Проверка и учет операции закрытия года"
 description: "Описывается порядок открытия журнала, указанного в пакетном задании \"Закрытие отчета о прибылях и убытках\", и проверки и учета операции закрытия года."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

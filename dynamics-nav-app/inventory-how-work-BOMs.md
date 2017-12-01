@@ -3,7 +3,7 @@ title: "Работа со спецификациями для управлени
 description: "Сборочная спецификация или производственная спецификация создается для указания компонентов или ресурсов, требуемых для создания товара, который представляет спецификация."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

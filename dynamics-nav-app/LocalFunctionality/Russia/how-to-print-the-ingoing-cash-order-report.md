@@ -3,7 +3,7 @@ title: "Практическое руководство. Печать отчет
 description: "Отчет **Прих. Кассовый Ордер КО-1** содержит форму приходных кассовых ордеров, которая является стандартным форматом, установленным российским законодательством в области бухгалтерского учета."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

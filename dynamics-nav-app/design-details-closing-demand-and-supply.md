@@ -3,7 +3,7 @@ title: "Сведения о проектировании — закрытие с
 description: "В этом разделе приведены предложения по тому, что делать после выполнения процедур балансировки поставки."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

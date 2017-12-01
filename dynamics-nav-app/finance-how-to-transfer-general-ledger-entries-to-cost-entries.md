@@ -3,7 +3,7 @@ title: "Как переносить операции ГК в операции з
 description: "Можно перенести операции главной книги в операции затрат."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

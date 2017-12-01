@@ -3,7 +3,7 @@ title: "Сведения о проектировании — учет запас
 description: "Каждая складская транзакция, например приходная накладная покупки или расходная накладная, учитывает две операции различных типов."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: "Создание учетных периодов и финансовых лет"
 description: "Перед началом учета в финансовом году следует открыть его и определить учетные периоды."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

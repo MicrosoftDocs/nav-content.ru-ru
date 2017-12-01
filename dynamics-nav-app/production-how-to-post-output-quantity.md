@@ -3,7 +3,7 @@ title: "Как учитывать в пакетном режиме выпуск 
 description: "Количество выхода отражает выполнение работы в единицах завершенного количества."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

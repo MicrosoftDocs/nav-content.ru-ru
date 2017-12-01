@@ -3,7 +3,7 @@ title: "Как отменить учет сборки"
 description: "Иногда может возникнуть необходимость отменить учтенный сборочный заказ, например в случае учете заказа с ошибками, которые нужно исправить, или потому, что он вообще не должен был быть учтен, и его нужно откатить."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

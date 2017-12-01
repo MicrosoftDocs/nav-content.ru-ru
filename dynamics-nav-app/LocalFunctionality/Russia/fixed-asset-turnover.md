@@ -3,7 +3,7 @@ title: "Оборот основных средств"
 description: "Функция оборота основных средств позволяет отслеживать оборот основных средств или определенных групп основных средств, просматривать полезную информацию об основных средствах в одном месте и т. п."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

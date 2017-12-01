@@ -3,7 +3,7 @@ title: "Как настраивать центры затрат"
 description: "Места возникновения затрат — это подразделения, которые отвечают за затраты и доход. Диаграмма мест возникновения затрат аналогична информации об измерениях для главной книги."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

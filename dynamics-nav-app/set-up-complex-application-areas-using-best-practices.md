@@ -3,7 +3,7 @@ title: "Настройка сложных областей приложения 
 description: "Ввод правильных значений настройки с самого начала важен для успешной работы любого нового программного обеспечения для бизнеса."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

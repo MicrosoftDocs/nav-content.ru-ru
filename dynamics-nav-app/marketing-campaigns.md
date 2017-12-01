@@ -3,7 +3,7 @@ title: "Настройка маркетинговых кампаний в Dynami
 description: "Описывается, как можно настраивать и проводить маркетинговые кампании в Dynamics NAV, чтобы помочь выявить и привлечь потенциальных клиентов, а также сохранить существующих."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

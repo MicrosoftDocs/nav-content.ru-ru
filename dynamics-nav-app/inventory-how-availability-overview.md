@@ -3,7 +3,7 @@ title: "Обзор получения данных о наличии"
 description: "Вы можете получать информацию о доступности товаров по складам, событиям продажи или покупки, периоду времени или позиции товара в сборочной или производственной спецификации."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

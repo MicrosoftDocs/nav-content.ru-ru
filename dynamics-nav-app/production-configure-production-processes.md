@@ -3,7 +3,7 @@ title: "Настройка производственных процессов"
 description: "Чтобы преобразовать материалы в произведенные готовые товары, нужно настроить в системе такие производственные ресурсы, как спецификации, маршруты, операторы станков и механизмы."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Практическое руководство. Регистрация 
 description: "В России организации должны вести журнал НДС по входящим и исходящим счетам. [!INCLUDE[navnow](../../includes/navnow_md.md)] позволяет регистрировать НДС по заказам на покупку, чтобы эта информация отслеживалась в журнале счетов НДС."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

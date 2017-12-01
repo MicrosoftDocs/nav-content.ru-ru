@@ -3,7 +3,7 @@ title: "Необязательные действия для закрытия п
 description: "В этом разделе описываются необязательные процессы и действия по закрытию учетных периодов в Dynamics NAV."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

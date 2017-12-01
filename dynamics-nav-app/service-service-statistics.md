@@ -3,7 +3,7 @@ title: "Статистика сервиса"
 description: "Получите быстрый обзор содержимого сервисного документа, такого как заказы, предложения, счета или кредит-ноты, сведения по конкретным строкам сервиса и сервисным товарам."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

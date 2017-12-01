@@ -3,7 +3,7 @@ title: "Как настраивать клиентов, оплачивающих
 description: "В этом разделе описываются шаги для настройки клиента, который осуществляет оплату наличными."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

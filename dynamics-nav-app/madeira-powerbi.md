@@ -2,7 +2,7 @@
 title: "Dynamics NAV и пакеты содержимого Power BI"
 description: "Анализ данных, бизнес-аналитика и КПЭ на основе данных Dynamics NAV становятся проще благодаря пакетам содержимого Power BI и Dynamics NAV."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

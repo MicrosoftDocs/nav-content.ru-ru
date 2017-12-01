@@ -3,7 +3,7 @@ title: "Как выполнять переброску товаров"
 description: "Функциональность переброски товаров доступна, если для склада настроена обработка приемки и размещения."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

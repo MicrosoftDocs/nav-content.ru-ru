@@ -3,7 +3,7 @@ title: "Акт инвентаризации расчетов с клиентам
 description: "Функция \"Акт инвентаризации расчетов с клиентами и платежей\" позволяет выполнить инвентаризацию долгов и обязательств и напечатать отчеты в различных форматах."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

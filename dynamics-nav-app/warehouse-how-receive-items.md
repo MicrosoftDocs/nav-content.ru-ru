@@ -3,7 +3,7 @@ title: "Как принимать товары"
 description: "Если товары поступают на склад, настроенный на обработку складской приемки, необходимо получить строки выпущенных документов-источников, на основании которых были получены товары."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

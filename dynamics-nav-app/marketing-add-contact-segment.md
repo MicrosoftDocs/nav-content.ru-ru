@@ -3,7 +3,7 @@ title: "Определение контактов в сегменте"
 description: "После создания сегмента вы можете добавить в него контакты, например в рамках маркетинговой кампании, ориентированной на определенных клиентов."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

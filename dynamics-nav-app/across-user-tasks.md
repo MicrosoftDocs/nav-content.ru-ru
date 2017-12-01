@@ -2,7 +2,7 @@
 title: "Назначение задач и управление ими"
 description: "Узнайте, как назначать задачи пользователям, включая вашего бухгалтера, в Dynamics NAV"
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

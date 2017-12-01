@@ -3,7 +3,7 @@ title: "Создание контактных лиц"
 description: "Описывается, как создать карточку контакта для каждого нового лица или потенциального клиента, с которым у вас деловые отношения."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

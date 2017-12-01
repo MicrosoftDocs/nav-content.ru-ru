@@ -3,7 +3,7 @@ title: "Управление бюджетами основных средств"
 description: "Вы можете настраивать информацию о будущих инвестициях, выбытии и амортизации основных средств, чтобы было проще готовить бюджеты и прогнозы."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

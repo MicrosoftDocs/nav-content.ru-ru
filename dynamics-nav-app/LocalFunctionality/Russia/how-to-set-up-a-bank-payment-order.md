@@ -3,7 +3,7 @@ title: "Практическое руководство. Настройка пл
 description: "Платежные поручения используются для банковских платежей в государственный бюджет. Чтобы использовать платежное поручение, необходимо создать шаблон финансового журнала, как описано в следующей процедуре."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

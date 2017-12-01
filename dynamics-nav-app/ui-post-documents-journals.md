@@ -3,7 +3,7 @@ title: "Обзор учета документов и журналов"
 description: "Описывает действия при выполнении и способы учета документов и журналов."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

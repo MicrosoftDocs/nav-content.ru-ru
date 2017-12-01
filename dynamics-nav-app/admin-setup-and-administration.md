@@ -2,7 +2,7 @@
 title: "Административные задачи в Dynamics NAV"
 description: "Некоторые задачи в [!INCLUDE[d365fin](includes/d365fin_md.md)] требуют централизованного администрирования и настройки. Познакомьтесь с этими задачами и узнайте, что делать."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Обновление валютных курсов"
 description: "Для использования в бизнесе нескольких валют, можно настроить код по каждой используемой валюте и использовать внешний сервис валютного курса, например Yahoo."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

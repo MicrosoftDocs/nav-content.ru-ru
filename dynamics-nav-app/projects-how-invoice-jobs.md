@@ -3,7 +3,7 @@ title: "Создание счета продажи работы с целью в
 description: "Описывается, как выставлять счета клиентам за расходы по работе по мере выполнения проекта."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

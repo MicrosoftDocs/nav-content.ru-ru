@@ -3,7 +3,7 @@ title: "Как рассчитывать сроки планирования за
 description: "Функция расчета сроков позволяет рассчитать ближайшую дату, в которую товарная позиция будет доступна для отгрузки или доставки. Кроме того, с ее помощью создаются строки заявок для принимаемых дат."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

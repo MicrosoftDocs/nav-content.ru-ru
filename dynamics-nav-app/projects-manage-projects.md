@@ -3,7 +3,7 @@ title: "Рабочие задания с использованием ресур
 description: "Описывается, как использовать ресурсы, табели учета рабочего времени и работы для управления проектами."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

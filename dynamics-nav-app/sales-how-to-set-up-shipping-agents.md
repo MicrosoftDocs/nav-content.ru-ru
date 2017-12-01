@@ -3,7 +3,7 @@ title: "Как настраивать экспедиторов"
 description: "Для каждого экспедитора можно задать код и указать соответствующую информацию."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

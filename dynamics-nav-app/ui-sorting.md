@@ -3,7 +3,7 @@ title: "Упорядочивание данных с помощью функци
 description: "Функция сортировки помогает получить общее представление о данных. Например, вы можете отсортировать клиентов по коду валюты, чтобы получить выборку клиентов."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

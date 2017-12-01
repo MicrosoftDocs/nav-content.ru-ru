@@ -3,7 +3,7 @@ title: "Сведения о проектировании — коррекция 
 description: "Основная цель корректировки затрат — пересылка изменений стоимости от источников затрат получателям затрат в соответствии с методом учета стоимости товара и с целью правильной оценки запасов."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

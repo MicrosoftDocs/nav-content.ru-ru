@@ -3,7 +3,7 @@ title: "Производство"
 description: "После планирования спроса и выдачи материалов в соответствии с производственными спецификациями можно приступать к выполнению фактических производственных операций в последовательности, определенной маршрутизацией производственных заказов."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

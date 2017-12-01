@@ -2,7 +2,7 @@
 title: "Напоминание клиентам о просроченных платежа и сбор штрафов с них"
 description: "Описывается порядок отправки напоминаний клиентам о предстоящих платежах, а также добавление штрафов к платежам из-за задержки с оплатой."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

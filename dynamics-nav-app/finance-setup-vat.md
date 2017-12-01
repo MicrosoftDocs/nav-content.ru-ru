@@ -3,7 +3,7 @@ title: "О настройке налога на добавленную стои�
 description: "Убедитесь, что вы правильно рассчитываете, учитываете и отчитываетесь о НДС для продаж и покупок."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: "См. содержимое на других языках"
 description: "Содержимое справки по Dynamics NAV можно просматривать на других языках."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Настройка группы учета"
 description: "Обзор учетных групп, которые можно использовать для экономии времени и чтобы избежать ошибок при учете транзакций."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

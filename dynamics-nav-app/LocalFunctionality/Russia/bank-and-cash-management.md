@@ -3,7 +3,7 @@ title: "Управление банками и кассами"
 description: "Функциональная возможность для России для управления банками и кассами описывается в нескольких разделах."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

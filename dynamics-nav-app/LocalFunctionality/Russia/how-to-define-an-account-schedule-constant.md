@@ -3,7 +3,7 @@ title: "Как определить константы финансового о
 description: "Расширения для России позволяют определить константу для строки финансового отчета. Константы полезны, если значение финансового отчета не меняется."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

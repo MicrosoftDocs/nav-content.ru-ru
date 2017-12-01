@@ -3,7 +3,7 @@ title: "Сведения о проектировании — структура 
 description: "Узнайте, как использовать операции книги товаров как основной носитель номеров трассировки товара."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

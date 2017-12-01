@@ -3,7 +3,7 @@ title: "Сведения о проектировании — обработка 
 description: "В этом разделе описываются правила, которые применяются при планировании заказов в замороженной зоне."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

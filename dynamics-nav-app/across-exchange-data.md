@@ -2,7 +2,7 @@
 title: "Обмен данными"
 description: "Доступен обмен данными между [!INCLUDE[d365fin](includes/d365fin_md.md)] и внешними файлами или потоками в связи с выполнением бизнес-задач общего характера, таких как отправка и получение электронных документов и импорт или экспорт банковских файлов."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

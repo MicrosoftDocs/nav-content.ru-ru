@@ -3,7 +3,7 @@ title: "Настройка отчетов и печать на конкретн�
 description: "Узнайте о том, как задать принтер для отчета и использовать окно \"Выбор принтера\"."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

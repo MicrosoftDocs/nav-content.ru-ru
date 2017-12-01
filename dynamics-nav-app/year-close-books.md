@@ -3,7 +3,7 @@ title: "Обзор задач по закрытию книг"
 description: "Узнайте о процессе закрытия книг за финансовый год или период, а также о том, что происходит после закрытия в конце года."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

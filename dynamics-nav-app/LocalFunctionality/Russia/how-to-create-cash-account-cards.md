@@ -3,7 +3,7 @@ title: "Практическое руководство. Создание кар
 description: "Счета кассы похожи на банковские счета и создаются так же. Можно создать любое необходимое количество карточек счетов кассы."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

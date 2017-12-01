@@ -3,7 +3,7 @@ title: "Анализ движения денежных средств"
 description: "Описывается, как использовать диаграммы цикла кассы, дохода и расхода, движения денежных средств и прогноза движения денежных средств для анализа и будущего переноса кассы в организацию и из нее."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

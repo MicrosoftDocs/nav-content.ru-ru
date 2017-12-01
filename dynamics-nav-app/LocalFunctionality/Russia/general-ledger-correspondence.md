@@ -3,7 +3,7 @@ title: "Фин. корреспонденция"
 description: "Функция корреспонденции финансовых операций позволяет периодически создавать транзакцию корреспонденции, учитывать операции корреспонденции при учете транзакций главной книги и анализировать ряд отчетов для корреспонденции."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

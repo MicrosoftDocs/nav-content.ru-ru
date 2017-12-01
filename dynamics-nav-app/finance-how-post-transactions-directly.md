@@ -3,7 +3,7 @@ title: "Запись расходов или доходов непосредст
 description: "Для бизнес-операций, которые не представлены документами, например небольшими расходами или наличными поступлениями, можно создавать соответствующие транзакции путем учета строк журналов в окне финансового журнала."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

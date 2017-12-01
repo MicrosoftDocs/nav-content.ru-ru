@@ -3,7 +3,7 @@ title: "Использование Dynamics NAV без Outlook"
 description: "Решение Dynamics NAV можно использовать в качестве почтового ящика для бизнеса в Outlook, поскольку оно интегрировано с Office 365. Однако вы также можете работать без Outlook в браузере или на мобильном устройстве."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

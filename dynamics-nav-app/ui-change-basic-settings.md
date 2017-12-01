@@ -3,7 +3,7 @@ title: "Просмотр и изменение основных настроек
 description: "Узнайте, как изменять некоторые из базовых параметров в Dynamics NAV, например ролевой центр, компанию или рабочую дату."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

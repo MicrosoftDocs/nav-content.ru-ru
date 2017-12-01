@@ -2,7 +2,7 @@
 title: "Использование Excel для импорта данных в Dynamics NAV"
 description: "Используйте пакет конфигурации по умолчанию для добавления данных в Excel и импорта данных обратно в Dynamics NAV."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

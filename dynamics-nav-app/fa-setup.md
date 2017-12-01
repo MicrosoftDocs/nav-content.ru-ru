@@ -3,7 +3,7 @@ title: "Настройка основных средств"
 description: "Узнайте оп последовательности задач, которые следует выполнить для настройки основных средств, например машин или оборудования."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

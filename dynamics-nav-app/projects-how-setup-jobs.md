@@ -3,7 +3,7 @@ title: "Настройка цен работ и групп учета работ
 description: "Далее описывается процедура настройки общих сведений для работ, а также цен товаров для работ, ресурсов, счетов ГК и групп учета работ."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

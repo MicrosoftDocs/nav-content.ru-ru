@@ -3,7 +3,7 @@ title: "Применение платежей к неоплаченным док
 description: "Вы применяете суммы, уплаченные клиентами, к соответствующим документам продажи у учитываете платежи, чтобы обновить книги клиента, банка и ГК."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

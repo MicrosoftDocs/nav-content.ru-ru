@@ -3,7 +3,7 @@ title: "Как создавать размещения из внутренних
 description: "После размещения, но до подбора с целью удовлетворения требований производственного заказа или отгрузки товары хранятся на складе как часть доступных складских запасов."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

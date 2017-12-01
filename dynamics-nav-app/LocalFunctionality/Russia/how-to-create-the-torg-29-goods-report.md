@@ -3,7 +3,7 @@ title: "Практическое руководство. Создание тов
 description: "В отчете ТОРГ-29 показываются товарные документы, которые можно использовать для отправки приходных и расходных накладных для склада."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

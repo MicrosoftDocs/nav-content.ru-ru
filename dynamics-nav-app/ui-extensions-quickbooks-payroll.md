@@ -3,7 +3,7 @@ title: "Использование расширения импорта файл�
 description: "Описывает использование расширения для импорта транзакция по зарплате из службы Quickbooks Payroll."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

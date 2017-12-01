@@ -3,7 +3,7 @@ title: "Практическое руководство. Настройка на
 description: "Налоговый учет позволяет применять правила признания доходов и расходов в соответствии с местным законодательством. Вы можете активировать функции налогового учета в [!INCLUDE[navnow](../../includes/navnow_md.md)], настроив налоговые регистры."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

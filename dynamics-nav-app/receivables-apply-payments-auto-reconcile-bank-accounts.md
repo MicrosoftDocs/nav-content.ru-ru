@@ -3,7 +3,7 @@ title: "Задачи по выверке банковских счетов и п
 description: "Описываются задачи по выверке банковских счетов, счетов расчетов с клиентами и поставщиками, учету приходных кассовых поступлений и расходов и автоматическому применению платежей."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

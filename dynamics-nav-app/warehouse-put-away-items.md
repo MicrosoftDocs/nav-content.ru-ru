@@ -3,7 +3,7 @@ title: "Размещение товаров на складе"
 description: "Складское действие размещения товаров после получения или изготовления выполняется различными способами в зависимости от настроек функции управления складом."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

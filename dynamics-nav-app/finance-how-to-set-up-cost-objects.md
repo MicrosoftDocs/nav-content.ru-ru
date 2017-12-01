@@ -3,7 +3,7 @@ title: "Как настраивать объекты затрат"
 description: "Узнайте, как настраивать объекты затрат, которые аналогичны измерениям для главной книги."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

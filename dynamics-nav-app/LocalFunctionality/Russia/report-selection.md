@@ -3,7 +3,7 @@ title: "Выбор отчета"
 description: "Функция выбора отчетов позволяет одновременно напечатать список отчетов и настроить отчеты из списка, которые широко используются."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

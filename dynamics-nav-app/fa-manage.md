@@ -3,7 +3,7 @@ title: "Управление основными средствами"
 description: "Узнайте больше о функциях работы с основными средствами в Dynamics NAV и получите обзор порядка работы с основными средствами."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

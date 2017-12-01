@@ -3,7 +3,7 @@ title: "Основные средства"
 description: "В России имеются особые функции [!INCLUDE[navnow](../../includes/navnow_md.md)] для отслеживания и управления основными средствами."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

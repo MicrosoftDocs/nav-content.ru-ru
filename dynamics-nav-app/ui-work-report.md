@@ -3,7 +3,7 @@ title: "Планирование отчета для его выполнения
 description: "Узнайте о вводе отчета в очередь заданий и планирование его обработки в конкретные дату и время."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Отчеты по платежам (Россия)"
 description: "Функция отчетов о платежах для России позволяет просматривать на экране и в печатном виде оборотную ведомость по финансовым операциям поставщика для финансовых счетов с операциями финансовой книги, имеющими тип источника Поставщик."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

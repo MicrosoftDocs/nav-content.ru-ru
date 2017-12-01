@@ -3,7 +3,7 @@ title: "Работа с финансовыми отчетами"
 description: "Описывает использование финансовых отчетов для создания различных представлений, а также создание отчетов для анализа данных о финансовых результатах."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

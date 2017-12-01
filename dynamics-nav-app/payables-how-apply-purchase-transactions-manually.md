@@ -3,7 +3,7 @@ title: "Выверка платежей поставщикам вручную"
 description: "Для обработки, сопоставления и выверки платежей клиентов и возмещений вручную вы применяете сумму к одной или нескольким открытым операциям поставщика."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

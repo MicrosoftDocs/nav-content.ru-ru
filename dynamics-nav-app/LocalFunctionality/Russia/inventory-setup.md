@@ -3,7 +3,7 @@ title: "Настройка модуля \"Запасы\""
 description: "Как часть управления запасами, можно настроить запасы для назначения товарных издержек по покупкам из зарубежных стран и регионов в соответствии с весом или объемом, и использовать один столбец для первоначального учета и корректировок."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

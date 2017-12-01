@@ -3,7 +3,7 @@ title: "Складские задания"
 description: "После получения товаров и перед их отгрузкой выполняется ряд внутренних складских действий, чтобы обеспечить эффективный поток через склад, а также упорядочить и обработать складские запасы организации."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

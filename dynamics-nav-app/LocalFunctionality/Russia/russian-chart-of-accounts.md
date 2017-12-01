@@ -3,7 +3,7 @@ title: "Российский план счетов"
 description: "Поля **Тип источника** и **Код валюты** доступны в окне **План счетов** для России."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

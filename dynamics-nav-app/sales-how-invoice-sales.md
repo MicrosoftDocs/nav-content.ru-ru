@@ -3,7 +3,7 @@ title: "Создание счета продажи или заказа на пр
 description: "Описывается порядок создания справки-счета или счета продажи или заказа на продажу для записи вашего соглашения с клиентом на продажу продукции на определенных условиях."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Настройка цветных индикаторов, чтобы з�
 description: "Настраивайте цветные индикаторы на плитке очереди, чтобы установить индивидуальные обозначения действий очереди."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

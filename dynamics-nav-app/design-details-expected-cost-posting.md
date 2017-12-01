@@ -3,7 +3,7 @@ title: "Сведения о проектировании — учет ожида
 description: "Ожидаемые значения себестоимости представляют оценку, например, себестоимости приобретенного товара, регистрируемую до получения счета на товар."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

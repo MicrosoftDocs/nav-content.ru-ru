@@ -2,7 +2,7 @@
 title: "Коллекция прямого дебетования SEPA"
 description: "Создайте сбор платежей с помощью прямого дебетования и экспортируйте XML-файл, который можно отправить в электронный банк для обработки."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

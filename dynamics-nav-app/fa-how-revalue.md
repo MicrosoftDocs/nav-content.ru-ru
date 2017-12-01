@@ -3,7 +3,7 @@ title: "Переоценка основных средств"
 description: "Узнайте, как корректировать стоимость основных средств, записывая новый суммы как уменьшение стоимости или амортизацию, и учитывать дополнительную стоимость приобретения."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

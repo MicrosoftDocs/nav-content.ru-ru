@@ -3,7 +3,7 @@ title: "Настройка округления счета"
 description: "При создании счетов можно округлить их суммы. Кроме того, согласно местным правилам или стандартам может требоваться округление счетов определенным образом, например до суммы, кратной 0,05."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

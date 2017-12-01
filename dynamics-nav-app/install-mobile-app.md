@@ -3,7 +3,7 @@ title: "Использование Dynamics NAV на мобильном устр
 description: "Данные Dynamics NAV можно просматривать и редактировать на телефоне или планшете."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

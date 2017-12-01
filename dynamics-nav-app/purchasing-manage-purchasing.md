@@ -3,7 +3,7 @@ title: "Обзор задач управления закупками"
 description: "Описывает задачи по управлению покупками или процессами покупок, включая работу счетов покупки и заказов на покупку."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

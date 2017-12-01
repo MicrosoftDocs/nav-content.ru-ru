@@ -3,7 +3,7 @@ title: "Отклонение в оплате и отклонение от ски
 description: "Можно настроить отклонение в оплате для закрытия счетов, когда платеж не полностью покрывает сумму счета."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

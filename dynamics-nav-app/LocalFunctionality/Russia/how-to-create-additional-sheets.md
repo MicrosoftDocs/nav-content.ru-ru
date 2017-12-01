@@ -3,7 +3,7 @@ title: "Практическое руководство. Создание доп
 description: "В [!INCLUDE[navnow](../../includes/navnow_md.md)] можно создавать дополнительные листы на основе книг НДС покупок и книг НДС продаж."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

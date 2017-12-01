@@ -3,7 +3,7 @@ title: "Адреса организации"
 description: "Если организация имеет различные типы адресов, например юридический адрес или адрес для налоговой инспекции, их необходимо настроить в таблице \"Адрес организации\"."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

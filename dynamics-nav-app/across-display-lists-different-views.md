@@ -3,7 +3,7 @@ title: "Настройка объема подробностей, отображ
 description: "Списки можно открывать в подробных представлениях, содержащих дополнительные сведения, или в виде плиток, которые удобно просматривать."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

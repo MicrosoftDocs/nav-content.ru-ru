@@ -3,7 +3,7 @@ title: "Создание возможностей продаж"
 description: "Описывается создание возможностей из менеджеров по продажам или контактов в Dynamics NAV."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

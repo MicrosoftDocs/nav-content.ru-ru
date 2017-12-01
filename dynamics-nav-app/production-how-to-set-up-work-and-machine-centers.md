@@ -3,7 +3,7 @@ title: "Как настраивать производственные и маш
 description: "Карточка **Производственный центр** служит для организации фиксированных значений и требований определенного производственного ресурса и управления таким образом выходом продукции, производимой в данном рабочем центре."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Создание контактов организации и управ
 description: "Все внешние субъекты, с которыми у вас есть деловые отношения (например, потенциальные и текущие клиенты, поставщики и консультанты), настраиваются как контакты."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

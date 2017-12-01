@@ -3,7 +3,7 @@ title: "Практическое руководство. Создание отч
 description: "Отчет ТОРГ-1 служит для регистрации приемки товаров. В этом отчете перечисляются приходные накладные с указанием количества, качества, массы и содержимого упаковки в соответствии с условиями договора."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

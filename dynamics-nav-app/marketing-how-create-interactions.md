@@ -3,7 +3,7 @@ title: "Создание взаимодействий для контактов 
 description: "Описывается, как создавать взаимодействия ваших коммуникаций с контактами и сегментами в Dynamics NAV, например прямые почтовые рассылки."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

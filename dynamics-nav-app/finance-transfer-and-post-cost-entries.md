@@ -3,7 +3,7 @@ title: "Перемещение и операции учета затрат"
 description: "Перед определением распределений затрат необходимо понять, откуда поступают операции затрат."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

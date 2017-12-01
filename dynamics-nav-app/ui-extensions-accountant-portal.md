@@ -2,7 +2,7 @@
 title: "Использование портала бухгалтера"
 description: "Предоставляется информация о расширении портала бухгалтера."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

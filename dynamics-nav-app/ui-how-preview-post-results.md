@@ -3,7 +3,7 @@ title: "Просмотр операций перед учетом докумен
 description: "Вы можете проверить правильность операций в документах и журналах, прежде чем учитывать их в главной книге."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

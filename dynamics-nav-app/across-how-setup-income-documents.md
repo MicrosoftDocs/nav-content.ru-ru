@@ -3,7 +3,7 @@ title: "Настройка входящих документов"
 description: "Используйте функцию входящих документов для создания документов, управления задачами OCR, импорта счетов преобразования файлов изображений."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
