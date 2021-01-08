@@ -1,36 +1,51 @@
 {
-	"build": {
-		"content": [{
-			"files": ["**/**.md",
-				"**/**.yml"
-			],
-			"exclude": ["**/obj/**",
-				"**/includes/**",
-				"README.md",
-				"LICENSE",
-				"LICENSE-CODE"
-			]
-		}],
-		"resource": [{
-			"files": [
-				"**/*.png",
-				"**/*.jpg",
-				"**/*.gif"
-			],
-			"exclude": [
-				"**/obj/**",
-				"**/includes/**"
-			]
-		}],
-
-		"overwrite": [],
-		"externalReference": [],
-		"globalMetadata": {
-			"searchScope": ["DynamcisNAV"],
-			"uhfHeaderId": "MSDocsHeader-Dynamics365",
-			"titleSuffix": "Dynamics NAV"
-		},
-		"template": "op.html",
-		"dest": "articles"
-	}
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/xrefmap.yml",
+          "**/includes/**",
+          "**/_themes/**",
+          "**/_themes.pdf/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.gif",
+          "**/*.jpg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "searchScope": [
+        "DynamicsNAV"
+      ],
+      "uhfHeaderId": "MSDocsHeader-Dynamics365",
+      "titleSuffix": "Dynamics NAV App",
+      "breadcrumb_path": "/dynamics-nav-app/bread/toc.json",
+      "extendBreadcrumb": true
+    },
+    "fileMetadata": {},
+    "template": [],
+    "dest": "dynamics-nav-app",
+    "markdownEngineName": "markdig"
+  }
 }

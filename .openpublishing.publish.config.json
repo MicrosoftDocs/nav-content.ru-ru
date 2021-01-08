@@ -1,11 +1,12 @@
 {
-  "build_entry_point": "docs",
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
       "docset_name": "dynamics-nav-app",
       "build_source_folder": "dynamics-nav-app",
       "build_output_subfolder": "dynamics-nav-app",
-      "locale": "ru-ru",
+      "locale": "ru-RU",
       "monikers": [],
       "open_to_public_contributors": false,
       "type_mapping": {
@@ -14,12 +15,11 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes",
-      "version": 0
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [
-    "edupont@microsoft.com"
+    "navualocbld@microsoft.com"
   ],
   "branches_to_filter": [
     "live-sxs"
@@ -30,13 +30,7 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.ru-ru",
-      "branch": "master",
-      "branch_mapping": {}
-    },
-    {
-      "path_to_root": "_themes.pdf",
-      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.ru-RU",
       "branch": "master",
       "branch_mapping": {}
     },
@@ -50,22 +44,5 @@
       }
     }
   ],
-  "branch_target_mapping": {
-    "live": [
-      "Publish",
-      "Pdf"
-    ],
-    "master": [
-      "Publish",
-      "Pdf"
-    ]
-  },
-  "need_generate_pdf_url_template": true,
-  "targets": {
-    "Pdf": {
-      "template_folder": "_themes.pdf"
-    }
-  },
-  "need_generate_intellisense": false,
-  "need_generate_pdf": false
+  "need_generate_pdf_url_template": false
 }
