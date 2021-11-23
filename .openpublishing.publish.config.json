@@ -1,6 +1,4 @@
 {
-  "need_generate_pdf": false,
-  "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
       "docset_name": "dynamics-nav-app",
@@ -21,17 +19,19 @@
   "notification_subscribers": [
     "navualocbld@microsoft.com"
   ],
+  "sync_notification_subscribers": null,
   "branches_to_filter": [
     "live-sxs"
   ],
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
+  "contribution_branch_mappings": null,
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft.ru-RU",
-      "branch": "master",
+      "branch": "main",
       "branch_mapping": {}
     },
     {
@@ -40,9 +40,12 @@
       "branch": "live",
       "branch_mapping": {
         "live": "live",
-        "master": "master"
+        "main": "main"
       }
     }
   ],
+  "branch_target_mapping": null,
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false,
   "need_generate_pdf_url_template": false
 }
